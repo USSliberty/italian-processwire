@@ -1,4 +1,4 @@
-italian-processwire
+Italian Language Pack Processwire
 ===================
 
-Italian translate for ProcessWire 2.2
+Italian translate for ProcessWire 2.3
