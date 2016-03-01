@@ -1,1 +1,18 @@
-{"file":"wire\/core\/Fieldtype.php","textdomain":"wire--core--fieldtype-php","translations":{"a528ac2d2f326703f458dec14cba03e5":{"text":"Caricamento automatico"},"4cc6684df7b4a92b1dec6fce3264fac8":{"text":"Globale"},"ad1bc8634063998074151ecfaaf2e6a1":{"text":"Se l'opzione \u00e8 selezionata, TUTTE le pagine avranno questo campo. Tale campo sar\u00e0 aggiunto automaticamento su ogni Gruppo di campi\/Template che non lo hanno. Questo non vuole dire che questo campo \u00e8 obbligatorio, ma solo che \u00e8 presente in tutte le pagine."},"2af316156c9ea64d6d56bfe221486efd":{"text":"Se selezionato, i dati per questo campo verranno caricato in ogni istanza della pagina, anche se non vengono usati. Se non selezionato, i dati verranno caricati quando servono e solo se si accede direttamente al campo."}}}
+{
+    "file": "wire\/core\/Fieldtype.php",
+    "textdomain": "wire--core--fieldtype-php",
+    "translations": {
+        "a528ac2d2f326703f458dec14cba03e5": {
+            "text": "Caricamento automatico"
+        },
+        "4cc6684df7b4a92b1dec6fce3264fac8": {
+            "text": "Globale"
+        },
+        "ad1bc8634063998074151ecfaaf2e6a1": {
+            "text": "Se selezionata, TUTTE le pagine avranno questo campo. Tale campo sar\u00e0 aggiunto automaticamente su ogni gruppo di campi\/template che non lo hanno. Questo non vuole dire che questo campo \u00e8 obbligatorio, ma solo che \u00e8 presente in tutte le pagine."
+        },
+        "2af316156c9ea64d6d56bfe221486efd": {
+            "text": "Se selezionata, i dati per questo campo verranno caricato in ogni istanza della pagina, anche se non vengono usati. Se non selezionata, i dati verranno caricati quando servono e solo se si accede direttamente al campo."
+        }
+    }
+}

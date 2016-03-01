@@ -1,0 +1,51 @@
+{
+    "file": "wire\\modules\\Fieldtype\\FieldtypeComments\\CommentForm.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--commentform-php",
+    "translations": {
+        "6f207f8b5dfe1eebac63467930df5189": {
+            "text": "="
+        },
+        "55db28530640e9fb41ebf71ea8afce72": {
+            "text": "Commento del Post"
+        },
+        "a3676fa92ee7acc9486a220da4580c7e": {
+            "text": "Grazie, la tua richiesta \u00e8 stata salvata."
+        },
+        "5443970b690d94d32a481cac5cf31cb6": {
+            "text": "Il tuo commento \u00e8 stato salvato e sar\u00e0 visibile non appena verr\u00e0 approvato dal moderatore."
+        },
+        "af54d31f765138998bf8d2903d4095ce": {
+            "text": "La tua richiesta non \u00e8 stata salvata a causa di uno o pi\u00f9 errori. Per favore controlla di aver compilato tutti i campi prima di inviare nuovamente."
+        },
+        "614cffa523202658a898e34a5d94d05e": {
+            "text": "Il tuo nome"
+        },
+        "cd5b60538fc5fdd7a7280d67e4a12089": {
+            "text": "La tua E-Mail"
+        },
+        "f359c2373cfa104cd9be66f79047deb5": {
+            "text": "Il tuo sito"
+        },
+        "8dd3177b8d343a6b39f8e817f528f3db": {
+            "text": "Scegli una valutazione in stelle"
+        },
+        "8413c683b4b27cc3f4dbd4c90329d8ba": {
+            "text": "Commenti"
+        },
+        "a4d3b161ce1309df1c4e25df28694b7b": {
+            "text": "Invia"
+        },
+        "8cc46df5ae23686a6fbb8e132f4aaf26": {
+            "text": "Risposte"
+        },
+        "b1c94ca2fbc3e78fc30069c8d0f01680": {
+            "text": "Tutti"
+        },
+        "5256dc211b8fc0ac5ea5e2418e18bf98": {
+            "text": "Notifiche E-Mail"
+        },
+        "d15305d7a4e34e02489c74a5ef542f36": {
+            "text": "="
+        }
+    }
+}

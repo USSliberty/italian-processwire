@@ -1,0 +1,111 @@
+{
+    "file": "wire\\modules\\Inputfield\\InputfieldPageTable\\InputfieldPageTable.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpagetable--inputfieldpagetable-module",
+    "translations": {
+        "30069b6e08c01b280dea5aec4bf871e0": {
+            "text": "[vuoto]"
+        },
+        "140092f149378fe66bcd1b7e472cde79": {
+            "text": "Configura questo campo con una selezione di template prima di utilizzarlo."
+        },
+        "541d5efe9732bde27704a4d578691629": {
+            "text": "Inserisci uno o pi\u00f9 colonne nelle impostazioni prima di usare questo campo."
+        },
+        "ff63ad7fe05686c64e062c5c034ad04f": {
+            "text": "Sono stati trovati dei figli che possono essere aggiunti a questa tabella. Seleziona il box di fianco ad ognuno che vuoi aggiungere."
+        },
+        "4c41e0bd957698b58100a5c687d757d9": {
+            "text": "Scegli tutto"
+        },
+        "6a73e132a6818bc067a0cdec443689a1": {
+            "text": "="
+        },
+        "3c59f93c033e789777be18c1ad66b13b": {
+            "text": "Aggiunte %d pagina(e) esistenti alla tabella"
+        },
+        "9ea0c76f6c8f1bc93ccb7f5825d8da15": {
+            "text": "Campi della tabella che vuoi visualizzare nell'admin"
+        },
+        "420fb882b998481add0d526522ffff81": {
+            "text": "Inserisci i nomi dei campi (1 per linea) che vuoi visualizzare come colonne nella tabella. Per specificare la larghezza della colonna per il campo specifica (\"nome_campo=30\" dove \"30\" \u00e8 la larghezza (in percentuale) della colonna. Quando vengono specificate le larghezze, assicurati che il totale sia 100."
+        },
+        "290cc1b749092b6f62035343a4e4f9eb": {
+            "text": "Puoi specificare qualsiasi campo nativo o personalizzati. Puoi anche usare sottocampi (campo.sottocampo) con campi che contengono propriet\u00e0 multiple, come riferimenti alla pagina."
+        },
+        "c775db1b4b86e060f703a4e7cedc292f": {
+            "text": "Campi personalizzati assegnati ai tuoi template selezionati includono i seguenti:"
+        },
+        "8ea5a88f78fabcfdc906c9cb8ec013f2": {
+            "text": "Per vedere una lista di possibili campi personalizzati, scegli un template nella scheda Dettagli, Salva e ritorna qui."
+        },
+        "34ff6bbc0c075f35e92dc68a218b7cc2": {
+            "text": "Formato automatico del nome della pagina"
+        },
+        "9264201faa8a6ca75fc27583eafe1e88": {
+            "text": "Se popolato, le pagine verranno create automaticamente usando questo formato per il nome ogni volta che un utente cliccher\u00e0 sul pulsante \"Aggiungi nuovo\". Se lasciato vuoto, all'utente verr\u00e0 richiesto di inserire un nome per la pagina prima della sua creazione."
+        },
+        "e4f63a8ac32b32675310ab45dd15e6cb": {
+            "text": "Se il nome della pagina contiene caratteri non-alfanumerici, viene considerata come un formato [PHP date](http:\/\/www.php.net\/manual\/en\/function.date.php). Se contiene solo caratteri alfanumerici allora verr\u00e0 utilizzato direttamente, con un numero appeso alla fine (se necessario) per assicurare l'univocit\u00e0."
+        },
+        "9ad1067becc6f575ac4c13c7294fdffe": {
+            "text": "Esempio: **Ymd:His** \u00e8 un buon formato per i nomi delle pagine basati su data\/ora."
+        },
+        "1b599a361b1d70e9e618b990e78c3bac": {
+            "text": "Comportamento della finestra modale di modifica"
+        },
+        "ddc5451d4ec8474b52d0c29aa3a0d475": {
+            "text": "Chiudi automaticamente al salvataggio (default)"
+        },
+        "7d3bd56da0d093058cd12ccf10411b3d": {
+            "text": "Lascia la finestra aperta, chiudi manualmente"
+        },
+        "fd77179553ab23331a3bb360662cbf47": {
+            "text": "="
+        },
+        "0a897fae6e81285f1da55dd87457ec94": {
+            "text": "Inputfield per accompagnare FieldtypePageTable"
+        },
+        "26fbcf76e1954ff7641a38a979ac4b62": {
+            "text": "="
+        },
+        "ab11deae48aaa0e5cadf227120ed4ade": {
+            "text": "Nome"
+        },
+        "848656e110ec0bd90b47b5bf7c961c95": {
+            "text": "Creata"
+        },
+        "872db811a5e431cc819ba322361af380": {
+            "text": "Modificata"
+        },
+        "f45cf450f2435b8e50cee88a4ac15112": {
+            "text": "Pubblicata"
+        },
+        "036eabaedf4f638437a5ecdf7582d541": {
+            "text": "Modificata da"
+        },
+        "5058207150146a31a3722ea410dac987": {
+            "text": "Creata da"
+        },
+        "6ca734172827db670a1e2ea88e6c5401": {
+            "text": "="
+        },
+        "fab3cb63defc8837e34f8ff45d16299f": {
+            "text": "Percorso"
+        },
+        "df286bfb6dd8fa62b0271fac208797fe": {
+            "text": "="
+        },
+        "615d41dc9054191178b392de366b7168": {
+            "text": "Genitore"
+        },
+        "1817eacf444b166d0c26160f2176ae96": {
+            "text": "Figli"
+        },
+        "8e1c1f71742a04abf811af399e149b72": {
+            "text": "Stato"
+        },
+        "d02df721111f58d691538543749d7ce0": {
+            "text": "Aggiungi Nuova"
+        }
+    }
+}

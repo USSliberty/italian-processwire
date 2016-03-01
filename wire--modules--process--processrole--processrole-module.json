@@ -1,1 +1,69 @@
-{"file":"wire\/modules\/Process\/ProcessRole\/ProcessRole.module","textdomain":"wire--modules--process--processrole--processrole-module","translations":{"a5cd3ed116608dac017f14c046ea56bf":{"text":"Ruoli"},"e5e77ccf470959bc6be60127730908b5":{"text":"Gestisce i ruoli degli utenti e quali permessi sono inclusi"}}}
+{
+    "file": "wire\/modules\/Process\/ProcessRole\/ProcessRole.module",
+    "textdomain": "wire--modules--process--processrole--processrole-module",
+    "translations": {
+        "a5cd3ed116608dac017f14c046ea56bf": {
+            "text": "="
+        },
+        "e5e77ccf470959bc6be60127730908b5": {
+            "text": "Gestisce i ruoli degli utenti e quali permessi sono inclusi"
+        },
+        "d08ccf52b4cdd08e41cfb99ec42e0b29": {
+            "text": "Permessi"
+        },
+        "e0c8b59640bc35bac606431203d2d9b0": {
+            "text": "Per descrizioni dettagliate su questi permessi, visitare [la relativa documentazione](%s)"
+        },
+        "ae9a363b2dfa9181da7ffde8e37813b5": {
+            "text": "barrato"
+        },
+        "cea791d6258d032e4742a9a99f1ecf11": {
+            "text": "Selezionando i permessi di modifica delle pagine in questa sezione non garantisce di per s\u00e9 l'accesso in modifica a nessuna pagina. Invece, ti permette di configurare l'accesso in modifica per questo ruolo nelle impostazioni di accesso dei template. Il permesso di modifica delle pagine \u00e8 ci\u00f2 che permette di visualizzare le Pagine nell'interfaccia amministratore. Questo permesso \u00e8 raccomandato per tutti gli utenti amministratori."
+        },
+        "d923671ad010412a573db8ccdbddc911": {
+            "text": "Indica che i permessi possono opzionalmente essere aggiunti o revocati ai ruoli nelle impostazioni di accesso dei template. Selezionando il permesso lo abiliti per tutti i template modificabili. Se vuoi assegnare uno di questi permessi per pagina solamente ad un ruolo usando uno specifico template, dovresti lasciarlo deselezionato e scegliere invece il permesso dalla scheda \"Accesso\" nel template."
+        },
+        "64a4d3473343a325080c311b47099be6": {
+            "text": "I permessi di aggiunta pagina e creazione pagina possono essere aggiunti solo dalle impostazioni di accesso del template e sono mostrati qui solo per scopi informativi."
+        },
+        "efc30c4ed12a9e95e4fad5ae9be115fb": {
+            "text": "Indica un template che aggiunge il permesso. Clicca per aprire una finestra sulle impostazioni di accesso del template. Se il nome del template ha %s indica che il permesso \u00e8 stato aggiunto al template, ma sostituito dalla tua selezione in questa pagina."
+        },
+        "dce4a957c0c6225be564be146d71b245": {
+            "text": "Lo stesso di sopra eccetto che il permesso \u00e8 revocato dal template (anzich\u00e9 aggiunto)."
+        },
+        "c6cc7e92b9fc348360b34c024086432c": {
+            "text": "nome|descrizione"
+        },
+        "dc3abfaff3190368a09f01d6589eeeea": {
+            "text": "Aggiungi figli alle pagine usando il template"
+        },
+        "9c281188158fc34cf5afc9d2820a761c": {
+            "text": "Crea pagine usando il template"
+        },
+        "faa5826bce6656df7f63cbeb5b2a85fe": {
+            "text": "Questo permesso pu\u00f2 essere assegnato solo nelle impostazioni di accesso al template."
+        },
+        "9bfb6e6af6e6793bfa9387e728187c87": {
+            "text": "(richiesto)"
+        },
+        "3cac60e98937c01a72ef6e6cfe66f90f": {
+            "text": "Questo permesso \u00e8 richiesto per tutti i ruoli."
+        },
+        "1def073965e264ae40ae1d9877290fd3": {
+            "text": "applica a tutti i template modificabili"
+        },
+        "26c77f67debae46ee5b0a12626817076": {
+            "text": "%1$s aggiunto dal template %2$s, clicca per modificare"
+        },
+        "37ef521112472af77d381e834922a7af": {
+            "text": "%1$s revocato dal template %2$s, clicca per modificare"
+        },
+        "1754bfdd544e98486c2ed46753ca8edd": {
+            "text": "Selezionando questo box aggiungi il permesso per tutti i template modificabili, ma questo permesso \u00e8 gi\u00e0 stato applicato separatamente da uno o pi\u00f9 template. Per mantenere le cose ordinate, suggeriamo di rimuovere il permesso da quei template prima di abilitarlo per tutti. Sei sicuro di volerlo attivare ora?"
+        },
+        "95c58584c58685c05c1a7cc706416455": {
+            "text": "non applicato a nessun template"
+        }
+    }
+}

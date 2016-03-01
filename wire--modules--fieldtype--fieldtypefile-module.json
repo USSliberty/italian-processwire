@@ -1,0 +1,90 @@
+{
+    "file": "wire\\modules\\Fieldtype\\FieldtypeFile.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypefile-module",
+    "translations": {
+        "3e560c05ba6d07bcd41ac1053b5b9437": {
+            "text": "Il campo \"%s\" non \u00e8 ancora pronto all'uso e deve essere configurato."
+        },
+        "a8d5114d10f7846bf0263c4e4207137e": {
+            "text": "Le impostazioni non sono ancora state salvate."
+        },
+        "d950e30995efd1abcc2dc812404f03c5": {
+            "text": "Verifica le impostazioni su questa pagina e salva ancora una volta (anche se non ci sono stati cambiamenti) per confermare."
+        },
+        "435ed7e9f07f740abf511a62c00eef6e": {
+            "text": "nome del file"
+        },
+        "abc5c518b64936be795f070ed2adf84f": {
+            "text": "Estensioni valide per il file"
+        },
+        "b3f2fb9ff683cc6bb4e353a8c443260c": {
+            "text": "Inserisci tutte le estensioni permesse per questo campo di upload. Separale con uno spazio. Non aggiungere punti o virgole. Il campo non distingue tra maiuscole e minuscole."
+        },
+        "6231c154d164f467041abbb0151816dc": {
+            "text": "Numero massimo di file permessi"
+        },
+        "2383ea51d67a0b84eda10737be272a9e": {
+            "text": "0=Nessun limite"
+        },
+        "f217d0fdc1aad53234d09e7107b25316": {
+            "text": "Valore formattato"
+        },
+        "f09906b55a7a66786de08cb25550a2c8": {
+            "text": "Scegli il tipo di valore con cui vuoi che il campo sia inizializzato quando viene richiamato dalle API nel front-end del sito."
+        },
+        "ffb520d31a51841782cf1cba617fc875": {
+            "text": "Quando la formattazione \u00e8 disattivata, il valore sar\u00e0 sempre un array (WireArray)."
+        },
+        "6e7e8b4097cb9c2651e291b007b8efad": {
+            "text": "Automatico (elemento singolo o null quando il numero massimo di file \u00e8 impostato a 1, altrimenti un array di elementi)"
+        },
+        "b93d9ddf4fe98458456fa4a117acf665": {
+            "text": "Array di elementi"
+        },
+        "fd392fe52f347bbf7391f791b963416d": {
+            "text": "Singolo elemento (null se vuoto)"
+        },
+        "6f836d738a527f80156286edc9d1f829": {
+            "text": "Stringa di testo visualizzata (fornita da te)"
+        },
+        "ad3f5d66e216a4f1b65654b8b70d592f": {
+            "text": "Stringa di testo visualizzata"
+        },
+        "fefb41e13016890d511b8d55d8057c37": {
+            "text": "Scrivi la stringa di testo che vuoi mostrare come valore di questo campo. Se il campo contiene pi\u00f9 elementi, la stringa verr\u00e0 visualizzata pi\u00f9 volte. Se il campo non contiene elementi, verr\u00e0 usata una stringa vuota."
+        },
+        "839047fe3f6109257399fe301ddb7912": {
+            "text": "Puoi usare uno dei seguenti tag:"
+        },
+        "a1ede0a9a3c447cb83c7b6598dc556ff": {
+            "text": "Valore preimpostato (se vuoto)"
+        },
+        "05ac72cc4df427baf9db44228a577ed7": {
+            "text": "Opzionalmente scegli una pagina che conterr\u00e0 il valore di default (nello stesso campo). Potresti voler creare una pagina specificatamente con questo scopo."
+        },
+        "b17288f2ed130badc7ac8919f95fd5f1": {
+            "text": "Formattatore testo (per le descrizioni dei file)"
+        },
+        "8d664d296530bbabc76043e4e499b272": {
+            "text": "Scegli uno o pi\u00f9 formattatori di testo (e il loro ordine) che verranno applicati alla descrizione dei file quando la formattazione \u00e8 attiva. HTML Entity Encoder \u00e8 raccomandato come minimo."
+        },
+        "3fc82a72e38b059cea88dcfbdaeafff8": {
+            "text": "Usa i Tag?"
+        },
+        "3a37a820d95c0f598d6ea38f34716c31": {
+            "text": "Se selezionato, il campo conterr\u00e0 un opzione per i tag in aggiunta alla descrizione."
+        },
+        "00f6c76a7a83b1d7aab61a93e513e9d5": {
+            "text": "Tipo di Inputfield"
+        },
+        "23f8d89e38fb131310ab885bad04b966": {
+            "text": "Il tipo di campo che verr\u00e0 utilizzato per contenere l'input."
+        },
+        "91f3a2c0e4424c87689525da44c4db11": {
+            "text": "File"
+        },
+        "2cb39a29b55cb3b4480c782dbe367518": {
+            "text": "Campo che contiene uno o pi\u00f9 file"
+        }
+    }
+}

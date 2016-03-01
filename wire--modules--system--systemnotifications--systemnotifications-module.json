@@ -1,0 +1,78 @@
+{
+    "file": "wire\\modules\\System\\SystemNotifications\\SystemNotifications.module",
+    "textdomain": "wire--modules--system--systemnotifications--systemnotifications-module",
+    "translations": {
+        "09bcb72d61c0d6d1eff5336da6881557": {
+            "text": "Scade"
+        },
+        "3228f89d6d7bef8bf9c32fa47cbb82b0": {
+            "text": "errore 404: %s"
+        },
+        "f1aac9258ac4fde43df9a1c10945c133": {
+            "text": "Utente ha effettuato il login: %s"
+        },
+        "6749d5c7c5998b79513c6257606ffedc": {
+            "text": "Login fallito: %s"
+        },
+        "cb44f59c366c2adb4a35ef342be91163": {
+            "text": "Utente ha effettuato il logout: %s"
+        },
+        "3ea680550091f52ef7d4f2120a9a0032": {
+            "text": "Attenzione: stai modificando questa pagina in un altra finestra (modifica cominciata %s)"
+        },
+        "187b4dd25b5e8329dfacc1528ac55028": {
+            "text": "Attenzione: l'utente \"%s\" sta correntemente modificando questa pagina (modifica cominciata %s)"
+        },
+        "74459ca3cf85a81df90da95ff6e7a207": {
+            "text": "secondo"
+        },
+        "975a85a4ffa56e23c70e2bbeaf405ac7": {
+            "text": "secondi"
+        },
+        "d8bd79cc131920d5de426f914d17405a": {
+            "text": "minuto"
+        },
+        "1442a7b6e2c20b27775175eecba84dac": {
+            "text": "minuti"
+        },
+        "896c55cc5e46fab38ce9f51ebf7bfcd3": {
+            "text": "ora"
+        },
+        "73cdddd7730abfc13a55efb9f5685a3b": {
+            "text": "ore"
+        },
+        "628b7db04235f228d40adc671413a8c8": {
+            "text": "giorno"
+        },
+        "44fdec47036f482b68b748f9d786801b": {
+            "text": "giorni"
+        },
+        "97bc592b27a9ada2d9a4bb418ed0ebed": {
+            "text": "ora"
+        },
+        "9aa587bfb76008ca6b764747b7e43aff": {
+            "text": "da adesso"
+        },
+        "6d0a578ca2f2c0e792fc923002fccbe3": {
+            "text": "fa"
+        },
+        "0914afe426319fe974cef0952de1ed3b": {
+            "text": "%d nuovo messaggio"
+        },
+        "c92bdbaba42dc068673bfa173e7be426": {
+            "text": "%d nuovi messaggi"
+        },
+        "6ab40b9da8f74c8299cdb3afba46eda6": {
+            "text": "%d nuovo warning"
+        },
+        "164d23ca0285a3061ee20f166343f068": {
+            "text": "%d nuovi warning"
+        },
+        "246262550fe3b31379bb81b656e4d64f": {
+            "text": "%d nuovo errore"
+        },
+        "f476d7ef955355a5633a914abbe1f3c1": {
+            "text": "%d nuovi errori"
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "file": "wire\\modules\\LanguageSupport\\LanguageSupportPageNames.module",
+    "textdomain": "wire--modules--languagesupport--languagesupportpagenames-module",
+    "translations": {
+        "ae739a236065a45c64ad51aacb19498c": {
+            "text": "Attiva?"
+        },
+        "35b837a5674ea74e192fc0fa8b68f46c": {
+            "text": "Prefisso per i numeri di pagina per la paginazione"
+        },
+        "6119a76d8e8915737cda0e4151922c06": {
+            "text": "Il numero di pagina verr\u00e0 attaccato a questa parola negli URL paginati per questa lingua. Se omesso, \"%s\" verr\u00e0 usato."
+        },
+        "5b5fec43bb1313c56d2e944d9567cd96": {
+            "text": "Lingua di default per l'URL dell'homepage \u00e8 la stessa dell'URL radice?"
+        },
+        "6fbae724946d15c837d8d88af35ed18c": {
+            "text": "Scegli **Si** se vuoi che l'homepage della tua lingua di default sia accessibile all'URL **\/** (raccomandato). Scegli **No** se vuoi che l'URL radice esegua un redirect a **\/name\/** (dove \/name\/ \u00e8 il nome della tua homepage per la lingua di default)."
+        },
+        "fccde8e7592dffb93fe985bc462771c0": {
+            "text": "Questa impostazione avr\u00e0 effetto solo sul comportamento dell'homepage. Se scegli No, dovrai essere sicuro che la tua homepage abbia un nome definito per la lingua di default."
+        },
+        "ff88cd079dc8d2fb836b8807f5d266a4": {
+            "text": "Si - L'URL radice mostra l'homepage per la lingua di default (raccomandato)"
+        },
+        "f1bd84fbcee1b287fe538f7df1cbd700": {
+            "text": "No - L'URL radice esegue un redirect a: \/name\/"
+        }
+    }
+}

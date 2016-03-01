@@ -1,0 +1,15 @@
+{
+    "file": "wire\\modules\\Process\\ProcessUser\\ProcessUserConfig.php",
+    "textdomain": "wire--modules--process--processuser--processuserconfig-php",
+    "translations": {
+        "512bc1289fe1ab9723f6ed9d3d6e651e": {
+            "text": "Numero massimo di utenti da visualizzare nel menu"
+        },
+        "59b101e7ae1c41c851d1c05341347023": {
+            "text": "Quando il numero di utenti nel sistema eccede questo valore, il menu di navigazione mostrer\u00e0 i ruoli con il conteggio degli utenti piuttosto che gli utenti."
+        },
+        "77cb5109c9ae7f1f6359fefd4f8dbfaa": {
+            "text": "Specifica un valore tra 1 e 100 (default=25)"
+        }
+    }
+}

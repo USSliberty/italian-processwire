@@ -1,0 +1,141 @@
+{
+    "file": "wire\\modules\\System\\SystemNotifications\\SystemNotificationsConfig.php",
+    "textdomain": "wire--modules--system--systemnotifications--systemnotificationsconfig-php",
+    "translations": {
+        "521c36a31c2762741cf0f8890cbe05e3": {
+            "text": "="
+        },
+        "d15305d7a4e34e02489c74a5ef542f36": {
+            "text": "="
+        },
+        "945d5e233cf7d6240f6b783b36a374ff": {
+            "text": "Sinistra"
+        },
+        "92b09c7c48c520c3c55e497875da437c": {
+            "text": "Destra"
+        },
+        "64930416d9c5663de5d4ef880d8e0b0e": {
+            "text": "Stato notifiche"
+        },
+        "2e9cdb9adc7f7c13f750d7fe7ab46979": {
+            "text": "Se spento, le notifiche non verranno visualizzate."
+        },
+        "1983cbef846882d5eb60db0f1af3cf4a": {
+            "text": "Seguire le modifiche della pagina?"
+        },
+        "6f089aa14345991d2dc5234b61b2841c": {
+            "text": "Notifica gli utenti quando provano a modificare una pagina che \u00e8 gi\u00e0 stata modificata."
+        },
+        "51bcb0deba18f3c17526ac9589275a1b": {
+            "text": "Ordine delle notifiche"
+        },
+        "452fe939bf3b82240e39d4e32402f191": {
+            "text": "Scegli in quale ordine le notifiche devono essere mostrate."
+        },
+        "dbc0773df87763dba658c0718cb23cbd": {
+            "text": "Dalle nuove alle vecchie"
+        },
+        "795c06257e98282a98f9b4372343154c": {
+            "text": "Dalle vecchie alle nuove"
+        },
+        "2871a976bc7a1ed674bc578c34af81ee": {
+            "text": "Attiva gli hook per le notifiche automatiche"
+        },
+        "b106396b3992fc580dd88f36d98c32b5": {
+            "text": "Non appena si verifica uno di questi eventi, l'utente di sistema indicato sopra verr\u00e0 notificato."
+        },
+        "53af239ee5d3e261545dededcb6ffd57": {
+            "text": "404 pagina non trovata"
+        },
+        "926febaa3f486221378c09d2fb900eff": {
+            "text": "Login utente con successo oppure no"
+        },
+        "6d204ddabcf344603448790344217ec5": {
+            "text": "Logout utente"
+        },
+        "1bb51316162ffaecdae67003acc36d00": {
+            "text": "Questi sono solamente esempi di notifiche per scopi dimostrativi."
+        },
+        "d9b71f69d8afdf5b522a5529ec7434f5": {
+            "text": "Nome dell'utente che ricever\u00e0 le notifiche di sistema."
+        },
+        "2495a34a1379d1325ca518e3c0b2b098": {
+            "text": "Tempo tra gli update"
+        },
+        "d4f7e0a594dd8d1eb92264b3d43c507d": {
+            "text": "Quanto spesso devo controllare le notifiche (in millisecondi). Esempio: 5000 significa 5 secondi."
+        },
+        "534fd46732986cba0efeda8701592427": {
+            "text": "Formato data"
+        },
+        "414f2eb480e8f38b6f93f41ca28279fb": {
+            "text": "Formato data usato per le notifiche. Utilizzare il formato date() o strftime(), oppure formati \"relative\" per la data\/ora, \"rel\" per data\/ora abbreviati."
+        },
+        "64a87d656e89eca4f73f4ecda74480f5": {
+            "text": "Icona del messaggio"
+        },
+        "b454aae1916829fd90512b2c31a01e68": {
+            "text": "Icona di avvertimento"
+        },
+        "c59e636f1291af56f91d53c3a51ac8f8": {
+            "text": "Icona di errore"
+        },
+        "b386baeabf452105b52ddd8a8dbebf1c": {
+            "text": "Ritardo"
+        },
+        "fa3ed13e0d1d3606900f0d0fcb96b94e": {
+            "text": "Per quanto tempo devono essere visibili i messaggi (in millisecondi)"
+        },
+        "a24efc3293365b4ca44161c70fffe1b7": {
+            "text": "Ritardo dei messaggi di errore"
+        },
+        "0673410c6de314e9317a7f593f6a99b6": {
+            "text": "Per quanto tempo devono essere visibili i messaggi di errore (in millisecondi)"
+        },
+        "cc7148e90f03a6539cd11c343d8fdf8a": {
+            "text": "Piena opacit\u00e0"
+        },
+        "4f8b65fe69b4b13c2a02bf47648c9a34": {
+            "text": "Opacit\u00e0 dei messaggi (0.1 - 1.0)"
+        },
+        "333da8687b16a586812b92b6acda8674": {
+            "text": "Limite di apparizione"
+        },
+        "a2736075ee5bcaeaad4650b9a1bb7d43": {
+            "text": "Velocit\u00e0 di apparizione dei messaggi"
+        },
+        "c4f9ba7565ccdd1b1ec3e06265ef4995": {
+            "text": "Velocit\u00e0 alla quale i messaggi devono apparire o svanire"
+        },
+        "081b98759749efbb07052c62da920324": {
+            "text": "Immediati (nessuna dissolvenza)"
+        },
+        "e16b5b7f26f54214445cbe38d72c2828": {
+            "text": "Veloce"
+        },
+        "960b44c579bc2f6818d2daaf9e4c16f0": {
+            "text": "Normale"
+        },
+        "efa5397985b8609a5dbeb430a4bcadd3": {
+            "text": "Lenta"
+        },
+        "4b3f62787ef2a663f5af7c2a25c0c617": {
+            "text": "Posizione"
+        },
+        "22c3a11778dfb998611f45125023b39c": {
+            "text": "In quale lato dello schermo i messaggi devono apparire."
+        },
+        "d6e7bc4caa8b68af7f00ff457e4d3344": {
+            "text": "Notifiche di runtime\/singola richiesta"
+        },
+        "a2e68070d70d39ee23fe1edf9767c11c": {
+            "text": "Mostra come notifiche"
+        },
+        "9650b6be51970b497f28b3f079f7bf79": {
+            "text": "Lasciali come sono"
+        },
+        "8a1cf8cf2597193851e727307d3d3b31": {
+            "text": "Mostra una notifica sommaria se superiore a questo valore."
+        }
+    }
+}

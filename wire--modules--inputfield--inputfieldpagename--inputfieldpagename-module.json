@@ -1,1 +1,21 @@
-{"file":"wire\/modules\/Inputfield\/InputfieldPageName\/InputfieldPageName.module","textdomain":"wire--modules--inputfield--inputfieldpagename--inputfieldpagename-module","translations":{"49ee3087348e8d44e1feda1917443987":{"text":"Nome"},"152cfcb2150e04c8533d86e9d7642b11":{"text":"Qualsiasi combinazione di lettere (a-z), numeri (0-9), punti e underscore (nessuno spazio)"}}}
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldPageName\/InputfieldPageName.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpagename--inputfieldpagename-module",
+    "translations": {
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Nome"
+        },
+        "152cfcb2150e04c8533d86e9d7642b11": {
+            "text": "Qualsiasi combinazione di lettere (a-z), numeri (0-9), punti e trattini bassi (nessuno spazio)."
+        },
+        "f48a4577939e2ab65867848e6b439a81": {
+            "text": "Sostituzione caratteri"
+        },
+        "9d250aded0473671ec3f113407f9809c": {
+            "text": "Inserisci le sostituzioni che verranno applicate quando un utente inserir\u00e0 dei caratteri all'interno di un campo nome pagina. Inserisci una sostituzione per linea con il formato chiave=valore. Su ciascuna linea inserisci il carattere o i caratteri che vuoi sostituire, seguiti da un segno di uguale \"=\" e il carattere o i caratteri ascii con cui li vuoi sostituire."
+        },
+        "9bc6bf958fcb86296c17a2b2db2a00a6": {
+            "text": "Il valore di sostituzione per ciascun carattere deve essere uno o pi\u00f9 dei seguenti valori: a-z, 0-9, trattino, trattino basso o punto."
+        }
+    }
+}

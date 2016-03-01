@@ -1,0 +1,81 @@
+{
+    "file": "wire\\core\\Inputfield.php",
+    "textdomain": "wire--core--inputfield-php",
+    "translations": {
+        "efdf8051d64766330e13627274b01787": {
+            "text": "Le condizioni sono espresse con un selettore \"campo=valore\" che contiene i campi e i valori da confrontare. Condizioni multiple possono essere separate con una virgola."
+        },
+        "33f354f096583d4fb4c01fa05670c1e6": {
+            "text": "Leggi di pi\u00f9 su [come usarlo](https:\/\/processwire.com\/api\/selectors\/inputfield-dependencies\/)."
+        },
+        "1729a56cfc89021478498fe0c89a843a": {
+            "text": "Visibilit\u00e0"
+        },
+        "c7bc3fddddb62d5b656adc30cea77a55": {
+            "text": "Presentazione"
+        },
+        "49632d1c8309d42371ab31fe84d56c91": {
+            "text": "Come dovrebbe essere visualizzato questo campo nell'editor?"
+        },
+        "c3bf447eabe632720a3aa1a7ce401274": {
+            "text": "Aperto"
+        },
+        "0d2d71d5551271c673df720e61b08cf8": {
+            "text": "Aperto + Non pu\u00f2 essere chiuso"
+        },
+        "5995da1dbd9a2df5487ab0324f2d4a01": {
+            "text": "Aperto se popolato + Chiuso se vuoto"
+        },
+        "e75c5e5c17a86f893fac8d2b7b7a3762": {
+            "text": "Aperto se popolato + Chiuso se vuoto + Carica solo quando aperto (AJAX)"
+        },
+        "3a28674fd51f34234723d80de10c6382": {
+            "text": "Aperto se popolato + Chiuso se vuoto + Bloccato (non modificabile)"
+        },
+        "2f6f6a0f0c4157d8a5174b75063ba0e2": {
+            "text": "Aperto se vuoto + Chiuso se popolato"
+        },
+        "03f4a47830f97377a35321051685071e": {
+            "text": "Chiuso"
+        },
+        "3567554c6ab1f1648a4b4ecbbbb4733d": {
+            "text": "Chiuso + Bloccato (non modificabile)"
+        },
+        "9101591614e0d079e052d9cbf4e1c203": {
+            "text": "Chiuso + Caricato solo quando aperto (AJAX)"
+        },
+        "cb6df4e080dea0319f74d565e587c2b5": {
+            "text": "Le opzioni indicate con %s potrebbero non funzionare con tutti i tipi di input, provalo per assicurare la compatibilit\u00e0."
+        },
+        "2145d1256ac3cfac3444b42d04572b4e": {
+            "text": "Nascosto (non visibile nell'editor)"
+        },
+        "44158720c6f7deaff17b2430d3d31254": {
+            "text": "Mostra questo campo solo se"
+        },
+        "3b57940d51a0ed7f2d5c49363114bd0e": {
+            "text": "Inserisci le condizioni per le quali il campo verr\u00e0 visualizzato."
+        },
+        "a785c32894aad6d7c1dc826a4bc0a4a3": {
+            "text": "Larghezza Colonna (%d%%)"
+        },
+        "0eb0b305235144ffe99e247b24200b09": {
+            "text": "La larghezza in percentuale del contenitore di questo campo (10%-100%). Se inserito di fianco ad altri campi con larghezza ridotta, creer\u00e0 colonne fluttuanti."
+        },
+        "8387772e28e9c2b81fa8cb674e569663": {
+            "text": "Nota che non tutti i campi funzioneranno a larghezza ridotta, dovresti verificarlo dopo aver cambiato questo valore."
+        },
+        "6e18e908568ef24580d93bfd3e0f40d7": {
+            "text": "Richiesto?"
+        },
+        "c48c7243fc307fd425df738c9f0f4324": {
+            "text": "Se selezionato, un valore verr\u00e0 richiesto per questo campo."
+        },
+        "c1d71aa80e02ee67489431d11e5f58a8": {
+            "text": "Richiesto solo se"
+        },
+        "bb0df4a2d5e0d99eaba53f152ff7f0f7": {
+            "text": "Inserisci le condizioni per le quali un valore verr\u00e0 richiesto per questo campo."
+        }
+    }
+}

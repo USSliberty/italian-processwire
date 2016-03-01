@@ -1,0 +1,51 @@
+{
+    "file": "wire\\core\\Modules.php",
+    "textdomain": "wire--core--modules-php",
+    "translations": {
+        "3919fe955716c54c409b522a1003f3e0": {
+            "text": "Non hai il permesso di eseguire questo modulo"
+        },
+        "de7a358da1292f56861c726d3c860dc0": {
+            "text": "Impossibile installare il modulo richiesto"
+        },
+        "8fbd3d16ca5c99185a023c9b7e6bb3e9": {
+            "text": "Aggiunto il Permesso: %s"
+        },
+        "e349b4d55d1eb71f3b313924149aa242": {
+            "text": "Errore durante l'aggiunta del permesso: %s"
+        },
+        "d8b74ebbc7d2d9e0bb9860f5875e6a58": {
+            "text": "Auto installazione del modulo"
+        },
+        "2ccb0669e8a2f6a3117f340bb36e8d4b": {
+            "text": "Auto disinstallazione del modulo"
+        },
+        "37ab3f591b07274ff3b4c891af63e4d1": {
+            "text": "Cancellato il Permesso: %s"
+        },
+        "7dd5a577bde82df3631263cfd04a07bb": {
+            "text": "Errore durante l'eliminazione del permesso: %s"
+        },
+        "141e30f2de96660020efd996cc916413": {
+            "text": "Dipendenza del modulo fallita: %s richiede %s"
+        },
+        "f0116bd76230140a92cbd37cc524488e": {
+            "text": "verr\u00e0 applicata la prossima volta che ogni modulo verr\u00e0 caricato"
+        },
+        "3ba3666c48feabf2f2506e1f835ea92e": {
+            "text": "Aggiornamento modulo"
+        },
+        "edf71dd6396541cf37f54bf079e21006": {
+            "text": "Rilevato %d nuovo modulo: %s"
+        },
+        "8d36abbc1aa8f167970999175380a355": {
+            "text": "Rilevati %d nuovi moduli: %s"
+        },
+        "99cf7718c48f783d19e8c8b463a6e704": {
+            "text": "Rilevato %d nuova versione del modulo"
+        },
+        "7cbf3b34133e54263a1242eb74a5008e": {
+            "text": "Rilevate %d nuove versioni del modulo"
+        }
+    }
+}

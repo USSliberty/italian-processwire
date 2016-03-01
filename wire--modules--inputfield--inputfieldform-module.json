@@ -1,0 +1,15 @@
+{
+    "file": "wire\\modules\\Inputfield\\InputfieldForm.module",
+    "textdomain": "wire--modules--inputfield--inputfieldform-module",
+    "translations": {
+        "98c9c3ab74a1b32e2278dd17586938f2": {
+            "text": "Ci sono cambiamenti non salvati:"
+        },
+        "d359c6df99b25183d81f7d728b71de0e": {
+            "text": "="
+        },
+        "d1e114b786b9fa971fbba24b8e584a43": {
+            "text": "Contiene uno o pi\u00f9 campi in un form"
+        }
+    }
+}

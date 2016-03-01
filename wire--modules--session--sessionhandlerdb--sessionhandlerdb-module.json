@@ -1,0 +1,18 @@
+{
+    "file": "wire\\modules\\Session\\SessionHandlerDB\\SessionHandlerDB.module",
+    "textdomain": "wire--modules--session--sessionhandlerdb--sessionhandlerdb-module",
+    "translations": {
+        "6514b2122a2e569491dccb69eebe383c": {
+            "text": "Selezionando questo campo permetter\u00e0 di visualizzare i dati di sessione nella lista delle sessioni nel pannello admin."
+        },
+        "262f42ad28e2d01d7dc5afa698716099": {
+            "text": "Tracciare gli indirizzi IP nei dati di sessione?"
+        },
+        "ab5b4b2116f61fda9325e6deb591bb8f": {
+            "text": "Tracciare l'user agent nei dati di sessione?"
+        },
+        "703fdc8134134754f6630df73ee50572": {
+            "text": "L'user agent tipicamente contiene informazioni riguardo il browser utilizzato."
+        }
+    }
+}

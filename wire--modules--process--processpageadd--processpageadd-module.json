@@ -1,1 +1,84 @@
-{"file":"wire\/modules\/Process\/ProcessPageAdd\/ProcessPageAdd.module","textdomain":"wire--modules--process--processpageadd--processpageadd-module","translations":{"de9ced9bf5e9829de4a93ad8c9d7a170":{"text":"Aggiungi nuovo"},"5d1b7adfdc7ca6d81d9ddbfa22b443af":{"text":"Stai aggiungendo una pagina usanto il template %s"},"c9cc8cce247e49bae79f15173ce97354":{"text":"Salva"},"abc32b2bc5cd1b61b5d3738f09405c0d":{"text":"Manca un campo richiesto: name"},"9e31eadc87a42dd9b75f4b4d141c192b":{"text":"Il nome che hai scelto \u00e8 gi\u00e0 in uso. Per favore scegline un altro."},"9c99ecab6aa8967c077e01a0b3f51668":{"text":"\u00c8 stata creata la pagina %1$s usando il template: %2$s"},"c4f4f1adddc771c086745ca04050d415":{"text":"Aggiungi pagina"},"e1622ba9f41f5b695bddc69e3ceaa204":{"text":"Aggiungi una nuova pagina"}}}
+{
+    "file": "wire\/modules\/Process\/ProcessPageAdd\/ProcessPageAdd.module",
+    "textdomain": "wire--modules--process--processpageadd--processpageadd-module",
+    "translations": {
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Aggiungi nuovo"
+        },
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "Salva"
+        },
+        "abc32b2bc5cd1b61b5d3738f09405c0d": {
+            "text": "Manca un campo richiesto: name"
+        },
+        "9e31eadc87a42dd9b75f4b4d141c192b": {
+            "text": "Il nome che hai scelto \u00e8 gi\u00e0 in uso. Per favore scegline un altro."
+        },
+        "9c99ecab6aa8967c077e01a0b3f51668": {
+            "text": "\u00c8 stata creata la pagina %1$s usando il template: %2$s"
+        },
+        "c4f4f1adddc771c086745ca04050d415": {
+            "text": "Aggiungi pagina"
+        },
+        "e1622ba9f41f5b695bddc69e3ceaa204": {
+            "text": "Aggiungi una nuova pagina"
+        },
+        "a3e80c9c5e2dfb9f58712a83e2006a5e": {
+            "text": "Dove vuoi aggiungere il nuovo %s?"
+        },
+        "100e1438e523c6553ac21fd872262d56": {
+            "text": "Scegliere una pagina genitore %s sottostante:"
+        },
+        "b0324fdebb63032317bba7c66bff89fc": {
+            "text": "Non ci sono template definiti con le relazioni genitore\/figlio necessarie per mostrare la scorciatoia \"Aggiungi nuovo\". Per configurare questo, modifica qualsiasi template (Impostazioni > Template) e clicca sulla scheda \"Famiglia\""
+        },
+        "1f03189503b2b085455900a07777134c": {
+            "text": "Gi\u00e0 preso"
+        },
+        "a60852f204ed8028c1c58808b746d115": {
+            "text": "="
+        },
+        "5ffb937a7aaced6b2c652cd8b8650135": {
+            "text": "Il nome inserito \u00e8 gi\u00e0 in uso. Se non lo modifichi verr\u00e0 automaticamente reso unico dopo il salvataggio."
+        },
+        "d337f7f6b3b52602b84f206e80fc6a85": {
+            "text": "Nessun template permesso per aggiungere nuove pagine."
+        },
+        "76effbf5625101a8e29d5720e986ee6a": {
+            "text": "Il template \"%s\" non \u00e8 permesso."
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "="
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "Genitore"
+        },
+        "7d4be9f67818bd22d064880270a3e4af": {
+            "text": "Salva + Pubblica"
+        },
+        "41553b358b6daba19bf079d5ad3eefb1": {
+            "text": "Pagina temporanea non utilizzata"
+        },
+        "bd71df4fde063d60b0fe33d87f52f7ff": {
+            "text": "Attenzione, il nome che hai scelto \"%1$s\" \u00e8 gi\u00e0 utilizzato ed \u00e8 stato cambiato in \"%2$s\"."
+        },
+        "a713b3cf3828f00d541e6ae14b294a8f": {
+            "text": "Le pagine che hai scelto sopra rappresentano segnalibri alle pagine genitore dove vuoi aggiungere figli. Nota che se un utente non ha il permesso per aggiungere una pagina a uno specifico genitore (a causa dei controlli di accesso o per le impostazioni del template), il segnalibro non sar\u00e0 visibile."
+        },
+        "e0f8c45404ac3252900cc035530cd905": {
+            "text": "Ordinamento per le scorciatoie del template"
+        },
+        "94eef4670f102676a952d0989f852649": {
+            "text": "Per cambiare l'ordine delle scorciatoie \"Aggiungi nuova\" nel template, trascina le opzioni nell'ordine che desideri."
+        },
+        "557335482992652fdefe6cc17332688f": {
+            "text": "Per aggiungere o rimuovere template da queste scorciatoie, vedi la scheda Famiglia nell'editor del template."
+        },
+        "bb8bbda58833ce19eef6193e1918e8cf": {
+            "text": "Disabilita pubblicazione automatica"
+        },
+        "13148993e6c4399880e879c88a664347": {
+            "text": "Per impostazione predefinita, le pagine con solo campi globali (comunemente \"titolo\") verranno pubblicate automaticamente quando aggiunte, bypassando lo stato non pubblicate. Solitamente questo \u00e8 il comportamento preferibile. Tuttavia puoi cancellare questo comportamento selezionando il box sottostante."
+        }
+    }
+}
