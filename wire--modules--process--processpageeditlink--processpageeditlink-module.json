@@ -1,1 +1,129 @@
-{"file":"wire\/modules\/Process\/ProcessPageEditLink\/ProcessPageEditLink.module","textdomain":"wire--modules--process--processpageeditlink--processpageeditlink-module","translations":{"0f1d07df1a82d22e187c72bacabc1117":{"text":"Scegli una pagina"},"ddb0ec6745aefbc02b9c9eb0dfb2e796":{"text":"Inserisci un Link, seleziona ua pagina oppure seleziona un file da collegare:"},"f6f7f0f8aa1ef94fdf01a81f1cb24e7a":{"text":"Collegamento a un link"},"d0371b1908138f8cd5be5356ef5a46ab":{"text":"Collegamento alla pagina"},"629ea6ac7fee06a764a49cb39bd356d9":{"text":"Apri in una nuova finestra ?"},"1f3e9bfe3126acfe0af746ec6ed2db68":{"text":"Se selezionato, il link verr\u00e0 aperto in nuova finestra."},"149a978aed458d66e08de0460cdbf65e":{"text":"Link al File"},"27c6c65717076df3e127c24bee401fa7":{"text":"Per selezionare un file da un altra pagina, clicca 'Collegamento ala pagina' sopra e selezionare la pagina dove vuoi selezionare un file."}}}
+{
+    "file": "wire\/modules\/Process\/ProcessPageEditLink\/ProcessPageEditLink.module",
+    "textdomain": "wire--modules--process--processpageeditlink--processpageeditlink-module",
+    "translations": {
+        "0f1d07df1a82d22e187c72bacabc1117": {
+            "text": "Scegli una pagina"
+        },
+        "ddb0ec6745aefbc02b9c9eb0dfb2e796": {
+            "text": "Inserisci un URL, seleziona una pagina oppure seleziona un file da collegare:"
+        },
+        "f6f7f0f8aa1ef94fdf01a81f1cb24e7a": {
+            "text": "Collegamento ad un URL"
+        },
+        "629ea6ac7fee06a764a49cb39bd356d9": {
+            "text": "Apri in una nuova finestra ?"
+        },
+        "1f3e9bfe3126acfe0af746ec6ed2db68": {
+            "text": "Se selezionato, il link verr\u00e0 aperto in nuova finestra."
+        },
+        "97e7c9a7d06eac006a28bf05467fcc8b": {
+            "text": "="
+        },
+        "c1ea9d15a4b45722e553d5227d2a68ec": {
+            "text": "Inserisci un URL, un indirizzo email, un link anchor o inserisci delle parole per trovare una pagina."
+        },
+        "16fc67b7eaa1e52e2ad1ecd9d42917bc": {
+            "text": "Scegli Anchor"
+        },
+        "b7a5bb32ec6b8bdd7933e1aed1226051": {
+            "text": "Anchor trovati nel testo che stai editando."
+        },
+        "99e7707748ae048e17c5810fad119e0b": {
+            "text": "Scegli Pagina"
+        },
+        "d98192e3cb911892e861fde0f812f062": {
+            "text": "Scegli Pagina Figlio"
+        },
+        "034cc05920524f811060e035664d50a6": {
+            "text": "Questo \u00e8 identico a \"Scegli Pagina\" sopra, ma pu\u00f2 essere pi\u00f9 veloce da usare se collegato ai figli della pagina corrente."
+        },
+        "287234a1ff35a314b5b6bc4e5828e745": {
+            "text": "Attributi"
+        },
+        "b78a3223503896721cca1303f776159b": {
+            "text": "Titolo"
+        },
+        "26175e18932f5310229ab78e3acdee97": {
+            "text": "Testo addizionale per descrivere il link."
+        },
+        "c41a31890959544c6523af684561abe5": {
+            "text": "="
+        },
+        "918dfcbd7b97a5aa266ceb37a76c3dee": {
+            "text": "Dove si aprir\u00e0 questo link."
+        },
+        "eba991d56b1be0b940d722211bab87bc": {
+            "text": "="
+        },
+        "d9167711e3727337c3e12dbaaac4511f": {
+            "text": "Relazione del link al documento."
+        },
+        "9bd81329febf6efe22788e03ddeaf0af": {
+            "text": "Classe"
+        },
+        "dcbd7beee5b5739c187b51f6305c7639": {
+            "text": "Classi addizionali che possono influire sull'aspetto o sul comportamento del link."
+        },
+        "22d6eb83c9e9109699daa15ef964e88f": {
+            "text": "Puoi modificare gli attributi disponibili visualizzati sopra nelle impostazioni del modulo %s."
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Nessuno"
+        },
+        "d7e5b64c4aa7c174c3b8e7c013f57891": {
+            "text": "apri in una nuova finestra"
+        },
+        "14ca6a0caadcbfe73ca835d810b6efe5": {
+            "text": "forza i motori di ricerca a non seguire"
+        },
+        "1aa14e9f377b528b5537d70fbd35c6a2": {
+            "text": "Scegli File"
+        },
+        "518c59a47fc797ac7a43040c96b8e2e2": {
+            "text": "Mostra i file sulla pagina:"
+        },
+        "35afa790dae10280b1b4b38417e756ee": {
+            "text": "Scegli il file che vuoi collegare da questa pagina."
+        },
+        "0fc76f2ae9061248b25a11b099e80fd6": {
+            "text": "Per scegliere un file da un altra pagina, clicca 'Scegli Pagina' sopra e scegli la pagina da cui vuoi selezionare un file."
+        },
+        "6c7999851a00aff2df139ead430fac5c": {
+            "text": "Opzioni attributi"
+        },
+        "b31cbfca485dbc22cfb79ea992fa8e98": {
+            "text": "Inserisci un attributo per linea. L'utente potr\u00e0 scegliere questi come opzioni quando aggiunge link. Per impostare un opzione scelta di default (per i nuovi link), precedere con un segno pi\u00f9 \"+\"."
+        },
+        "a09630836c5a01bfa93c8cdfbbb065d3": {
+            "text": "Attributi del link esterno"
+        },
+        "9b291241830397114b711a98ca6695d6": {
+            "text": "Specifica gli attributi di default che verranno automaticamente popolati quando viene rilevato un link esterno."
+        },
+        "7f4fd9351aed8f03ec4559872d125eb4": {
+            "text": "Se usato, il valore deve essere uno di quelli predefiniti sopra."
+        },
+        "eafd32d33d67b845444c70572e6c1e50": {
+            "text": "Esempio: Specificando **nofollow** imposter\u00e0 di default i link esterni a non essere seguiti dai motori di ricerca."
+        },
+        "1da324557a591359538e1705e30b5dea": {
+            "text": "Esempio: Specificando **_blank** imposter\u00e0 i link esterni ad aprirsi in una nuova finestra."
+        },
+        "eb629addbfc0dd4a0353d6defff81923": {
+            "text": "Tipo di URL per i link di pagina"
+        },
+        "6b02648ef824ca0a58b9a40518ff1152": {
+            "text": "Assoluto (default)"
+        },
+        "2c8a0fad581fd58be051633bfdaa53d0": {
+            "text": "URL relativi solamente negli stessi rami"
+        },
+        "4750338c560d44be6d53bd75e386a966": {
+            "text": "URL relativi sempre"
+        },
+        "2453cc3c047929e3210a51607202b8bb": {
+            "text": "*Sperimentale"
+        }
+    }
+}

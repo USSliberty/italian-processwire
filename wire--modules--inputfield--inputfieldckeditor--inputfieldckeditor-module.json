@@ -1,0 +1,219 @@
+{
+    "file": "wire\\modules\\Inputfield\\InputfieldCKEditor\\InputfieldCKEditor.module",
+    "textdomain": "wire--modules--inputfield--inputfieldckeditor--inputfieldckeditor-module",
+    "translations": {
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Cancella"
+        },
+        "259738ca35a086ce9d269623e5ab5d37": {
+            "text": "Inserisci Link"
+        },
+        "ff15d4e97d08c2ab0351169af757b0f2": {
+            "text": "Modifica Link"
+        },
+        "446a6000511ab6fb0711400379a62a04": {
+            "text": "Scegli Immagine"
+        },
+        "03274f27f51f0c39e06e0e6cd07e01a9": {
+            "text": "Modifica Immagine"
+        },
+        "c97c12dea7825a2fa7f2b23032c6aeb4": {
+            "text": "La tua didascalia qui"
+        },
+        "586dfebdb944d7af7c4720be84d7fa50": {
+            "text": "Salvataggio Immagine"
+        },
+        "941c891be23b6a837de1d46c30efad2a": {
+            "text": "Inserisci questa Immagine"
+        },
+        "a616a1ef7aa1ee32d7d31c742923a202": {
+            "text": "Scegli un'altra immagine"
+        },
+        "a2a62a977b1825230f76d3ba2a6bf3df": {
+            "text": "La modalit\u00e0 inline di CKEditor richiede il modulo MarkupHTMLPurifier. Utilizza invece la modalit\u00e0 normale."
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Si"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "="
+        },
+        "81eeab9506186e2dca8faefa78d54067": {
+            "text": "Esempio:"
+        },
+        "2ae61d29b7247ef3679ced4aa729fb27": {
+            "text": "Impostazioni CKEditor"
+        },
+        "29c6f6d4517d673b2003e604b4efb687": {
+            "text": "="
+        },
+        "9022c2878a60d1f4ebc0f9f83a09975f": {
+            "text": "Separa ogni elemento della toolbar con una virgola. Raggruppa gli elementi inserendoli nella stessa linea e usa un trattino \"-\" dove vuoi che compaia un separatore all'interno di un gruppo. Se vuoi pi\u00f9 di una riga nella toolbar, separa ogni riga con una linea vuota."
+        },
+        "e8ddfb44ace2866e54880497acd251e3": {
+            "text": "Inserisci un hash \"#\" all'inizio di una linea se vuoi che sia ignorata."
+        },
+        "dfabf65177db13369e6f60e33d626a25": {
+            "text": "Modalit\u00e0 editor"
+        },
+        "0e0da14bdea5e80af97115d05779bdc4": {
+            "text": "Editor normale"
+        },
+        "9f1f94725c69ad201b156e002476104c": {
+            "text": "Editor Inline *"
+        },
+        "f4bbbce516de30f80d2025ca9cc9a595": {
+            "text": "Quando la modalit\u00e0 inline \u00e8 abilitata, l'editor non verr\u00e0 caricato fino a quando non cliccherai nel testo. Questo \u00e8 pi\u00f9 veloce ed efficiente quanto ci sono molti campi CKEditor sulla pagina. Tuttavia pu\u00f2 non supportare cos\u00ec tante funzioni o personalizzazioni come la modalit\u00e0 normale."
+        },
+        "1c4caab2cc11e882c71d23c8365e23f5": {
+            "text": "*La modalit\u00e0 inline richiede che il modulo HTML Purifier sia installato (MarkupHTMLPurifier)."
+        },
+        "5131613c3ef9d562a3e0e095e0f1fba8": {
+            "text": "*Il modulo richiesto HTML Purifier \u00e8 installato."
+        },
+        "86c0b99d54c2b5c2bbcdc74844dbb5cf": {
+            "text": "Attenzione: non \u00e8 correntemente installato. \u00c8 necessario installarlo prima di abilitare la modalit\u00e0 inline."
+        },
+        "b71ae00b212e1c450146b7263bb791bb": {
+            "text": "Utilizza ACF?"
+        },
+        "60f803fa7569e56d3f76d2f622e4130b": {
+            "text": "Se viene selezionato si, l'Advanced Content Filter (ACF) di CKEditor sar\u00e0 attivo. Questo filtro automaticamente rimuover\u00e0 qualsiasi markup o attributi non riconosciuti dal tuo codice HTML. Raccomandato."
+        },
+        "086f4ea637a29573ed5e10e106040ab5": {
+            "text": "Usa HTML Purifieir?"
+        },
+        "cab4c54f1577378e89ca8dc055075ae4": {
+            "text": "Se viene selezionato s\u00ec, il contenuto inviato verr\u00e0 passato attraverso [HTML Purifier](http:\/\/htmlpurifier.org\/) per la sanitificazione. Questo \u00e8 indispensabile quando si utilizza CKEditor sia per la modalit\u00e0 inline o per utenti non fidati. Raccomandato in ogni caso."
+        },
+        "4a4b882ebec0013773373d7983935b1c": {
+            "text": "Interruttori per Beautify Markup"
+        },
+        "dbb9e7f934e4def553f1d3065635377e": {
+            "text": "Converte tag div in tag di paragrafo"
+        },
+        "ed97424627acfa23d899d27908115be3": {
+            "text": "Rimuove i tag di paragrafo vuoti"
+        },
+        "ed654cac16ad0b016c80b1e0e04a86fa": {
+            "text": "Rimuove gli spazi (nbsp)"
+        },
+        "e3e03267810478ccd824a13309388549": {
+            "text": "Queste sono opzioni di pulizia extra (oltre ACF e HTML Purifier) che abbiamo riscontrato utili in molteplici situazioni. Sono applicate quando la pagina \u00e8 salvata. Selezionare tutte queste opzioni \u00e8 raccomandato, a meno che tu non abbia la necessit\u00e0 di lasciarle nel markup."
+        },
+        "187cc7fdfc18d7eee937fb34cd6641dc": {
+            "text": "Formatta tag"
+        },
+        "eb58d10bb9587ab21ba79859997ea7f9": {
+            "text": "Lista di tag selezionabili, separati da virgole, mostrati nel menu a discesa \"formato\"."
+        },
+        "73dd33fa6157ee6008e269d67a2843e3": {
+            "text": "I tag di default da formattare sono:"
+        },
+        "c6fd363ed202c7dd44b9a3d1b6065adc": {
+            "text": "Contenuto extra permesso"
+        },
+        "988677b6c211741551df50fd57a5d3f4": {
+            "text": "Regole per il contenuto permesso in CKEditor [extraAllowedContent](http:\/\/docs.ckeditor.com\/#!\/api\/CKEDITOR.config-cfg-extraAllowedContent). Si applica solo se l'opzione \"Utilizza ACF\" qui sopra \u00e8 selezionata."
+        },
+        "69262424661d8b544ebcba617e5772c6": {
+            "text": "Puoi inserire pi\u00f9 regole inserendole ognuna nella propria riga."
+        },
+        "378f7539f13b958d62e92c063772ee37": {
+            "text": "L'esempio sopra permetterebbe gli attributi alt, src, width e height per i tag img, con l'attributo src sempre richiesto."
+        },
+        "86981868980ec998b671432713a7b65b": {
+            "text": "Vedi [dettagli](http:\/\/docs.ckeditor.com\/#!\/guide\/dev_allowed_content_rules-section-2) nella documentazione di CKEditor."
+        },
+        "60eaab37de096deaa26bb3ff7b706095": {
+            "text": "I percorsi dovrebbero essere relativi alla radice di installazione di ProcessWire (per esempio se il tuo sito \u00e8 installato in una sottocartella, escludi quella parte)."
+        },
+        "b67b49a021c8f28a0be44e276cdcb145": {
+            "text": "Questa opzione ti permette di modificare il modo in cui il testo e altri elementi appaiono nell'editor. Questo si applica solo nell'interfaccia di amministrazione e non nel front-end del tuo sito."
+        },
+        "9728a8f280cf7e8b0b89b52749f7e800": {
+            "text": "Vedi le nostre [istruzioni](https:\/\/github.com\/ryancramerdesign\/ProcessWire\/blob\/dev\/wire\/modules\/Inputfield\/InputfieldCKEditor\/README.md#custom-editor-css-file) per come utilizzarlo."
+        },
+        "c329380c093af757e030c47c58fc31ae": {
+            "text": "Editor per il file CSS personalizzato (modalit\u00e0 regolare)"
+        },
+        "1f2a49f98f9868b764037314b9a0a2a0": {
+            "text": "Editor per il file CSS personalizzato (modalit\u00e0 inline)"
+        },
+        "1100db92626b135374ca3ad30025a3d5": {
+            "text": "Editor per gli stili JS"
+        },
+        "749b7a2316f526ff2ec75692749211ad": {
+            "text": "L'opzione ti permette di specificare stili personalizzati per la selezione nel tuo editor. Richiede che tu abbia un elemento \"Stili\" nella tua toolbar."
+        },
+        "63ba0561c6027fed354e6c5af252a77b": {
+            "text": "Vedi le nostre [istruzioni](https:\/\/github.com\/ryancramerdesign\/ProcessWire\/blob\/dev\/wire\/modules\/Inputfield\/InputfieldCKEditor\/README.md#custom-editor-js-styles-set) per come utilizzarlo."
+        },
+        "2c3077a1dd5833c9dc6f49fe48e3ab71": {
+            "text": "Se utilizzato, inserisci una **propriet\u00e0: valore** per linea, o utilizza una stringa JSON."
+        },
+        "0d26e4905e21b238948dc724daade146": {
+            "text": "Opzioni di configurazione personalizzate"
+        },
+        "0361833f130e526c7475f0bbcda324f3": {
+            "text": "Utilizza questo campo quando vuoi specificare impostazioni di configurazione per CKEditor oltre quelle disponibili in questa schermata."
+        },
+        "8b6ac858b8ce3c2724d267695c732325": {
+            "text": "Le opzioni di configurazione personalizzate hanno fallito la validazione JSON."
+        },
+        "d662e23e83bdb75f4e25b3bb7afa2324": {
+            "text": "Se preferisci, queste opzioni possono essere definite anche in questi file:"
+        },
+        "4cf63a5e6c4eff831c232b0eb238b4ae": {
+            "text": "per tutti i campi CKEditor"
+        },
+        "bb87b90b3b4cf5290402d36011056951": {
+            "text": "solo per questo campo CKEditor"
+        },
+        "bb38096ab39160dc20d44f3ea6b44507": {
+            "text": "="
+        },
+        "7a6472fdd6090236270ada56951bb4ad": {
+            "text": "="
+        },
+        "8cd140c060d298234e0079cb77ee8190": {
+            "text": "I seguenti plugin sono stati trovati. Scegli il box di fianco a ciascun plugin che vuoi caricare."
+        },
+        "08b808bc7661d755f526f70fbcc07e44": {
+            "text": "Almeno un plugin deve essere selezionato."
+        },
+        "9252446fff7e6ba650e51955cb0dc1ad": {
+            "text": "Per aggiungere pi\u00f9 plugin, inseriscili in **\/site\/modules\/InputfieldCKEditor\/plugins\/[name]\/**, sotstituendo **[name]** con il nome del plugin."
+        },
+        "0aef2da721f0ab14676f8d6ffb9e7e8c": {
+            "text": "raccomandati"
+        },
+        "7ae98f3a4b96e522d75992c305a4ec2b": {
+            "text": "impostazioni %s"
+        },
+        "ced89926ebd1c95b56710b6a873b1e93": {
+            "text": "Impostazioni del plugin per \"%s\" hanno fallito la validazione JSON."
+        },
+        "9048e64caaebf67509d533265f44414b": {
+            "text": "Lista separata da virgole di plugin extra che CKEditor deve caricare."
+        },
+        "7540434dd897a8f6f8118c31f2a931ab": {
+            "text": "Esempio: pwlink,pwimage,myplugin,anotherplugin"
+        },
+        "973ed59e27ee4824370eaf8150cbeec9": {
+            "text": "Rimuovi Plugin"
+        },
+        "3b9d2511fcd0e4afc3cc8c6c61b42d23": {
+            "text": "Lista separata da virgole di plugin rimossi che CKEditor non deve caricare."
+        },
+        "b6c2682ed322b5c3625338a5849b9794": {
+            "text": "="
+        },
+        "ddb1f53de8a1598fb3d52552d6246b85": {
+            "text": "="
+        },
+        "68835c69c5818fea532f3ad00a91be00": {
+            "text": "="
+        }
+    }
+}

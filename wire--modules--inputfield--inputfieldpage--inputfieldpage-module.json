@@ -1,0 +1,132 @@
+{
+    "file": "wire\\modules\\Inputfield\\InputfieldPage\\InputfieldPage.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpage--inputfieldpage-module",
+    "translations": {
+        "4349c31cba02549f2043d69b9eb0d66e": {
+            "text": "(non pubblicato)"
+        },
+        "6dc3e540b29f68e1eaf558b6a2edd476": {
+            "text": "Inserisci i titoli degli elementi che vuoi aggiungere, uno per riga. Saranno creati e aggiunti alla tua selezione quando salvi la pagina."
+        },
+        "b82b34c94588fc88ca4a6b18f5e18aef": {
+            "text": "Inserisci il titolo dell'elemento che vuoi aggiungere. Verr\u00e0 selezionato quando salvi la pagina."
+        },
+        "e3cada644043c81e6ff21250f2e53f3a": {
+            "text": "Nuove pagine verranno aggiunte a %s"
+        },
+        "49e5878c7a1901b0a9baae9e0c774150": {
+            "text": "Crea Nuova"
+        },
+        "f0670991d41b78617ca7810b7ce334b9": {
+            "text": "Aggiunta pagina %s"
+        },
+        "29b43e0c70cb336d03f04f3f06a8789d": {
+            "text": "Errore durante l'aggiunta della pagina \"%s\""
+        },
+        "81eeab9506186e2dca8faefa78d54067": {
+            "text": "Esempio:"
+        },
+        "6f8d1b93e4aad53511c85e29ed36b3d0": {
+            "text": "="
+        },
+        "962f1366aaa6f1c636d3214e12322362": {
+            "text": "Pagine selezionabili"
+        },
+        "21348aafc8733099a5b3c20e4a90e7b4": {
+            "text": "Genitore delle pagine selezionabili"
+        },
+        "5b0591013bf2cac5ee96f90e31a5b2e9": {
+            "text": "Scegli il genitore delle pagine selezionabili."
+        },
+        "dceea0994df5640514b906a18a43810f": {
+            "text": "Template delle pagine selezionabili"
+        },
+        "9f80067ff42d8e69d0c3a24b67ef4c85": {
+            "text": "Scegli il template delle pagine selezionabili. Pu\u00f2 essere usato al posto di, o in aggiunta a, il genitore indicato sopra. NOTA: non \u00e8 compatibile con i tipi di campo PageListSelect."
+        },
+        "53158583a607fba6e71f0f18d73a910b": {
+            "text": "Selettore personalizzato per trovare le pagine selezionabili"
+        },
+        "6ad160329dd81f9ecede290bffe93928": {
+            "text": "Se vuoi trovare le pagine selezionabili utilizzando un selettore ProcessWire piuttosto che scegliere una pagina genitore o un template (sopra) allora inserisci il selettore per trovare le pagine selezionabili. Questo selettore verr\u00e0 passato alla funzione $pages->find(\"selettore\");. NOTA: non \u00e8 attualmente compatibile con il tipo di campo PageListSelect."
+        },
+        "3d9e8a4318894ce247ba920c7961d5da": {
+            "text": "Mentre questo sovrascrive le selezioni di genitore e di template definite sopra, queste selezioni sono comunque utilizzate per la validazione (deselezionale se non vuoi questo comportamento)"
+        },
+        "1920ec4f46fd3f4962d351c84f69cf7e": {
+            "text": "="
+        },
+        "d04c6c77608855a3ff0fb3ee32a2cd53": {
+            "text": "Codice PHP personalizzato per trovare le pagine selezionabili"
+        },
+        "d0188d35124b9f7887cc0d158da64328": {
+            "text": "Se vuoi trovare le pagine selezionabili utilizzando codice PHP piuttosto che scegliere una pagina genitore o un template (sopra) allora inserisci il codice per trovare le pagine selezionabili. Questa dichiarazione avr\u00e0 accesso alle variabili API $page e $pages, dove $page si riferisce alla pagina correntemente modificata."
+        },
+        "e8764466585c7e1a106fd67e89ce91c6": {
+            "text": "Questo frammento di codice dovrebbe ritornare PageArray, Page oppure NULL. Se ritorna Page, i figli di Page verranno usati come pagine selezionabili. L'utilizzo \u00e8 opzionale e, se usato, sovrascriver\u00e0 i campi genitore\/template\/selettore definiti sopra."
+        },
+        "a9e792488572b1b5316720df20682ad3": {
+            "text": "NOTA: non compatibile con i campi di input PageListSelect o Autocomplete."
+        },
+        "b329c0bc717cd35d04a9362fc0d778c2": {
+            "text": "ritorna $page->parent->parent->children(\"name=locations\")->first()->children();"
+        },
+        "d8f9928df4675d892629c754932fad80": {
+            "text": "Campo etichetta"
+        },
+        "e5c1791ec6a73eed5d8a7002e2799470": {
+            "text": "Scegli il campo della pagina che vuoi utilizzare per generare le etichette di ciascuna pagina selezionabile."
+        },
+        "a0cb77306b6f4e96a00cdc5a0c128166": {
+            "text": "Scegli \"Formato personalizzato\" se vuoi specificare pi\u00f9 campi, oppure campi che non sono disponibili sopra."
+        },
+        "282acaaa24f42bb779ccb235bfc37491": {
+            "text": "Formato personalizzato (campi multipli)' . ' ..."
+        },
+        "ccfbd07eab619923148d98d09c91e15e": {
+            "text": "Formato personalizzato per l'etichetta della pagina"
+        },
+        "ebebc537c9c3117a5e2304be412d83f3": {
+            "text": "Specifica uno o pi\u00f9 nomi dei campi circondati da parentesi {graffe} insieme a caratteri, spazi o punteggiatura aggiuntiva."
+        },
+        "190dcbcb68a0545eb0e38c4eca2961e0": {
+            "text": "Esempio: {titolo genitore} - {titolo}, {data}"
+        },
+        "881b1a7b97bc4d70099cc59a53e8a8e5": {
+            "text": "Tipo di campo di input"
+        },
+        "bcf331523fb730639bde7c2e8fc4f811": {
+            "text": "Il tipo di campo che verr\u00e0 utilizzato per scegliere la pagina. Scegli un campo consistente con il valore di ritorno pagina singola\/pagine multiple che scegli nella scheda \"dettagli\" di questo campo."
+        },
+        "ebd9ef41cdc1369f55f58b151390de31": {
+            "text": "Alcuni tipi di input possono fornire opzioni di configurazione aggiuntive. Dopo aver scelto un tipo di input, ed aver salvato i tuoi cambiamenti, opzioni aggiuntive di configurazione possono apparire sotto questa sezione."
+        },
+        "195a66e99428447940ac989366724b42": {
+            "text": "I tipi indicati con un asterisco sono per la selezione multipla di pagine."
+        },
+        "54b79da80ed98094797b9e3ee68488a6": {
+            "text": "I tipi indicati con un segno pi\u00f9 presuppongono che un \"genitore\" sia la radice di un albero, anzich\u00e9 un genitore di primo livello."
+        },
+        "8332fcbd80839cdcc617bee49529ad1e": {
+            "text": "Permettere alle nuove pagine di essere create dal campo?"
+        },
+        "20463a1675fc256b438538124524746a": {
+            "text": "Se selezionato, un opzione per aggiungere nuove pagine sar\u00e0 presente se i requisiti indicati sono soddisfatti."
+        },
+        "7673446b991c59998763308c9f7f5d53": {
+            "text": "1. Sia il genitore che il template devono essere selezionati sopra."
+        },
+        "65a208c6491dac4a6fb17f7a62f76658": {
+            "text": "2. L'utente che esegue la modifica deve avere l'accesso in creazione\/pubblicazione per queste pagine."
+        },
+        "aa2e4d260721b3a7e2776b8cb9c19fdf": {
+            "text": "3. Il campo\/etichetta deve essere impostato su \"titolo (default)\"."
+        },
+        "d9a5927aa49f1a766a15e692b69c1c91": {
+            "text": "Moduli Inputfield disponibili per la selezione delle pagine"
+        },
+        "d5a1e1e864827e2bbb99d144e30359de": {
+            "text": "Scegli i moduli Inputfield che possono essere utilizzati per la selezione delle pagine. Questi dovrebbero essere generalmente Inputfields che permettono di scegliere una o pi\u00f9 opzioni."
+        }
+    }
+}

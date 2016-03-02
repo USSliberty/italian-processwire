@@ -1,0 +1,42 @@
+{
+    "file": "wire\\core\\WireUpload.php",
+    "textdomain": "wire--core--wireupload-php",
+    "translations": {
+        "c4d20a850d6031b61534f75058ae320d": {
+            "text": "Upload con successo"
+        },
+        "827ac42f1bc60fab16ae517ddb410e31": {
+            "text": "Il file caricato eccede la direttiva upload_max_filesize in php.ini."
+        },
+        "8d9086cb60c50b568ba57e0951dc4025": {
+            "text": "Il file caricato eccede la direttiva MAX_FILE_SIZE specificata nel form HTML."
+        },
+        "4f12b222c9659d62afa795987259933f": {
+            "text": "Il file \u00e8 stato caricato solo parzialmente."
+        },
+        "8c9067e52e4440d8a20e74fdc745b0c6": {
+            "text": "Nessun file \u00e8 stato caricato."
+        },
+        "7623dae1dc1a0906e7062e209e36cbdb": {
+            "text": "Una cartella temporanea \u00e8 assente."
+        },
+        "93252348cf3a42ca5e38b70d5f866d33": {
+            "text": "Fallita la scrittura del file su disco."
+        },
+        "361e040fc0355a657b76e6727118e6e9": {
+            "text": "L'upload del file \u00e8 stato bloccato da un estensione."
+        },
+        "b896cdc3267a288d8a0082126a91cb06": {
+            "text": "Raggiunto limite upload file"
+        },
+        "3317b878f497a7508ea5c2a02cdf8000": {
+            "text": "Estensione del file invalida, usare una delle seguenti:"
+        },
+        "1cd97c3760708f05e24ee5eb7e6034ce": {
+            "text": "Eccede la dimensione massima permessa per i file"
+        },
+        "acb6c0f25cc888a8d4e3cdc1dc2c247b": {
+            "text": "Nessun file trovato nell'archivio ZIP"
+        }
+    }
+}

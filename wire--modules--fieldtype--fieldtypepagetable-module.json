@@ -1,0 +1,81 @@
+{
+    "file": "wire\\modules\\Fieldtype\\FieldtypePageTable.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypepagetable-module",
+    "translations": {
+        "56d29e2358c489ca2ba085412d22b543": {
+            "text": "Scegli uno o pi\u00f9 template per gli elementi"
+        },
+        "23eb7651d596fbeec11e64a6c67925d9": {
+            "text": "Questi sono i template che verranno utilizzati dalle pagine gestite da questo campo. Potresti voler creare un nuovo template specifico per le necessit\u00e0 di questo campo."
+        },
+        "cc338cc1f9035c657183288e8a8679c4": {
+            "text": "Clicca Salva dopo aver scelto un template e la configurazione rimanente nella scheda Input conterr\u00e0 pi\u00f9 contesto."
+        },
+        "280bdbf9e514764e2b558c5a45b03ba3": {
+            "text": "Scegli un genitore per gli elementi"
+        },
+        "0aa782b2995bb478abdc16ebbb4a3e12": {
+            "text": "Tutti gli elementi creati e gestiti da questo campo saranno presenti al di sotto del genitore che scegli qui."
+        },
+        "5243227b5f4a58e7cc1be6b30f4bbce8": {
+            "text": "Se nessun genitore verr\u00e0 selezionato, allora gli elementi saranno inseriti come figli della pagina che si sta modificando."
+        },
+        "fcb2facea33821286bfd4cad3f7ac76d": {
+            "text": "Eliminare gli elementi quando la pagina viene cancellata?"
+        },
+        "08f53f44f5a22058682ec7c305c2f37b": {
+            "text": "Se selezionato, gli elementi creati\/gestiti da una pagina verranno automaticamente cestinati quando tale pagina verr\u00e0 cancellata. Se non selezionato, gli elementi rimarranno al di sotto del genitore che hai selezionato sopra."
+        },
+        "276fe80c8306b8f1211c933c5b0789dd": {
+            "text": "Questa opzione si applica solo se hai selezionato una pagina sopra."
+        },
+        "7a25f2fb1df8b415ae376a1bc744ddc1": {
+            "text": "Comportamenti della pagina"
+        },
+        "f80a4ad87fee7c9fdc19b7769495fdb5": {
+            "text": "Niente"
+        },
+        "4cfd1fcdeecdd1e6acb46393d787316c": {
+            "text": "Cestinale"
+        },
+        "6ac9a034dc3a8b4cf5a3902d2b7755d4": {
+            "text": "Eliminale"
+        },
+        "eb2f5e1930872f2aed78a2ffca4af260": {
+            "text": "Annulla la loro pubblicazione"
+        },
+        "8840e48a3c2b71738f5a52d5ae1e084f": {
+            "text": "Nascondile"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Elimina"
+        },
+        "88ab1471027561ff02fc8cfbd073ebc2": {
+            "text": "Cosa deve accadere a \"%s\" elementi quando la pagina che li contiene deve essere cancellata permanentemente?"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Cestina"
+        },
+        "bdea0eb389c61e57930d661c74b21423": {
+            "text": "Cosa deve accadere a \"%s\" elementi quando la pagina che li contiene deve essere cestinata?"
+        },
+        "181e9a13059454fb2212f1bf10f394ac": {
+            "text": "Annulla pubblicazione"
+        },
+        "22b094a7d09fdb1839dbfe384a0f4fac": {
+            "text": "Cosa deve accadere a \"%s\" elementi quando la pagina che li contiene deve non essere pubblicata?"
+        },
+        "113931420c7a2560f63fcd9af198df3f": {
+            "text": "Ordina campi"
+        },
+        "b72b1e7470d1bbec8cb9ae2eb8843131": {
+            "text": "Inserisci il nome del campo per il quale vuoi ordinare la tabella. Per l'ordine discendente, precedere il nome del campo con un trattino, per esempio \"-date\" invece di \"date\"."
+        },
+        "bad3d943c1f7443d2205de6edd995d6e": {
+            "text": "Puoi specificare campi multipli per l'ordinamento separandoli con una virgola, per esempio \"last_name, first_name, birthday\"."
+        },
+        "8198f788c0d53d819605c0dcdfdfe413": {
+            "text": "Lascia questo campo vuoto per l'ordinamento manuale tramite drag-and-drop (default)."
+        }
+    }
+}

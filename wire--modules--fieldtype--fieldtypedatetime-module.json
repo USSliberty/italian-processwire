@@ -1,0 +1,36 @@
+{
+    "file": "wire\\modules\\Fieldtype\\FieldtypeDatetime.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypedatetime-module",
+    "translations": {
+        "eb44c7b0eebc98a8441abb862a254b3d": {
+            "text": "Formato di Output delle date"
+        },
+        "e7033eefffec056f8898dab5295ef2f6": {
+            "text": "Scegli il formato che verr\u00e0 utilizzato per le date con questo campo."
+        },
+        "5bdb46a370b6d6a509c68a76551e5e3d": {
+            "text": "Per formati data\/ora relativi, vedi il Formato Ora."
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Nessuno"
+        },
+        "b4857dd659bf6e86731ccda0a3b581fb": {
+            "text": "(timestamp unix)"
+        },
+        "8a4b7daad69389d978a2ea6bab5b07f8": {
+            "text": "Formato Ora"
+        },
+        "cce774e589c4c23ce9c8cc7cb958861a": {
+            "text": "Se vuoi mostrare anche l'ora oltre alla data, scegli il formato da usare con questo campo. Questo verr\u00e0 usato in combinazione con il formato data."
+        },
+        "c1a326c2753f410fad585781390da97f": {
+            "text": "Codice del formato Data\/Ora"
+        },
+        "7b9ea642d1b10d7efc18d2c64a8940f8": {
+            "text": "La combinazione data\/ora verr\u00e0 mostrata secondo il formato sottostante. Questo \u00e8 costruito automaticamente dalle selezioni data\/ora definite sopra, ma puoi comunque cambiarle secondo le tue necessit\u00e0."
+        },
+        "e606a86ec2852d83f2ea4622de245889": {
+            "text": "Vedi la documentazione PHP sulla funzione [date](http:\/\/www.php.net\/manual\/en\/function.date.php) per ulteriori informazioni su come personalizzare questo formato. Alternativamente puoi usare il formato [PHP strftime](http:\/\/www.php.net\/manual\/en\/function.strftime.php) per la localizzazione, se lo desideri."
+        }
+    }
+}

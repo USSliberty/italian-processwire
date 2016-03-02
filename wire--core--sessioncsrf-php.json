@@ -1,0 +1,9 @@
+{
+    "file": "wire\\core\\SessionCSRF.php",
+    "textdomain": "wire--core--sessioncsrf-php",
+    "translations": {
+        "f5456cee91779e33a9f38ddca5081710": {
+            "text": "Questa richiesta \u00e8 stata bloccata perch\u00e9 sembra essere forgiata."
+        }
+    }
+}

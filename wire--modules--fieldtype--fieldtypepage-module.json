@@ -1,0 +1,48 @@
+{
+    "file": "wire\\modules\\Fieldtype\\FieldtypePage.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypepage-module",
+    "translations": {
+        "e93f994f01c537c4e2f7d8528c3eb5e9": {
+            "text": "Conteggio"
+        },
+        "d1d7182c9905811b10bcd1f5bdcb9eda": {
+            "text": "Dereferenzia nelle API come"
+        },
+        "e28f86b62065207ceeb0b5057eb98537": {
+            "text": "Se il tuo campo conterr\u00e0 pi\u00f9 pagine, dovresti selezionare la prima opzione (PageArray). Se il tuo campo conterr\u00e0 solo una pagina, allora seleziona una tra le opzioni di singola Pagina (se non sei sicuro, scegli l'ultima opzione)."
+        },
+        "7b438db8547ac1c9ab6c7ba6cb1532db": {
+            "text": "Pagine Multiple (PageArray)"
+        },
+        "a24fcc695edbc57c60c768a732d2f30d": {
+            "text": "Pagina singola (Page) oppure un valore booleano false per indicare che nessuna \u00e8 selezionata"
+        },
+        "94a53712b9a34f922a776fc5aa68d31f": {
+            "text": "Pagina singola (Page) oppure una pagina vuota (NullPage) quando nessuna \u00e8 selezionata"
+        },
+        "7d5f7f76b51ac880e91da28dbc52df35": {
+            "text": "Permettere le pagine non pubblicate?"
+        },
+        "58b4f6dae2009a3d22a395a94de85360": {
+            "text": "Se selezionato, le pagine non pubblicate sono permesse come valore del campo. Le pagine non pubblicate non appariranno nel front-end, eccetto quelle con l'accesso in modifica."
+        },
+        "393e717c8215abdbe581b21180abfa2b": {
+            "text": "Impossibile trovare la pagina"
+        },
+        "34a56e6d474c258bb9f4553aae0c7b81": {
+            "text": "Impossibile trovare il template"
+        },
+        "2d6565614947b2a6daba1a06515124da": {
+            "text": "Trova e pulisci i riferimenti a pagine orfane"
+        },
+        "f7e35a334f1501cc0365458563f90cf5": {
+            "text": "Quest'opzione pulisce un problema delle vecchie versioni di ProcessWire che potevano lasciare riferimenti a pagine orfane per le pagine cancellate. Se riscontri risultati non accurati per la ricerca delle pagine (specialmente usando selettori con pageref.count), allora dovresti eseguirla."
+        },
+        "35a326c72a6584f3c7d70109b5cd45f1": {
+            "text": "Attenzione: per essere sicuri dovresti eseguire un backup del database prima di questa operazione."
+        },
+        "081c14de091c8761b82f930fd59c8f16": {
+            "text": "Sto cercando e pulendo..."
+        }
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "file": "wire\\modules\\AdminTheme\\AdminThemeReno\\AdminThemeReno.module",
+    "textdomain": "wire--modules--admintheme--adminthemereno--adminthemereno-module",
+    "translations": {
+        "787989d17c5a57298dd6959fcc70ba1a": {
+            "text": "Admin theme per ProcessWire 2.5+ di Tom Reno (Renobird)"
+        },
+        "f0a5fc96d36fdda66a2a10b79be6d7fb": {
+            "text": "Set Colori"
+        },
+        "77b6e24f5b78b6eb0697aa8994ce15e9": {
+            "text": "="
+        },
+        "d35b51b639528d580362ca7042de6a0e": {
+            "text": "="
+        },
+        "9594eec95be70e7b1710f730fdda33d9": {
+            "text": "="
+        },
+        "3e3780bdd59279494ba0eeed55f551d9": {
+            "text": "Immagini Utente"
+        },
+        "bbe7b2d443c26552faeb0e0c7d4541fe": {
+            "text": "Per usare questa caratteristica nei tuoi template utente devi avere un campo immagine. Se i tuoi template utente non hanno un campo immagine, l'avatar avr\u00e0 un icona preimpostata. Per aggiungere un campo immagine al template utente di default andare su Impostazioni > Template > Filtri (Mostra Template di Sistema). Il template \"utente\" sar\u00e0 quindi visibile nella lista. Se hai creato un template utente aggiuntivo, puoi abilitare questa caratteristica aggiungendo un campo immagine."
+        },
+        "b012c7da60d514a8d126979210fa1f8e": {
+            "text": "Campo immagine per il template %s"
+        },
+        "20db21c89b31fa16e87dc79c98dd4afb": {
+            "text": "Nessun campo immagine assegnato a questo template."
+        },
+        "b30e371dcaa3d2b157ef7566aa157b8a": {
+            "text": "Aggiunto il campo \"%s\" ai campi modificabili dall'utente nel loro profilo."
+        },
+        "c89a8fcd5422ef9d592d35af51ad242d": {
+            "text": "Nomi Utente visibili"
+        },
+        "713128d7e4e2ab180d2126b0cea259b9": {
+            "text": "Lista di campi separati da virgole da usare come nomi visualizzati nell'interfaccia amministratore. (esempio: first_name, last_name)"
+        },
+        "ebb4a6d411a325b9c4d626f842cd6ed1": {
+            "text": "Questi possono essere solo campi di testo. Altri tipi di campo saranno ignorati."
+        },
+        "71151aa83128f4189875470f7e2a8d82": {
+            "text": "Mostra il nome per il template %s"
+        },
+        "8f67973007158337346584551b093be8": {
+            "text": "Icone"
+        },
+        "f69110441f08575ffbedd45591ddc4e1": {
+            "text": "Specifica le icone per gli elementi di navigazione"
+        },
+        "0fe8dceda2440ee8d71e0ed8869f075d": {
+            "text": "Navigazione Superiore: Notifiche"
+        },
+        "a5cf3b1e924454eb5f3b0579e2f40830": {
+            "text": "Navigazione Superiore: Vedi Home Page"
+        },
+        "c87aacf5673fada1108c9f809d354311": {
+            "text": "Disconnessione"
+        }
+    }
+}

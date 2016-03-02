@@ -1,0 +1,18 @@
+{
+    "file": "wire\\modules\\Inputfield\\InputfieldCheckboxes\\InputfieldCheckboxes.module",
+    "textdomain": "wire--modules--inputfield--inputfieldcheckboxes--inputfieldcheckboxes-module",
+    "translations": {
+        "d3f3236393ce7a48198cde99acaed365": {
+            "text": "Colonne di checkbox"
+        },
+        "50bad9e0658dd79a35545ebcd18f92ac": {
+            "text": "Se vuoi visualizzare le checkbox in colonne (anzich\u00e9 impilate), inserisci il numero di colonne che vuoi usare (fino a 10). Per mostrare le checkbox lato per lato (in linea) inserisci 1."
+        },
+        "c425f296c6b905c91fb3f6da1a1702b6": {
+            "text": "Checkbox"
+        },
+        "632ae34b804c1914c3a51af327a3379d": {
+            "text": "Interruttori multipli per checkbox"
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "file": "wire\\modules\\Session\\SessionLoginThrottle\\SessionLoginThrottle.module",
+    "textdomain": "wire--modules--session--sessionloginthrottle--sessionloginthrottle-module",
+    "translations": {
+        "87f1eff9c1a8afd8f0ecee1583f88ab2": {
+            "text": "Attendi per favore almeno %d secondi prima di provare di nuovo il login."
+        },
+        "2a5391490b60fb767804efa36b94d79c": {
+            "text": "Rallenta in base all'indirizzo IP?"
+        },
+        "8d6451e8c8b2f9d07c6a9701e270025a": {
+            "text": "Per impostazione predefinita, il rallentamento verr\u00e0 effettuato solo sull'username. Se selezioni questo campo, allora il rallentamento verr\u00e0 effettuato anche sull'indirizzo IP. Raccomandiamo di abilitare questa opzione se i tuoi utenti non provengono da indirizzi IP condivisi."
+        },
+        "55c8511d5d205cbddcbc743e49a39100": {
+            "text": "Numero di secondi che l'utente dovr\u00e0 attendere dopo un tentativo di login fallito."
+        },
+        "0b9bd74be740fa049b1519ae3d14eff0": {
+            "text": "Questo numero verr\u00e0 moltiplicato per il numero di tentativi falliti di login, cos\u00ec ogni tentativo fallito incrementer\u00e0 il tempo di attesa in modo esponenziale. Fai attenzione ad impostare questo limite troppo alto."
+        },
+        "9e72aded18bb6821af87ef367e7e002e": {
+            "text": "Numero massimo di secondi che un utente dovr\u00e0 aspettare prima di tentare un nuovo login."
+        },
+        "00b826f39c964075351bbc489037d008": {
+            "text": "Dato che il tempo di attesa verr\u00e0 incrementato esponenzialmente ad ogni tentativo, questo definisce un limite massimo di attesa. Dovresti impostare questo valore con un numero piuttosto alto."
+        },
+        "ed6ad8c8924b2e836590cad9cc6c9328": {
+            "text": "60=1 minuto, 300=5 minuti, 600=10 minuti, 3600=1 ora, 86400=1 giorno"
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "file": "wire\\modules\\Fieldtype\\FieldtypeOptions\\SelectableOptionConfig.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypeoptions--selectableoptionconfig-php",
+    "translations": {
+        "d5d394071928f1f25b0e3c0f0a336d13": {
+            "text": "Conferma che vuoi eliminare le opzioni"
+        },
+        "69e27cd6eff790dbbd4b6f65275ebaf7": {
+            "text": "ELIMINA:"
+        },
+        "2193a0641b7380e976778074efdfec0a": {
+            "text": "Valore singolo"
+        },
+        "06a7c76b256c778d08e1c9548a9e679d": {
+            "text": "Valori multipli"
+        },
+        "1465fa2b1c38fd4e8579e84e2b31a6d6": {
+            "text": "Cosa deve essere usato per l'input?"
+        },
+        "a088b8e4d1d572f82e2661ab0862f00b": {
+            "text": "In base a quale tipo di input scegli, l'utente sar\u00e0 in grado di scegliere sia un opzione singola sia opzioni multiple. Alcuni tipi di input (come AsmSelect) supportano anche selezioni ordinabili dall'utente. Alcuni tipi di input forniscono inoltre pi\u00f9 opzioni nella scheda **Input** (visibile dopo il salvataggio)"
+        },
+        "2b19b4791a203f60ffe7369493dd7b5f": {
+            "text": "Quali sono le opzioni selezionabili?"
+        },
+        "7ca00a9ac9a521d8e1d62919da2e66c6": {
+            "text": "Inserisci un opzione selezionabile per riga. Dopo che hai salvato, un ID numerico verr\u00e0 assegnato a ciascuna delle tue opzioni, le quali avranno la forma `123=titolo`, per esempio. Leggi le [istruzioni per usare questo campo](%s)."
+        },
+        "ebe68b1a7edd199230885058ca3f3351": {
+            "text": "Nota multi-lingua: definisci le opzioni nella lingua di default e salvale prima di tradurle nelle altre lingue."
+        },
+        "0581f7830fb426e1d56efadbc1a09edb": {
+            "text": "Quali opzioni devono essere pre-selezionate? (Se esistenti)"
+        },
+        "ad560982b535502d63dbf2f46ea8b3a6": {
+            "text": "Questo campo serve inoltre come anteprima del tipo di input selezionato (%s) e delle opzioni."
+        },
+        "810906cf431b89762465d39dd3402ba7": {
+            "text": "Nota: le tue selezioni qui non saranno attive fino a quando un valore \u00e8 *sempre* richiesto per questo campo. Vedi l'opzione \"richiesto\" nella scheda Input delle impostazioni del tuo campo."
+        },
+        "a6a26b1340a7cbaf1b405484a8a74b98": {
+            "text": "Questa caratteristica \u00e8 attiva in quanto un valore \u00e8 sempre richiesto."
+        },
+        "c3524d56fb147114b84d6e9dd56110a9": {
+            "text": "Elimina questa opzione"
+        },
+        "c766e5be484b0e0a2104bc2fe925000c": {
+            "text": "Elimina queste opzioni"
+        }
+    }
+}

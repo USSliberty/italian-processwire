@@ -1,1 +1,42 @@
-{"file":"wire\/modules\/Process\/ProcessUser\/ProcessUser.module","textdomain":"wire--modules--process--processuser--processuser-module","translations":{"d04d81faf16d84bd95fab030a5bd3ad8":{"text":"Il ruolo guest \u00e8 richiesto"},"1dae534355f564549697cc7da0eee7e7":{"text":"Non puoi rimuovere il ruolo superuser da te stesso"},"a756ba771ff16a33ad921b8f017a7161":{"text":"Non puoi non assegnare il ruolo superuser"},"f9aae5fda8d810a29f12d1e61b4ab25f":{"text":"Utenti"},"242e1deb2d082e524a63f255f9f08c11":{"text":"Gestisce gli utenti del sistema"}}}
+{
+    "file": "wire\/modules\/Process\/ProcessUser\/ProcessUser.module",
+    "textdomain": "wire--modules--process--processuser--processuser-module",
+    "translations": {
+        "1dae534355f564549697cc7da0eee7e7": {
+            "text": "Non puoi rimuovere il ruolo superuser da te stesso"
+        },
+        "a756ba771ff16a33ad921b8f017a7161": {
+            "text": "Non puoi non assegnare il ruolo superuser"
+        },
+        "f9aae5fda8d810a29f12d1e61b4ab25f": {
+            "text": "Utenti"
+        },
+        "242e1deb2d082e524a63f255f9f08c11": {
+            "text": "Gestisce gli utenti del sistema"
+        },
+        "a5cd3ed116608dac017f14c046ea56bf": {
+            "text": "Ruoli"
+        },
+        "5dee1c6493112af5676354d6c4243fbe": {
+            "text": "L'utente erediter\u00e0 i permessi assegnati a ciascun ruolo. Puoi assegnare pi\u00f9 ruoli ad un utente. Quando accedi ad una pagina, l'utente erediter\u00e0 i permessi dai ruoli che sono assegnati al template della pagina."
+        },
+        "4d4587e01b893874091ed2bcb940c2a8": {
+            "text": "Non puoi cambiare questo ruolo"
+        },
+        "903c654a1a01b07cf8dd1567b1b99b3a": {
+            "text": "Non hai il permesso per rimuovere questo ruolo: %s"
+        },
+        "5374d65ce11cc92d3c142cc0249fde0a": {
+            "text": "Non hai il permesso per aggiungere questo ruolo: %s"
+        },
+        "ba0bf134511b54d35d023da28eb75e39": {
+            "text": "Hai rimosso dei ruoli che impediranno la modifica a questo utente. I ruoli sono stati ripristinati."
+        },
+        "4b99fa96a7caeeafc646d0f0a059ea4d": {
+            "text": "%d utente"
+        },
+        "8103e74ea76ab74a0eabfc5d09e6588a": {
+            "text": "%d utenti"
+        }
+    }
+}

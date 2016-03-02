@@ -1,1 +1,90 @@
-{"file":"wire\/modules\/Inputfield\/InputfieldImage\/InputfieldImage.module","textdomain":"wire--modules--inputfield--inputfieldimage--inputfieldimage-module","translations":{"7e4cc6c00140cefcecd178df1836fbba":{"text":"Immagine ridimensionata per avere le massime dimensioni consentite"},"95dde9286ff11d93e5f5ce0c832b9f2c":{"text":"Mostrare le anteprime nella modifica della pagina ?"},"183cf71ab1252b747070605a2aa370c2":{"text":"Le anteprime occupano meno spazio e rendono pi\u00f9 facile l'ordinamento di pi\u00f9 immagini. Se \u00e8 deselezionato saranno visualizzate le immagini a piena risoluzione."},"7f0785e56befa113ce8fca2316a12a2e":{"text":"Dimensioni massime immagine"},"ef375d406da59811c42dc0f5a245dca3":{"text":"Le misure di altezza \/ larghezza sono opzionali. Se tali misure sono specificate, le immagini verranno ridimensionate, al momento dell'upload, quando supereranno le misure impostate. Il ridimensionamento \u00e8 fatto all'upload. Quindi non influisce su nessuna immagine nel filesystem o immagini aggiunte via API."},"e69ccb31941d2fd7923c6b0c01957db3":{"text":"Massima larghezza per le immagini caricate"},"21a08974171e7c2affbea041f9311318":{"text":"Inserisci la misura in pixel. Lascia in bianco per non dare limiti."},"c58e466902d0ff945d0677114e41682b":{"text":"Massima altezza per le immagini caricate"},"fff0d600f8a0b5e19e88bfb821dd1157":{"text":"Immagini"},"8a29508fcba587b8af0cfb36c544ee0d":{"text":"Una o pi\u00f9 immagini da caricare (ordinabili)"}}}
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldImage\/InputfieldImage.module",
+    "textdomain": "wire--modules--inputfield--inputfieldimage--inputfieldimage-module",
+    "translations": {
+        "7e4cc6c00140cefcecd178df1836fbba": {
+            "text": "Immagine ridimensionata per avere le massime dimensioni consentite"
+        },
+        "95dde9286ff11d93e5f5ce0c832b9f2c": {
+            "text": "Mostrare le anteprime nella modifica della pagina?"
+        },
+        "183cf71ab1252b747070605a2aa370c2": {
+            "text": "Le anteprime occupano meno spazio e rendono pi\u00f9 facile l'ordinamento di pi\u00f9 immagini. Se \u00e8 deselezionato saranno visualizzate le immagini (originali) a risoluzione piena."
+        },
+        "7f0785e56befa113ce8fca2316a12a2e": {
+            "text": "Dimensioni massime immagine"
+        },
+        "ef375d406da59811c42dc0f5a245dca3": {
+            "text": "Le misure di altezza\/larghezza sono opzionali. Se tali misure sono specificate, le immagini verranno ridimensionate, al momento dell'upload, quando supereranno le misure impostate. Il ridimensionamento \u00e8 fatto durante l'upload. Quindi non influisce su nessuna immagine nel filesystem o immagini aggiunte tramite API."
+        },
+        "e69ccb31941d2fd7923c6b0c01957db3": {
+            "text": "Larghezza massima per le immagini caricate"
+        },
+        "c58e466902d0ff945d0677114e41682b": {
+            "text": "Altezza massima per le immagini caricate"
+        },
+        "fff0d600f8a0b5e19e88bfb821dd1157": {
+            "text": "Immagini"
+        },
+        "8a29508fcba587b8af0cfb36c544ee0d": {
+            "text": "Una o pi\u00f9 immagini da caricare (ordinabili)"
+        },
+        "126b21ce46c39d12c24058791a236777": {
+            "text": "Immagine non valida"
+        },
+        "41cfe40655c4b51507eff9d22bd777f2": {
+            "text": "Immagine %s non soddisfa i requisiti di dimensione minima"
+        },
+        "5e244fccb2d4cda18bebf756dacce94c": {
+            "text": "Immagine %s eccede la dimensione massima permessa"
+        },
+        "840ad8821e0c1db717493f17a054bd18": {
+            "text": "Variazioni di %s"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Cancella"
+        },
+        "ad2ac1967f0165ebf04a84bc1819e0de": {
+            "text": "Sposta in fondo"
+        },
+        "727b701bcc5f26422461f10c07a58d48": {
+            "text": "Sposta in alto"
+        },
+        "6a1c2d713d3598f27c30a6c448197f0e": {
+            "text": "Il file non pu\u00f2 essere visualizzato"
+        },
+        "597c4d1113db01e43b62cd8a7112cf88": {
+            "text": "Vista predefinita"
+        },
+        "530f488f7a9800411efc6926ab189708": {
+            "text": "Righe"
+        },
+        "5174d1309f275ba6f275db3af9eb3e18": {
+            "text": "Griglia"
+        },
+        "b3da2ccb426643b265971f8085617aa0": {
+            "text": "Ciascuna vista pu\u00f2 essere abilitata cliccando sull'icona griglia\/riga nel campo immagine. Tale campo definisce solo quale delle due \u00e8 predefinita. La vista righe \u00e8 la predefinita e raccomandata."
+        },
+        "1a2b9bdaad8fc3ebd6b83463a0def69e": {
+            "text": "Inserisci il valore in pixel o lascia vuoto per nessun limite."
+        },
+        "dffe78c5f55b8a4187b91c40a03cf904": {
+            "text": "Rifiuta immagini che eccedono le dimensioni massime?"
+        },
+        "e0af28e6bea01f8a983ebd94ec3b7468": {
+            "text": "Se selezionato, le immagini che eccedono le dimensioni massime di larghezza\/altezza verranno rifiutate anzich\u00e9 ridimensionate."
+        },
+        "6760d392e57247a882e160cdb8b3680c": {
+            "text": "Dimensioni minime dell'immagine"
+        },
+        "a195023920e6ece61b6211755c9af27f": {
+            "text": "Opzionale. Inserisci le dimensioni minime di larghezza e\/o altezza delle immagini caricate. Se specificato, le immagini che non soddisfano i requisiti saranno rifiutate."
+        },
+        "d704e5da0e9e4ca2aa3e04201575f44c": {
+            "text": "Larghezza minima per le immagini caricate"
+        },
+        "b477617de997199bdd26761085aea486": {
+            "text": "Altezza minima per le immagini caricate"
+        }
+    }
+}

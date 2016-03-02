@@ -1,0 +1,51 @@
+{
+    "file": "wire\\modules\\Fieldtype\\FieldtypeURL.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypeurl-module",
+    "translations": {
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Si"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "="
+        },
+        "b38bb5008cd8427aae4e9a8612183a6f": {
+            "text": "Il formattatore di testo \"HTML Entity Encoder\" \u00e8 raccomandato per i campi URL."
+        },
+        "7a51839f06248c613d3b07007f4fc05d": {
+            "text": "Se questo URL verr\u00e0 usato per l'output, \u00e8 fortemente raccomandato l'uso di \"HTML Entity Encoder\" per \"Formattatori di Testo\" nella scheda Dettagli."
+        },
+        "ab86e8efb5aa46bdab329fa44f7125fc": {
+            "text": "Permetti URL relativi\/locali senza il prefisso \"http:\/\/\"?"
+        },
+        "d1280d091f34a15c77f4145110d7f94d": {
+            "text": "URL relativi\/locali sono quelli senza schema n\u00e9 dominio."
+        },
+        "00b2e08d975238a3563e783aa19811fd": {
+            "text": "Permettere i nomi di dominio internazionali (IDN)?"
+        },
+        "05e7ec04e65f559e191ad8a7c4a02b03": {
+            "text": "Se abilitato, i nomi di dominio non-ASCII non sono permessi."
+        },
+        "e8e4b5ed6eb1c0a268c7587be6ca66e7": {
+            "text": "Permettere virgolette singole\/doppie negli URL?"
+        },
+        "1b6f57a9eab52d70bc2fff5321da54fb": {
+            "text": "Se abilitato, devi essere assolutamente certo che questi URL siano codificati come entit\u00e0 HTML se usati nel markup."
+        },
+        "c4c54678f0d612f89caacaab99768f81": {
+            "text": "Anteporre il percorso radice del sito agli URL relativi\/locali?"
+        },
+        "ae91f58b191e424e0eaf9022fd5407e9": {
+            "text": "Assicurati che gli URL non abbiano problemi quando il sito viene spostato da una sottodirectory alla radice (l'esempio pi\u00f9 comune)"
+        },
+        "e6b391a8d2c4d45902a23a8b6585703d": {
+            "text": "="
+        },
+        "0ac82d10c1ddd050079962481c40f54f": {
+            "text": "Campo che contiene un URL"
+        },
+        "9d6ce819c098e5c4a7b3464cadbd028a": {
+            "text": "Questa opzione permetter\u00e0 automaticamente l'apposizione della radice del sito ad ogni URL che comincia con una barra, come ad esempio \/some\/path\/. Questo \u00e8 utile se il tuo sito \u00e8 installato in una sottocartella perch\u00e9 in questo modo non dovrai includere tale sottocartella negli URL che inserisci dentro questo campo. Se dovessi successivamente spostare il tuo sito dalla radice di un dominio (o in un altra sottocartella) non dovrai preoccuparti di URL che non funzionano pi\u00f9. Con questa opzione abilitata, puoi inserire URL come se il sito fosse installato nella radice del dominio, indipendentemente dal fatto che sia installato in una sottocartella oppure no. Naturalmente questo \u00e8 applicabile solamente scegliendo 'Si' per permettere URL relativi\/locali nel campo superiore. Agli sviluppatori potrebbe anche interessare che questa opzione si applica solo quando l'opzione outputFormatting di una pagina \u00e8 abilitata."
+        }
+    }
+}

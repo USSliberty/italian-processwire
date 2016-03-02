@@ -1,0 +1,15 @@
+{
+    "file": "wire\\core\\WireHttp.php",
+    "textdomain": "wire--core--wirehttp-php",
+    "translations": {
+        "77c7f3f51ebd4fa702990b4e33b1b168": {
+            "text": "Gli URL di download devono cominciare con http:\/\/ o https:\/\/"
+        },
+        "467af8bc03dee4f2214f406ef27a2cd2": {
+            "text": "errore fopen per il file:"
+        },
+        "0209b06558d47ad36cee247c670ff405": {
+            "text": "Il file non pu\u00f2 essere scaricato"
+        }
+    }
+}

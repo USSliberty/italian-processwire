@@ -1,0 +1,45 @@
+{
+    "file": "wire\\modules\\Fieldtype\\FieldtypeTextarea.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypetextarea-module",
+    "translations": {
+        "00f6c76a7a83b1d7aab61a93e513e9d5": {
+            "text": "Tipo di Inputfield"
+        },
+        "127852afa67b41673ab8ea17b383847c": {
+            "text": "Il tipo di campo che verr\u00e0 usato per contenere l'input (Textarea come default). Nota che se cambi il valore e salvi, le opzioni di configurazione disponibili nella scheda \"input\" potrebbero cambiare."
+        },
+        "2effa58f13159d138a634233e246713d": {
+            "text": "="
+        },
+        "88183b946cc5f0e8c96b2e66e1c74a7e": {
+            "text": "Sconosciuto"
+        },
+        "5d85f44b69f9d7e86c7f3f473f97f771": {
+            "text": "="
+        },
+        "f0a7350231680497c534e592203a3b7b": {
+            "text": "Markup\/HTML con gestione immagini"
+        },
+        "6579c1fdbe94982347736ad47f0949cb": {
+            "text": "La scelta Markup\/HTML (opzionalmente con gestione immagini) \u00e8 raccomandata per i campi che utilizzano rich text editors (TinyMCE, CKEditor, etc.) a quelli che contengono HTML. Forniscono controlli addizionali per assicurare la qualit\u00e0 del contenuto."
+        },
+        "f49044eb0f5ff823c157a2feedf2b9f8": {
+            "text": "Per maggiori informazioni sulle opzioni superiori vedere [la descrizione delle opzioni content type](%s)"
+        },
+        "3e7a86573c428ffd2bf3145cea18514b": {
+            "text": "Scegli l'opzione \"Markup\/HTML con gestione immagini\" per aggiungere i seguenti controlli a runtime:"
+        },
+        "2bc17a9602fb3fd33f9a6561c7b36177": {
+            "text": "1. Popolare attributi vuoti con la descrizione dei file - assicura che i cambiamenti alle descrizioni dei file siano propagati all'attributo alt dei tag <img>."
+        },
+        "5c84d65097148d9fa9a1be01e38c8f27": {
+            "text": "2. Ricrea automaticamente le variazioni di dimensione dei file."
+        },
+        "0899ba8ac053ddbc869eac2bf0c9f458": {
+            "text": "3. Rimuove i tag <img> che puntano a file che non esistono."
+        },
+        "a171deaa8f82c6e29796e95126fbd644": {
+            "text": "4. Registra gli errori relativi alle immagini mancanti sul file di log \"markup-qa-errors\" e invia una notifica all'utente amministratore\/di sistema."
+        }
+    }
+}

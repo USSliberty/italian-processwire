@@ -1,1 +1,33 @@
-{"file":"wire\/modules\/PageRender.module","textdomain":"wire--modules--pagerender-module","translations":{"3a160df105e3d9d54575466354bdd312":{"text":"Render della pagina"},"d2c5ea4202c4c692852b7e10fbceabd3":{"text":"Aggiunge il metodo render alla Pagina e fa cache dell'output."}}}
+{
+    "file": "wire\/modules\/PageRender.module",
+    "textdomain": "wire--modules--pagerender-module",
+    "translations": {
+        "3a160df105e3d9d54575466354bdd312": {
+            "text": "="
+        },
+        "d2c5ea4202c4c692852b7e10fbceabd3": {
+            "text": "Aggiunge il metodo render alla Pagina e salva l'output in cache."
+        },
+        "22a38306ce7556a0a5eeebca65cd9b58": {
+            "text": "Cache di pagina scaduta per l'intero sito"
+        },
+        "b091c65f589c970f6084669796efb995": {
+            "text": "Cancellato il file di cache: %s"
+        },
+        "af4137a5254dfe8654d87ff05286b80e": {
+            "text": "Cancellato il file di cache:"
+        },
+        "f3fbe32b9b2f8a4b6b3eecc5084e999c": {
+            "text": "Cancellato il file di cache per %d pagine"
+        },
+        "403c89515b16b3417cd2e426612b4a53": {
+            "text": "Cancellati %d file di cache per %d pagine"
+        },
+        "0c22fad509c478c3442a310a7a2b2c52": {
+            "text": "Cancellare la Cache Disco per Page Render?"
+        },
+        "b4999a543edcfefc8c56ed6eafdcb98f": {
+            "text": "Ci sono attualmente %d pagine in cache in %s"
+        }
+    }
+}

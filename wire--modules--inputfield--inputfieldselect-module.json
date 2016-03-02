@@ -1,0 +1,39 @@
+{
+    "file": "wire\\modules\\Inputfield\\InputfieldSelect.module",
+    "textdomain": "wire--modules--inputfield--inputfieldselect-module",
+    "translations": {
+        "6b66a61fa66288a9a7ad6474d2e686ec": {
+            "text": "Valore di default"
+        },
+        "c37baf4e64db68f6887058399a37ad60": {
+            "text": "Per avere valore(i) di default pre-selezionati, inserisci le opzioni (una per linea) qui sotto. Per le selezioni di pagina, inserisci gli ID delle pagine."
+        },
+        "d48cd2cb0f5c1d209800b28e019eb574": {
+            "text": "Il valore di default \u00e8 disponibile perch\u00e9 hai selezionato il box \"richiesto\" qui sopra."
+        },
+        "dae8ace18bdcbcc6ae5aece263e14fe8": {
+            "text": "Opzioni"
+        },
+        "3a4accfa68ff7300f67ad7d89e07770e": {
+            "text": "Inserisci le opzioni che possono essere selezionate, una per riga."
+        },
+        "6cdf2b7c6a202509ddad22ed4e6d1c3d": {
+            "text": "Per precedere la tua lista con un opzione vuota, inserisci solamente il simbolo uguale \"=\" come prima opzione."
+        },
+        "378f6008c3dc6eb2be984683df372592": {
+            "text": "Per rendere un opzione selezionata, precedila con un simbolo pi\u00f9. Esempio: +Opzione"
+        },
+        "75d2fefda1196dd14f506b0273ebed38": {
+            "text": "Per mantenere valori ed etichette separati, separali con un segno di uguale. Esempio: valore=opzione"
+        },
+        "663f303f44a9a25504e3c434fc37b34d": {
+            "text": "Per creare un optgroup (option group) indenta le opzioni del gruppo con 3 o pi\u00f9 spazi."
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "="
+        },
+        "eed6fbc4de3755e7189b1461a4844bea": {
+            "text": "Selezione di un singolo valore da un campo select"
+        }
+    }
+}
