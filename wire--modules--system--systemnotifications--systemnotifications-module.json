@@ -1,5 +1,5 @@
 {
-    "file": "wire\\modules\\System\\SystemNotifications\\SystemNotifications.module",
+    "file": "wire\/modules\/System\/SystemNotifications\/SystemNotifications.module",
     "textdomain": "wire--modules--system--systemnotifications--systemnotifications-module",
     "translations": {
         "09bcb72d61c0d6d1eff5336da6881557": {

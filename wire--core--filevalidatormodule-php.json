@@ -1,5 +1,5 @@
 {
-    "file": "wire\\core\\FileValidatorModule.php",
+    "file": "wire\/core\/FileValidatorModule.php",
     "textdomain": "wire--core--filevalidatormodule-php",
     "translations": {
         "32037e58557d829f1fe8cb434a624006": {

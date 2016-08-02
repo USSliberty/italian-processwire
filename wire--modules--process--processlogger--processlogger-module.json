@@ -1,5 +1,5 @@
 {
-    "file": "wire\\modules\\Process\\ProcessLogger\\ProcessLogger.module",
+    "file": "wire\/modules\/Process\/ProcessLogger\/ProcessLogger.module",
     "textdomain": "wire--modules--process--processlogger--processlogger-module",
     "translations": {
         "a422bfafc484bafeef9ccbfeb175c216": {
