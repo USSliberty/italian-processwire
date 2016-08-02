@@ -1,5 +1,5 @@
 {
-    "file": "wire\\modules\\System\\SystemNotifications\\SystemNotificationsConfig.php",
+    "file": "wire\/modules\/System\/SystemNotifications\/SystemNotificationsConfig.php",
     "textdomain": "wire--modules--system--systemnotifications--systemnotificationsconfig-php",
     "translations": {
         "521c36a31c2762741cf0f8890cbe05e3": {

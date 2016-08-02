@@ -1,5 +1,5 @@
 {
-    "file": "wire\\modules\\Process\\ProcessUser\\ProcessUserConfig.php",
+    "file": "wire\/modules\/Process\/ProcessUser\/ProcessUserConfig.php",
     "textdomain": "wire--modules--process--processuser--processuserconfig-php",
     "translations": {
         "512bc1289fe1ab9723f6ed9d3d6e651e": {
