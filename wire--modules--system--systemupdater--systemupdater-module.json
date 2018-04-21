@@ -19,6 +19,9 @@
         },
         "e3087085dad248ad622f15449dc45832": {
             "text": "Questo ti permette di riapplicare un update della versione del sistema riducendo il numero di versione."
+        },
+        "75a1550235c0efb5d9dedd5f02f1fe86": {
+            "text": "Cancellata la cache dei file compilati"
         }
     }
 }

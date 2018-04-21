@@ -2,71 +2,11 @@
     "file": "wire\/modules\/Fieldtype\/FieldtypeRepeater\/FieldtypeRepeater.module",
     "textdomain": "wire--modules--fieldtype--fieldtyperepeater--fieldtyperepeater-module",
     "translations": {
-        "5719e7cb7b73c9e6a4b7f3f49b9fd805": {
-            "text": "Aggiungi campi a questo repeater dalla scheda \"dettagli\"."
-        },
-        "f41ae5ce37aeed3613288bb8c0cc3489": {
-            "text": "Specifica i campi che sono usati da questo repeater. Puoi anche trascinare i campi nell'ordine desiderato."
-        },
-        "6daa35fd97a645b8e37cae080eab3de9": {
-            "text": "Aggiungi campo"
-        },
-        "028dbbda0ea85c6b4ff5f2c9b38495de": {
-            "text": "Nuovi elementi per il Repeater pronti per la modifica"
-        },
-        "903d3f840b615b110dd712afd0132f5f": {
-            "text": "Il numero di elementi pronti per la modifica (non pubblicati) per pagina disponibili per essere usati come nuovi elementi."
-        },
-        "e7fa825f7b362804c946096d4856f5ab": {
-            "text": "Se impostato a 0, nuovi elementi verranno creati non appena ci sar\u00e0 la necessita. Questa \u00e8 l'opzione pi\u00f9 efficiente."
-        },
-        "0130612d3e112f71601647fe1201aeda": {
-            "text": "Se impostato a 1 o ad un valore superiore, questi nuovi elementi saranno pronti per la modifica non appena cliccherai \"aggiungi elemento\". Questo consente aggiunte pi\u00f9 veloci."
-        },
-        "06f7e37d7cc093483d98d11772f75837": {
-            "text": "Numero massimo di elementi nel Repeater"
-        },
-        "9175b33ed3085ade32188d58a242e0bc": {
-            "text": "Il numero massimo di elementi repeater permessi."
-        },
-        "8db1e9fd86969c9e9ee4c09365c260a6": {
-            "text": "Se impostato a 0, non ci sar\u00e0 un limite massimo."
-        },
-        "f29a8c723be64c58c0e9f4cbd6c32a88": {
-            "text": "Se impostato a 1, questo campo si comporter\u00e0 come un singolo elemento [Page] anzich\u00e9 elementi multipli [PageArray]."
-        },
-        "66eb0d45c43394f51bdb0397febc5b4f": {
-            "text": "Nota che quando l'outputFormatting \u00e8 disattivato, si comporter\u00e0 sempre come un PageArray indipendentemente dall'impostazione."
-        },
-        "8c50c81f9df1bb1d4bc5689f9a6e7204": {
-            "text": "Tipo di Repeater"
-        },
-        "cb1f0ec5795fd6ab9a2e980b428cfff5": {
-            "text": "Se 'allegato' il repeater gestir\u00e0 il proprio template e la pagina genitore senza che tu debba pensarci."
-        },
-        "e3d6af2ddc6a90779dd75a3f9c753d7f": {
-            "text": "Se 'distaccato' potrai spostare e modificare la pagina genitore del repeater e il template."
-        },
-        "77e23d8e1ff8e93bfc6e188f62e409bd": {
-            "text": "Nota che una volta distaccato, ProcessWire non eliminer\u00e0 la pagina genitore o il template quando\/se il campo \u00e8 eliminato."
-        },
-        "1f8c0e21410e1c136bf780fc141b35ae": {
-            "text": "Aggiunto campo \"%1$s\" al Repeater \"%2$s\""
-        },
-        "f54c2540ded6390c6328b2838850482d": {
-            "text": "Rimosso campo \"%1$s\" dal Repeater \"%2$s\""
-        },
-        "0fe1cc90d79ebfffb11a259cc05d406d": {
-            "text": "La pagina genitore %s \u00e8 ora distaccata \u00e8 pu\u00f2 essere spostata o modificata."
-        },
         "d3b3350cb648f345b0a21a048df0cf45": {
             "text": "="
         },
         "64137776d10ddf89ff3087915287b872": {
             "text": "Mantiene una collezione di campi che sono ripetuti per un certo numero di volte."
-        },
-        "c58bb8dd26051c3ba65914f16c51f0b7": {
-            "text": "Campi del Repeater"
         }
     }
 }

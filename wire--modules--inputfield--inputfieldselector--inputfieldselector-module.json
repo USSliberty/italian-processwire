@@ -220,6 +220,30 @@
         },
         "ea4311c5f366d55a9a6e38450d3bad9f": {
             "text": "corrisponde a %d pagine"
+        },
+        "f9b4bd2025de32122aca0de287601aa0": {
+            "text": "Non coniene il testo"
+        },
+        "c792d413c780e14f2ab0cd586af2940a": {
+            "text": "Non contiene la frase"
+        },
+        "f97418feca88d6e3a1747a59883b35fe": {
+            "text": "Non contiene le parole"
+        },
+        "256511287ee7ec2a36613f761a24370c": {
+            "text": "Non comincia con"
+        },
+        "70e54ebce37af51191725a9b2451e1b0": {
+            "text": "Non termina con"
+        },
+        "2627637e263ef687fa978b576580b8b1": {
+            "text": "Selezionato"
+        },
+        "63bfec5d508757f781c6e3aa5ca214b6": {
+            "text": "Sandbox selettore"
+        },
+        "eae4975b49e9af4e0b024b1c44c7fe4f": {
+            "text": "Solo in caso tu voglia testare la funzionalit\u00e0 di questo Inputfield"
         }
     }
 }

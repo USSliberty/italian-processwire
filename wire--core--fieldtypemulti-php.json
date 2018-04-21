@@ -4,6 +4,33 @@
     "translations": {
         "e2942a04780e223b215eb8b663cf5353": {
             "text": "conteggio"
+        },
+        "0f87dcdd9cbafb48e5d9e444ba7c14a7": {
+            "text": "Ordinamento e paginazione"
+        },
+        "7f99274f686fafb79a69fb49fd22b087": {
+            "text": "Queste impostazioni si applicano sia al fron-end (sito) che al back-end (editor)"
+        },
+        "bfc4400f3a3f1f3ad8647c7391cc3f1c": {
+            "text": "(inverso)"
+        },
+        "1785200c818e6b465cab76d18f05aa40": {
+            "text": "Ordinamento automatico"
+        },
+        "c1e2087d761e1449f626c96d45bb1c3e": {
+            "text": "Scegli sotto uno o pi\u00f9 campi da ordinare. Per l'ordinamento manuale, lasciare quest'impostazione vuota."
+        },
+        "53fc83e55c6d5a04fd63ffe5c4e90d1c": {
+            "text": "Limite paginazione \/ elementi per pagina"
+        },
+        "cc4713abaa08f23ce8f1a1143a04ee77": {
+            "text": "Questo limita il numero di elementi caricati\/editati per la paginazione. Il valore \"0\" indica nessun limite (default)."
+        },
+        "0b01fc6afe7ee324751846ccf0dfc735": {
+            "text": "La paginazione \u00e8 raccomandata se lavori con centinaia di migliaia (o pi\u00f9) di elementi."
+        },
+        "ab7c5fc204d8e160a7b731a0799bf450": {
+            "text": "Quest'impostazione non avr\u00e0 effetto a meno che non sia effettuata una selezione per \"Ordinamento automatico\"."
         }
     }
 }

@@ -5,9 +5,6 @@
         "111ce57a33643818f896c8ef5b78f923": {
             "text": "Premi invio per aggiugere un nuovo elemento"
         },
-        "a2324d16f834e2138b021bb90f1823dc": {
-            "text": "Opzione avanzate dell'autocompletamento"
-        },
         "5bd9a3b9fd04ef31e99e96b10ce5ac5f": {
             "text": "Operatore di ricerca dell'autcompletamento"
         },
@@ -38,9 +35,6 @@
         "b956d301c10771357a356a80d9f0d3a5": {
             "text": "Campi da controllare per l'autocompletamento"
         },
-        "0c458f5b668cdb153d43ffa89c2f2393": {
-            "text": "Inserisci i nomi dei campi che dovrebbero essere controllati per l'autocompletamento. Tipicamente potrebbe essere solo il campo titolo, ma puoi aggiungerne altri separandoli con uno spazio. Nota che questo \u00e8 differente dalla \"Etichetta del Campo\" (sopra). Qui sono specificati i campi che vengo ricercati, non quelli che verranno visualizzati."
-        },
         "8fdfe6e949b4c07d26317e3e2f99a14d": {
             "text": "Il campo di testo indicizzato include:"
         },
@@ -55,6 +49,15 @@
         },
         "654866693fd91ce8e9764a218f569918": {
             "text": "Raccomandata"
+        },
+        "b167d45586a5cb2582394b5ec1545065": {
+            "text": "Inserisci i nomi dei campi che dovrebbero essere controllati per l'autocompletamento."
+        },
+        "6429d0ba1de3ee46f49581535ac36cf4": {
+            "text": "Tipicamente potrebbe essere solo il campo titolo, ma puoi aggiungerne altri separandoli con uno spazio."
+        },
+        "db47517eeed0761aad011565e44e8390": {
+            "text": "Nota che questo \u00e8 differente dalla \"Etichetta del Campo\" perch\u00e9 stai specificando quali campi verranno ricercati, non quali verranno visualizzati."
         }
     }
 }

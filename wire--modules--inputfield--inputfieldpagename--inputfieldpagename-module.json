@@ -16,6 +16,9 @@
         },
         "9bc6bf958fcb86296c17a2b2db2a00a6": {
             "text": "Il valore di sostituzione per ciascun carattere deve essere uno o pi\u00f9 dei seguenti valori: a-z, 0-9, trattino, trattino basso o punto."
+        },
+        "5e6587062568e96fc604e79a948a7460": {
+            "text": "La configurazione per la sostituzione caratteri \u00e8 disabilitata perch\u00e9 $config->pageNameCharset \u00e8 UTF8."
         }
     }
 }

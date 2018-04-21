@@ -161,12 +161,6 @@
         "fd8d17a2ebc3643f78fc97b8e5c3a7f3": {
             "text": "Inserisci i nomi dei campi immagini (separati con uno spazio) per i quali non vuoi permettere la selezione con questo modulo."
         },
-        "0bedb7a49466cc5abddacd2003be55b3": {
-            "text": "Salta gli attributi width sui tag immagine?"
-        },
-        "cf4a792de8b81c847ece5501f00def00": {
-            "text": "Per impostazione predefinita, questo modulo includer\u00e0 gli attributi width nei tag <img>. Se utilizzi immagini responsive, potresti voler disabilitare questo comportamento. Seleziona la box per disabilitare gli attributi width e height."
-        },
         "66e1d61daf21cfd5a9a0c3c172d7215d": {
             "text": "Non consigliamo di selezionare questa opzione in quanto potrebbe interferire con alcune caratteristiche (come le immagini HiDPI\/Retina)"
         },
@@ -211,6 +205,12 @@
         },
         "02b1a8c5ed34fba75d6ce56f68435743": {
             "text": "%1$d variazioni per l'immagine %2$s"
+        },
+        "0bedb7a49466cc5abddacd2003be55b3": {
+            "text": "Salta attributi width sui tag immagini?"
+        },
+        "522779383d7b7d46168fcc8ae1c5d4a5": {
+            "text": "Di default, questo modulo includer\u00e0 attributi width nel tag img. Se utilizzi immagini responsive, potresti voler disabilitare questo comportamento. Seleziona la casella per disabilitare attributi width e height."
         }
     }
 }

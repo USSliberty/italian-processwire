@@ -8,9 +8,6 @@
         "35b837a5674ea74e192fc0fa8b68f46c": {
             "text": "Prefisso per i numeri di pagina per la paginazione"
         },
-        "6119a76d8e8915737cda0e4151922c06": {
-            "text": "Il numero di pagina verr\u00e0 attaccato a questa parola negli URL paginati per questa lingua. Se omesso, \"%s\" verr\u00e0 usato."
-        },
         "5b5fec43bb1313c56d2e944d9567cd96": {
             "text": "Lingua di default per l'URL dell'homepage \u00e8 la stessa dell'URL radice?"
         },
@@ -25,6 +22,12 @@
         },
         "f1bd84fbcee1b287fe538f7df1cbd700": {
             "text": "No - L'URL radice esegue un redirect a: \/name\/"
+        },
+        "68d765216e3092d42524f9f6f14ce93c": {
+            "text": "Il numero di pagina verr\u00e0 attaccato a questa parola negli URL paginati per questa lingua. Se omesso, \"%s\" verr\u00e0 usato."
+        },
+        "d5af3f8c985a3592422462cce67bc86c": {
+            "text": "Una pagina sorella (id=%1$d) sta gi\u00e0 usando il nome \"%2$s\" per la lingua: %3$s"
         }
     }
 }

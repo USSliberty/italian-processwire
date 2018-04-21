@@ -22,6 +22,51 @@
         },
         "d57a97a659253e107095a0ad40576d9f": {
             "text": "L'indirizzo email \"%s\" \u00e8 gi\u00e0 in uso da un altro utente."
+        },
+        "2ed85673c671a4f6a96ccccf154dab83": {
+            "text": "Nome login utente"
+        },
+        "c5e601d1ba182fc5a8c177a4f5eb6661": {
+            "text": "Per cambiare questo campo, devi inserire anche la tua password nel campo \"Imposta Password\"."
+        },
+        "cb6f985e3af3f01a7f7f9e2d3cc6fe77": {
+            "text": "L'username pu\u00f2 contenere lettere minuscole a-z, 0-9 trattini o underscore."
+        },
+        "31ed16771212c1b9c52ea8680a61c5bb": {
+            "text": "La password richiesta non \u00e8 corretta"
+        },
+        "b54db85c5475befbb8e4d05e3985853b": {
+            "text": "La password non \u00e8 stata fornita"
+        },
+        "c0902bb307af1c623dc07a6070c33261": {
+            "text": "Non permesso"
+        },
+        "c41276451b92f986f438a836dd99ed69": {
+            "text": "Filtrato in \"%s\", il quale \u00e8 diverso dal valore che hai inserito"
+        },
+        "c012e2a8b9e129403f8b93547086500a": {
+            "text": "Troppo corto"
+        },
+        "b2df7887a34999a0fee743420750a9ec": {
+            "text": "Troppo lungo"
+        },
+        "8d7dadc018de46d934c7f3a9c0ade8b7": {
+            "text": "Gi\u00e0 in uso"
+        },
+        "0be33c8c71eb4cbffd8ff2999d0660db": {
+            "text": "Non pu\u00f2 cominciare o finire con un carattere non alfabetico\/numerico"
+        },
+        "642249113906da67a3b9d3d446555c93": {
+            "text": "Non pu\u00f2 contenere trattini adiacenti, underscore o punti"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Nome"
+        },
+        "b021df6aac4654c454f46c77646e745f": {
+            "text": "Etichetta"
+        },
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "Tipo"
         }
     }
 }

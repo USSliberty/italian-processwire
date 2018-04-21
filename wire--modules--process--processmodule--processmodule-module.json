@@ -376,6 +376,39 @@
         },
         "7f3e66ccbb2c396210f9f58ad5a75e39": {
             "text": "="
+        },
+        "4516572c6fda0d98d0668aecc205fd25": {
+            "text": "Errore durante l'installazione del modulo"
+        },
+        "75a1550235c0efb5d9dedd5f02f1fe86": {
+            "text": "Cancellata la cache dei file compilati"
+        },
+        "0e1b7d725ac07f97cf9181f6cea25cf5": {
+            "text": "Cancella file compilato"
+        },
+        "496fe18d4a1185b1236724440ed4ade6": {
+            "text": "Il bottone seguente cancella i file compilati dei moduli e dei templati, forzando la ricompilazione al caricamento successivo. Nota che potrebbe causare un ritardo temporaneo per una o pi\u00f9 richieste mentre i file vengo ricompilati."
+        },
+        "f83f6b012ba134e5168ab27e4587b2d3": {
+            "text": "I requisiti del modulo non sono soddisfatti pertanto potrebbero verificarsi problemi. Sei sicuro di voler proceder?"
+        },
+        "16e56a7f64aa21e73cf55bd8a6334cf8": {
+            "text": "%s + Esci"
+        },
+        "0a5d45b5062fbc6cf7c0fce7c6ecedb7": {
+            "text": "="
+        },
+        "498ba8bc46d453108ed1961748ae5d6c": {
+            "text": "Nessuno (namespace root)"
+        },
+        "2f44417567bc123bd7c60de8c2a2b444": {
+            "text": "prima"
+        },
+        "632a2406bbcbcd553eec45ac14b40a0a": {
+            "text": "dopo"
+        },
+        "d9402453cf25d5a1ced0a12d96cc7f98": {
+            "text": "="
         }
     }
 }

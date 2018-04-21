@@ -19,6 +19,21 @@
         },
         "9c5373f59e41806b9e3e6f204b184bdc": {
             "text": "Interruttore singolo della checkbox"
+        },
+        "2627637e263ef687fa978b576580b8b1": {
+            "text": "Selezionato"
+        },
+        "170635e560a679be3d1a532e2979d08c": {
+            "text": "Non selezionato"
+        },
+        "abef8912ef3f167ed726c6a56288dce5": {
+            "text": "Etichetta checkbox"
+        },
+        "ad96619d37c6ca42363be76aba496b26": {
+            "text": "Se vuoi avere separati campo ed etichette checkbox, specifica qui l'etichetta che apparir\u00e0 di fianco alla checkbox."
+        },
+        "fee76a03fa4f7d7f0cbb391c9474316d": {
+            "text": "Se non specificato, verr\u00e0 usata l'etichetta del campo."
         }
     }
 }

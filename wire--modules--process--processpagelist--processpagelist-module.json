@@ -61,6 +61,15 @@
         },
         "bcf77f341a0ec5189588bdad819c9ee7": {
             "text": "Per opzioni aggiuntive, vedere l'impostazione $config->pageList in \/wire\/config.php. Puoi copiare quelle impostazioni in  \/site\/config.php e sovrascriverle."
+        },
+        "8cd0d0c99b062b3d22e8c7188ba33ab2": {
+            "text": "Mostra tutti"
+        },
+        "9f8ce5c6cbebc34795f4241c8932573a": {
+            "text": "(%d pagine)"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Aggiungi nuova"
         }
     }
 }

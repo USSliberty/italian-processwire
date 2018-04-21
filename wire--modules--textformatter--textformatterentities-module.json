@@ -5,8 +5,8 @@
         "895d280780a54e8c5561dea1f6a4b34d": {
             "text": "="
         },
-        "f34604edab8aa5bdc9e452d3e4693952": {
-            "text": "Codifica le entit\u00e0 e commerciale, virgolette (singole e doppie) e i simboli di maggiore\/minore usando htmlspecialchars(str, ENT_QUOTES). Si raccomanda che questo venga usato su tutti i campi text\/textarea eccetto quelli che usano un rich text editor come TinyMCE o un linguaggio di markup come Markdown."
+        "9bb1720cc990c910fd69b4b3690cfbce": {
+            "text": "Codifica le entit\u00e0 e commerciale, virgolette (singole e doppie) e i simboli di maggiore\/minore usando htmlspecialchars(str, ENT_QUOTES). Si raccomanda che questo venga usato su tutti i campi text\/textarea eccetto quelli che usano un rich text editor o un linguaggio di markup come Markdown."
         }
     }
 }

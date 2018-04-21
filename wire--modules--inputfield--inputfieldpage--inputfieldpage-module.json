@@ -29,35 +29,11 @@
         "6f8d1b93e4aad53511c85e29ed36b3d0": {
             "text": "="
         },
-        "962f1366aaa6f1c636d3214e12322362": {
-            "text": "Pagine selezionabili"
-        },
-        "21348aafc8733099a5b3c20e4a90e7b4": {
-            "text": "Genitore delle pagine selezionabili"
-        },
         "5b0591013bf2cac5ee96f90e31a5b2e9": {
             "text": "Scegli il genitore delle pagine selezionabili."
         },
-        "dceea0994df5640514b906a18a43810f": {
-            "text": "Template delle pagine selezionabili"
-        },
-        "9f80067ff42d8e69d0c3a24b67ef4c85": {
-            "text": "Scegli il template delle pagine selezionabili. Pu\u00f2 essere usato al posto di, o in aggiunta a, il genitore indicato sopra. NOTA: non \u00e8 compatibile con i tipi di campo PageListSelect."
-        },
-        "53158583a607fba6e71f0f18d73a910b": {
-            "text": "Selettore personalizzato per trovare le pagine selezionabili"
-        },
-        "6ad160329dd81f9ecede290bffe93928": {
-            "text": "Se vuoi trovare le pagine selezionabili utilizzando un selettore ProcessWire piuttosto che scegliere una pagina genitore o un template (sopra) allora inserisci il selettore per trovare le pagine selezionabili. Questo selettore verr\u00e0 passato alla funzione $pages->find(\"selettore\");. NOTA: non \u00e8 attualmente compatibile con il tipo di campo PageListSelect."
-        },
-        "3d9e8a4318894ce247ba920c7961d5da": {
-            "text": "Mentre questo sovrascrive le selezioni di genitore e di template definite sopra, queste selezioni sono comunque utilizzate per la validazione (deselezionale se non vuoi questo comportamento)"
-        },
         "1920ec4f46fd3f4962d351c84f69cf7e": {
             "text": "="
-        },
-        "d04c6c77608855a3ff0fb3ee32a2cd53": {
-            "text": "Codice PHP personalizzato per trovare le pagine selezionabili"
         },
         "d0188d35124b9f7887cc0d158da64328": {
             "text": "Se vuoi trovare le pagine selezionabili utilizzando codice PHP piuttosto che scegliere una pagina genitore o un template (sopra) allora inserisci il codice per trovare le pagine selezionabili. Questa dichiarazione avr\u00e0 accesso alle variabili API $page e $pages, dove $page si riferisce alla pagina correntemente modificata."
@@ -95,38 +71,125 @@
         "881b1a7b97bc4d70099cc59a53e8a8e5": {
             "text": "Tipo di campo di input"
         },
-        "bcf331523fb730639bde7c2e8fc4f811": {
-            "text": "Il tipo di campo che verr\u00e0 utilizzato per scegliere la pagina. Scegli un campo consistente con il valore di ritorno pagina singola\/pagine multiple che scegli nella scheda \"dettagli\" di questo campo."
-        },
-        "ebd9ef41cdc1369f55f58b151390de31": {
-            "text": "Alcuni tipi di input possono fornire opzioni di configurazione aggiuntive. Dopo aver scelto un tipo di input, ed aver salvato i tuoi cambiamenti, opzioni aggiuntive di configurazione possono apparire sotto questa sezione."
-        },
-        "195a66e99428447940ac989366724b42": {
-            "text": "I tipi indicati con un asterisco sono per la selezione multipla di pagine."
-        },
-        "54b79da80ed98094797b9e3ee68488a6": {
-            "text": "I tipi indicati con un segno pi\u00f9 presuppongono che un \"genitore\" sia la radice di un albero, anzich\u00e9 un genitore di primo livello."
-        },
         "8332fcbd80839cdcc617bee49529ad1e": {
             "text": "Permettere alle nuove pagine di essere create dal campo?"
         },
         "20463a1675fc256b438538124524746a": {
             "text": "Se selezionato, un opzione per aggiungere nuove pagine sar\u00e0 presente se i requisiti indicati sono soddisfatti."
         },
-        "7673446b991c59998763308c9f7f5d53": {
-            "text": "1. Sia il genitore che il template devono essere selezionati sopra."
-        },
         "65a208c6491dac4a6fb17f7a62f76658": {
             "text": "2. L'utente che esegue la modifica deve avere l'accesso in creazione\/pubblicazione per queste pagine."
-        },
-        "aa2e4d260721b3a7e2776b8cb9c19fdf": {
-            "text": "3. Il campo\/etichetta deve essere impostato su \"titolo (default)\"."
         },
         "d9a5927aa49f1a766a15e692b69c1c91": {
             "text": "Moduli Inputfield disponibili per la selezione delle pagine"
         },
         "d5a1e1e864827e2bbb99d144e30359de": {
             "text": "Scegli i moduli Inputfield che possono essere utilizzati per la selezione delle pagine. Questi dovrebbero essere generalmente Inputfields che permettono di scegliere una o pi\u00f9 opzioni."
+        },
+        "db62b7d9ccb858fb53481683f5d1d813": {
+            "text": "Questo campo deve essere configurato prima di poter essere utilizzato."
+        },
+        "5e1daea70649e788db6ead8cd50f791d": {
+            "text": "La pagina non pubblicata %1$s non \u00e8 permessa nel campo \"%2$s\""
+        },
+        "1cc510dea04a978b3bb88514582eea6c": {
+            "text": "Per permettere pagine non pubblicate, modifica il campo \"%s\" e controlla l'impostazione nella tab \"Avanzate\"."
+        },
+        "309980b76124ca15c19a948edcd2b820": {
+            "text": "Pagine selezionabilit"
+        },
+        "e50655dbc7c36d40e2cf238aae3bf9c8": {
+            "text": "Usa almeno una delle opzioni sotto per determinare quali pagine verranno selezionate con questo campo."
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "Genitore"
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "="
+        },
+        "e633bd1a014a2d5f6beee84c20440cb4": {
+            "text": "Scegli il template delle pagine che sono selezionabili. Pu\u00f2 essere usato al posto di, o in aggiunta a, il genitore sopra."
+        },
+        "38c3a6e66709a7bfc48e7450e726a9b5": {
+            "text": "Template aggiuntivi"
+        },
+        "24ae2cf02f858ca0ae6dd168fe28add8": {
+            "text": "Se hai bisogno di aggiungere template aggiuntivi per le pagine selezionabili, sceglile da qui."
+        },
+        "1bffba8c823b325ac5713f424da43182": {
+            "text": "Potrebbe non essere supportato da tutte le tipologie di input."
+        },
+        "cdce55320d6f3ed4e6ac6f952d43903d": {
+            "text": "Mentre questo sovrascrive le selezioni genitore e template, queste selezioni (se presenti) verranno utilizzate comunque per la validazione."
+        },
+        "83309c97a345b4921da94ff53e86da68": {
+            "text": "Aggiungi uno o pi\u00f9 campi sotto per creare una query che trova le pagine che vuoi rendere selezionabili."
+        },
+        "46ccc95f9f53fc892accee255689f495": {
+            "text": "Questo crea un selettore che trover\u00e0 le pagine a runtime. Se preferisci inserirlo manualmente, usa invece l'opzione \"Selettore\" qui sotto."
+        },
+        "533e8044020cfac547586cacca582fca": {
+            "text": "Ricerca personalizzata"
+        },
+        "709109a0ca7566a6bfae0f6145c8c613": {
+            "text": "Aggiungi campo alla query"
+        },
+        "5742607846ab8e8f502a078e624a2f24": {
+            "text": "Selettore"
+        },
+        "14d274b0d81592a035d1fb04ee031fb6": {
+            "text": "Se vuoi trovare pagine selezionabili usando un selettore ProcessWire, inserisci il selettore per trovare le pagine selezionabili. Questo selettore verr\u00e0 passato alla chiamata `$pages->find(\"selettore\");`."
+        },
+        "c53eb6ef357cebe320e9c359e7adfaeb": {
+            "text": "Aggiungi il seguente hook a %s e modifica in base alle tue esigenze. L'hook dovrebbe trovare e ritornare le pagini selezionabili in un PageArray."
+        },
+        "06d1dad5791272bfde6c76b87289a62b": {
+            "text": "Se hai bisogno di sapere le pagine modificate, \u00e8 accessibile da: %s"
+        },
+        "89ba456c93408d4bc5888a8e960dbb79": {
+            "text": "Codice PHP"
+        },
+        "9eeb68b4b7e0c3608f3014ad177b15fb": {
+            "text": "Il tipo di campo input (modulo Inputfield) che verr\u00e0 usato per selezionare le pagine per questo campo."
+        },
+        "1df666749c8b91ac260ac68b3a1dfeb3": {
+            "text": "Selezione multipla di pagine"
+        },
+        "c051cff56b1d25c941ba4268f2c9c8b1": {
+            "text": "Selezione singola di pagin"
+        },
+        "23aec26e2b521c0e5f1061b3d04983a5": {
+            "text": "ordinabile"
+        },
+        "8f23ded99b5882bf55f3aa4154cf10df": {
+            "text": "Riguardo le tipologie di input \"Page List\""
+        },
+        "89f32c3a56b097c4da3f220687f2cad5": {
+            "text": "Impostazioni specifiche di \"%s\""
+        },
+        "6bd4cf6cf4401b1a39b1fcdd57bd4c68": {
+            "text": "1. Sia il genitore che il template devono essere specificati nella sezione \"Pagine selezionabili\"."
+        },
+        "8379c940f14c74babf288df5cec8a408": {
+            "text": "3. L'etichetta del campo deve essere impostata su \"titolo (default)\"."
+        },
+        "215c501706b9ef0657264f0cb931dbd3": {
+            "text": "Scegli un valore che \u00e8 consistente con la selezione \"Tipo valore\" sulla tab \"Dettagli\" per la selezione di pagine singole o multiple."
+        },
+        "081b70a0b1eb9e48918ebc5d3c8afc6b": {
+            "text": "Dopo aver selezionato un tipo di input field e aver salvato, qui sotto potrebbero essere disponibili configurazioni aggiuntive specifiche per la tua selezione."
+        },
+        "bbc8c6c107d8cf7e49310723820e8052": {
+            "text": "Hai selezionato un tipo di input che ha requisiti specifici."
+        },
+        "d45d37464c307f05fe480979c03fd99b": {
+            "text": "Specifica solo l'opzione \"Genitore\" mentre configuri le \"Pagine selezionabili\"."
+        },
+        "a8e65bab8badd05312e21a13bc8aacf1": {
+            "text": "Nota che il genitore che specifichi qui significa la radice dell'albero delle pagine selezionabili."
+        },
+        "d89af7d091962a34d3d666a54148e1f9": {
+            "text": "Se vuoi fare in modo che tutto sia selezionabile, non specificare niente."
         }
     }
 }

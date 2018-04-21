@@ -7,6 +7,9 @@
         },
         "b198072961bf47ed9c790c1006f98372": {
             "text": "Aggiornati %d percorsi"
+        },
+        "0e620fb070fcc5279681b61f5720fb6e": {
+            "text": "Disinstalla il modulo Core > PagePaths (non \u00e8 compatibile con LanguageSupportPageNames)"
         }
     }
 }

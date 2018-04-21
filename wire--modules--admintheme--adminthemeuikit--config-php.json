@@ -1,0 +1,180 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeUikit\/config.php",
+    "textdomain": "wire--modules--admintheme--adminthemeuikit--config-php",
+    "translations": {
+        "ed9bcb3b4e6221f67a2543f66109248a": {
+            "text": "Se vuoto, verr\u00e0 usato il file predefinito."
+        },
+        "a825c84dec047bf77ef218348c6496ed": {
+            "text": "Inserisci il percorso relativo all'URL dell'homepage."
+        },
+        "de71102a6c8bba23cf43b10e6dc86adc": {
+            "text": "(RACCOMANDATO)"
+        },
+        "ff498dcc16878847ee1d01c38a0138f3": {
+            "text": "(SPERIMENTALE)"
+        },
+        "6f8d1b93e4aad53511c85e29ed36b3d0": {
+            "text": "="
+        },
+        "1a79a4d60de6718e8e5b326e338ae533": {
+            "text": "+"
+        },
+        "2d7e18586d2265fc63934ad26902effb": {
+            "text": "Masthead e navigazione"
+        },
+        "5580ceafc3f05d1b31e318f00e2d187c": {
+            "text": "Avatar utente"
+        },
+        "f9a6b1bbc44e674712c33ec4363ca698": {
+            "text": "Gravatar (servizio esterno che determina l'avatar dall'email)"
+        },
+        "33821a7c07464e5442de3b0aa1836854": {
+            "text": "Scegli un campo immagine, Gravatar, oppure un icona da visualizzare come avatar utente nell'intestazione principale."
+        },
+        "52d59ff487072b976a4e83f890f18c4e": {
+            "text": "Campo immagine: %s"
+        },
+        "8b5c3dc5e49d1be8ee1648a5bc454559": {
+            "text": "Non ci sono campi immagine presenti attualmente sul template \"utente\", pertanto sono mostrate solo icone e Gravatar."
+        },
+        "08c95f3605e4e76b340174ba21b8462d": {
+            "text": "Puoi aggiungere campi immagine al tuo template utente [qui](%s)"
+        },
+        "2ff62c17135d9704b59a98881cffa793": {
+            "text": "Icona: %s"
+        },
+        "bb96132ad3ed6087cc9a11da0539a499": {
+            "text": "Formato etichetta navigazione utente"
+        },
+        "ef36780437bb9746cb9e4a684be3d0ae": {
+            "text": "Questa etichetta apparir\u00e0 di fianco all'avatar utente."
+        },
+        "33f5c52210024a7906c33c262435d813": {
+            "text": "Specifica campo\/campi e formato da utilizzare per l'etichetta utente, o lascia vuoto per nessuna etichetta."
+        },
+        "9ac50f55fe0eb306162cdde72aee40db": {
+            "text": "Utilizza qualsiasi campo\/propriet\u00e0 del template utente circondato da {parentesi}."
+        },
+        "e4e4bda20c3f3d73a0ab8a162324a5ef": {
+            "text": "Usa {Name} per il nome maiuscolo, che \u00e8 l'impostazione di default, oppure utilizza {name} per il nome minuscolo."
+        },
+        "94badcf29c95c51eb93549c399c1c91d": {
+            "text": "Esempi: \u201c{name}\u201d, \u201c{Name}\u201d, \u201c{title}\u201d, \u201c{first_name} {last_name}\u201d, \u201c{company.title}\u201d, ecc."
+        },
+        "496160bbca5b6421fb40ff6676562b17": {
+            "text": "Azione al click sul logo dell'intestazione principale"
+        },
+        "96f31592de4b37ce5ff61db935fbfa81": {
+            "text": "Elenco pagine"
+        },
+        "2fcf0b21fb2e5b0c2ed8774ca91bd3a0": {
+            "text": "Apri navigazione offcanvas"
+        },
+        "ebd9bec4d70abc789d439c1f136b0538": {
+            "text": "="
+        },
+        "1688f46c79b3285c9de79d60d63d32d0": {
+            "text": "Tipo interfaccia"
+        },
+        "21924d98c4f369c97991af1760e5fc64": {
+            "text": "Tradizionale con la navigazione nell'intestazione"
+        },
+        "77c0933cca4f9492cb03f4a2d091901e": {
+            "text": "Navigazione dell'albero pagine nella barra laterale"
+        },
+        "3c8286b98b6dfd2248df2a3d70cb8fc4": {
+            "text": "(sinistra)"
+        },
+        "45c75f330de92569cb24cebab40a20fc": {
+            "text": "(destra)"
+        },
+        "cdf0447c0bfca1430af1916d3695665e": {
+            "text": "Navigazione nella barra laterale (sinistra) + navigazione dell'albero pagine (destra)"
+        },
+        "cd49cb29b2424eb2cfa6526153e12f3f": {
+            "text": "*I layout con la barra laterale non sono compatibili con il modulo SystemNotifications e potrebbero avere problemi con altri moduli."
+        },
+        "029ec5ac76207f4e7627a0e3ffbdb15b": {
+            "text": "Larghezza massima layout"
+        },
+        "c0a71759159badff6c9c45f730402dd6": {
+            "text": "Specifica la larghezza massima del layout (in pixel) oppure 0 per nessun massimo."
+        },
+        "c20f63b379f6b02a18439890f5ce535b": {
+            "text": "Si applica solo all'interfaccia tradizionale."
+        },
+        "37243206806c555c2dbce190b1f49f37": {
+            "text": "Style notifiche"
+        },
+        "dff1a43f94a6ab1d04bef81420510e6c": {
+            "text": "Non si applica se il modulo SystemNotifications \u00e8 installato."
+        },
+        "afae44a9309db56726837157afdd1a2a": {
+            "text": "Raggruppa per tipo con i controlli di espansione\/compressione"
+        },
+        "9d2e228039bb6eef2e6cbaff5c904b56": {
+            "text": "Mostra sempre tutto"
+        },
+        "81e3da80ad979591250cca7feb39720b": {
+            "text": "File specifici"
+        },
+        "6059a6e9b311f4cb4afd60c154f0bef5": {
+            "text": "File CSS primario"
+        },
+        "fd57cabd74aeddd5a95d662e680dd5ef": {
+            "text": "Non raccomandiamo cambiare quest'impostazione a meno che tu non sia uno sviluppatore temi."
+        },
+        "990a068cf660ce4eaf87777c43d07057": {
+            "text": "File per l'immagine del logo"
+        },
+        "35c45261e46b5a1400aef3ecbf237879": {
+            "text": "Il file dovrebbe essere PNG, GIF, JPG oppure SVG, su sfondo trasparente, e almeno largho 100px in entrambe le direzioni."
+        },
+        "6c6a6ca96d96fc13c06abbf98f38668f": {
+            "text": "Impostazioni di visibilit\u00e0 dei campi form"
+        },
+        "21909eb7e7cbb04d9c804458848a7af3": {
+            "text": "Queste impostazioni influenzano tutti i campi form nel pannello."
+        },
+        "f695996235a3c704a6780cf5515b6fdb": {
+            "text": "Ciascuna di queste impostazioni (e altre) possono essere specificate individualmente per ogni campo."
+        },
+        "0b28aca953c7100643fcacab33dbf502": {
+            "text": "Se specifichi un impostazione qui, sovrascriver\u00e0 le impostazioni individuali del campo."
+        },
+        "15367a85a0239326ebf3b0294edd61ce": {
+            "text": "Vedi: Impostazioni > Campi > [campo] > Input (tab) > Impostazioni tema Admin."
+        },
+        "6dcf297b0d223e7a27081a7c4bd6497f": {
+            "text": "Tipi di input che non dovrebbero avere bordo"
+        },
+        "141c494a39b11098554fc3d327578895": {
+            "text": "Quest'impostazione si applica a ciascun tipo selezionato quando utilizzato al 100% di larghezza."
+        },
+        "99be59c66e12e86aefeced8b65c1effc": {
+            "text": "I tipi di input che dovrebbero utilizzare lo stile \"Card\""
+        },
+        "949bcbdc5822582126d426c6f82f4fa4": {
+            "text": "Questo campo \u00e8 un esempio dello stile card."
+        },
+        "cf83a7d29c286d14e29a97334e9279a5": {
+            "text": "Non si applica ai tipi selezionati che non hanno bordo."
+        },
+        "391889c9ed085249fe76c0beb25ad304": {
+            "text": "I tipi di input che dovrebbero avere un offset con un margine verticale aggiuntivo."
+        },
+        "0d638e3ac46bc8f0cf58d60281ff4ebc": {
+            "text": "Come esempio, i campi in questo insieme utilizzano questa opzione."
+        },
+        "627a242af272f5913c8af08cff4cadf9": {
+            "text": "Applica offset verticale a TUTTI i tipi di input?"
+        },
+        "0222ce0d1bbe27a8e1cd12c3c7f4814c": {
+            "text": "Se selezionato, un margine verticale verr\u00e0 applicato ad ogni campo."
+        },
+        "1939d9deea3a9b379eca5948b1b3cfc6": {
+            "text": "Questo pu\u00f2 rendere pi\u00f9 chiaro i form in alcuni casi, ma verr\u00e0 utilizzato pi\u00f9 spazio verticale."
+        }
+    }
+}

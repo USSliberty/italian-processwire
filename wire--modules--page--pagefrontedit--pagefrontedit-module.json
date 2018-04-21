@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Page\/PageFrontEdit\/PageFrontEdit.module",
+    "textdomain": "wire--modules--page--pagefrontedit--pagefrontedit-module",
+    "translations": {
+        "6515bf8b9ae525409c260d022033fdd6": {
+            "text": "Sei sicuro di voler annullare?"
+        },
+        "eedf6b8bfc83284c3294ec4b38188e8a": {
+            "text": "Salvataggio..."
+        },
+        "db8ecb61f23a81a38b2c83858269f951": {
+            "text": "Salvato!"
+        }
+    }
+}

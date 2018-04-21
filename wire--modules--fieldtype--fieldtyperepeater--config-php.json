@@ -1,0 +1,159 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeRepeater\/config.php",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--config-php",
+    "translations": {
+        "cb2d417d536ac6b6d8668d272b28ca47": {
+            "text": "Il campo Repeater \"%s\" ha un impostazione \"richiesto solo se\", e non \u00e8 supportato nei campi Repeater."
+        },
+        "5719e7cb7b73c9e6a4b7f3f49b9fd805": {
+            "text": "Aggiungi i campi a questo repeater dalla tab \"dettagli\"."
+        },
+        "f41ae5ce37aeed3613288bb8c0cc3489": {
+            "text": "Definisci i campi che sono utilizzati da questo repeater. Puoi anche trascinare i campi nell'ordine desiderato."
+        },
+        "6daa35fd97a645b8e37cae080eab3de9": {
+            "text": "Aggiungi campo"
+        },
+        "ebfc6d0dd40c27dd753e7e6dfbf18dd2": {
+            "text": "Etichette elementi repeater"
+        },
+        "66a81e26ad18214b582553f4d33030f2": {
+            "text": "Inserisci il nome del campo da usare come etichette per il repeater nell'editor della pagina, oppure lascia vuoto per generarlo automaticamente."
+        },
+        "699a4d80b29a2b87e8bea7946afebe8e": {
+            "text": "Per usare campi multipli, o per specificare il tuo formato stringa, incapsula i nomi dei campi in {parentesi}."
+        },
+        "c5e90fa5edbe00c619ca4d69c3692627": {
+            "text": "Per includere il numero di indice del repeater per ogni etichetta, aggiungi \"#n\" nel tuo formato stringa."
+        },
+        "4c95bcccf333bef2208b02fbd212af55": {
+            "text": "Esempio: #n: {title}"
+        },
+        "d347b63bb97431df68506ea3059be495": {
+            "text": "Etichetta per aggiungere nuovi elementi"
+        },
+        "db9d65ca0ad208926207fbf99636b1f4": {
+            "text": "Inserisci l'etichetta che vuoi usare per il testo\/pulsante \"Aggiungi nuovo elemento\", o lascia vuoto per il valore di default."
+        },
+        "ef9eb3b1c72a3d00e09495aa7ecf195a": {
+            "text": "Visibilit\u00e0 elementi repeater nell'editor"
+        },
+        "e420623b25fa348e2155e3e2bdbf5620": {
+            "text": "Gli elementi del repeater possono essere aperti o chiusi (richiede un click per l'apertura). La modalit\u00e0 chiusa \u00e8 pi\u00f9 indicata per l'ordinamento e per visualizzare tutti i tuoi elementi assieme."
+        },
+        "c2d450307945339defec74620dd295d2": {
+            "text": "Nuovi elementi aperti, elementi esistenti chiusi (raccomandato nella maggior parte dei casi)"
+        },
+        "0905199ed34fceff86e31adf81cbc702": {
+            "text": "Elementi sempre aperti (disabilita il caricamento dinamico degli elementi esistenti)"
+        },
+        "83a9d92f04fe2ce7f34ad4e7070c61aa": {
+            "text": "Elementi sempre chiusi"
+        },
+        "1c1fc75d282666eeffc288a4d82594ba": {
+            "text": "Caricamento dinamico (AJAX) del repeater nell'editor"
+        },
+        "78385cca5a362b333c60753b2fcf6e40": {
+            "text": "Quali elementi dovrebbero essere caricati dinamicamente via AJAX nell'editor della pagina? Se noti che il repeater utilizza campi che non funzionano con il caricamento dinamico, potrebbe essere necessario disabilitare questa funzionalit\u00e0."
+        },
+        "18e57decad6ecfd57b1231426deb7f2d": {
+            "text": "Elementi esistenti e nuovi (raccomandato, specialmente per repeater che potrebbero avere MOLTI elementi)"
+        },
+        "e8b8b3345ab0076aaef6c21cd7ca5b79": {
+            "text": "Solo nuovi elementi (valido per repeater che avranno solo POCHI elementi)"
+        },
+        "d15305d7a4e34e02489c74a5ef542f36": {
+            "text": "+"
+        },
+        "2db718f06a27de2a35a889b205ef0bb4": {
+            "text": "Ricorda quali elementi del repeater sono aperti?"
+        },
+        "031e3292fe279734b454896226066dfc": {
+            "text": "Se selezionato, gli elementi aperti del repeater rimarranno aperti dopo il salvataggio o dopo un nuovo caricamento dell'editor pagina (a meno che l'utente non li chiuda)."
+        },
+        "fc47b04d62211ce6992143d1e92e2fbe": {
+            "text": "Usa la modalit\u00e0 accordion?"
+        },
+        "d608f61f5c7a0e2b84a3ae252a596a48": {
+            "text": "Se selezionato, solo un elmento del repeater verr\u00e0 aperto."
+        },
+        "90ed744894b90ce9c561d6a428cad4ee": {
+            "text": "Numero massimo di elementi"
+        },
+        "528f529d4617eb805a332c782f8666fe": {
+            "text": "Se hai bisogno di limitare il numero di elementi permessi, inserisci qui il limite (0=nessun limite)."
+        },
+        "f504e6acf8424e003e90434b8f4ada08": {
+            "text": "Numero minimo di elementi"
+        },
+        "d167f14d9682362265c133aca323b335": {
+            "text": "Questa quantit\u00e0 di elementi sar\u00e0 sempre aperta e pronta alla modifica (0=nessun minimo)."
+        },
+        "d0deefb333b608453cbec94b81a136de": {
+            "text": "Profondit\u00e0 elemento"
+        },
+        "e316c9556c1be5b536576ce4b27d0575": {
+            "text": "Per supportare elementi con profondit\u00e0, inserisci la profondit\u00e0 massima permessa, o lascia vuoto per disabilitare."
+        },
+        "ea3a2c41fc47d9150f65147b030a3ad8": {
+            "text": "Quando modifichi un repeater, puoi cambiare la profondit\u00e0 di un elemento cliccando le frecce di trascinamento per ogni elemento, verso destra o sinistra."
+        },
+        "c8a9e54dcabe5cdebed9c5bd1fa334d4": {
+            "text": "Il valore di profondit\u00e0 parte da 0, pertanto un valore 3 permette profondit\u00e0 0, 1, 2, e 3."
+        },
+        "8b3964c39c4eb2db458965c40689f5a0": {
+            "text": "\u00c8 possibile accedere al valore di profondit\u00e0 di un elemento del repeater via `$item->depth`."
+        },
+        "65f6a551619120fdc79329b66ab6c1fd": {
+            "text": "Elimina elementi vecchi\/inutilizzati del repeater?"
+        },
+        "9c539ab2317d7056d5d664b083557796": {
+            "text": "Ci sono **%d** elemento\/i vecchi\/inutilizzati del repeater, seleziona questo campo per eliminarli."
+        },
+        "2878ed508d1b136f7b170f593c0ff00f": {
+            "text": "Un elemento del repeater viene considerato vecchio se \u00e8 stato aggiunto da almeno 3 giorni e non \u00e8 stato ancora popolato o pubblicato."
+        },
+        "06f7e37d7cc093483d98d11772f75837": {
+            "text": "Numero massimo di elementi del repeater."
+        },
+        "9175b33ed3085ade32188d58a242e0bc": {
+            "text": "Il numero massimo di elementi permessi nel repeater."
+        },
+        "8db1e9fd86969c9e9ee4c09365c260a6": {
+            "text": "Se impostato a 0, non ci sar\u00e0 un limite massimo."
+        },
+        "f29a8c723be64c58c0e9f4cbd6c32a88": {
+            "text": "Se impostato a 1, questo campo si comporter\u00e0 come un elemento singolo [Page] anzich\u00e9 come elementi multipli [PageArray]."
+        },
+        "66eb0d45c43394f51bdb0397febc5b4f": {
+            "text": "Nota che quando outputFormatting non \u00e8 abilitato, si comporter\u00e0 sempre come PageArray a prescindere da questa impostazione."
+        },
+        "8c50c81f9df1bb1d4bc5689f9a6e7204": {
+            "text": "Tipo repeater"
+        },
+        "cb1f0ec5795fd6ab9a2e980b428cfff5": {
+            "text": "Se 'attaccato' il repeater gestir\u00e0 il proprio template e la pagina padre senza che tu debba vederla o pensarla."
+        },
+        "e3d6af2ddc6a90779dd75a3f9c753d7f": {
+            "text": "Se 'staccato' potrai spostare e modificare la pagina padre e il template del repeater come preferisci."
+        },
+        "77e23d8e1ff8e93bfc6e188f62e409bd": {
+            "text": "Nota che una volta staccato, ProcessWire non eliminer\u00e0 il genitore o il template se\/quando il campo verr\u00e0 eliminato."
+        },
+        "c79558badd020f417f148d0a7751e6e4": {
+            "text": "Aggiunto il campo \"%1$s\" a \"%2$s\""
+        },
+        "5222d983bada8088d0a86ac0ff1e5871": {
+            "text": "Rimosso il campo \"%1$s\" da \"%2$s\""
+        },
+        "27dafd7f7794d09bc001fc0acac8e1ad": {
+            "text": "Eliminati %d elementi vecchi\/inutilizzati dal repeater"
+        },
+        "0fe1cc90d79ebfffb11a259cc05d406d": {
+            "text": "La pagina padre %s \u00e8 ora staccata e pu\u00f2 essere spostata o modificata."
+        },
+        "678e17a04cd1c42a28cc8a9eff4f60c0": {
+            "text": "Campi repeater"
+        }
+    }
+}

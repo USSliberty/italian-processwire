@@ -46,6 +46,18 @@
         },
         "c766e5be484b0e0a2104bc2fe925000c": {
             "text": "Elimina queste opzioni"
+        },
+        "7a55572484844c1b337505ee266d3007": {
+            "text": "Esempio utilizzo API"
+        },
+        "9786dd72ff72c22b5cde66e2ef3a6c6a": {
+            "text": "Outpud di una singola selezione:"
+        },
+        "c575fc08137bccf13da4fff3117ff3e2": {
+            "text": "Output di selezioni multiple:"
+        },
+        "d51f7ee41ebdd5252b9a4410e297b306": {
+            "text": "Se vuoi mostrare l'output dei valori anzich\u00e9 dei titoli, sostituisci \"titolo\" con \"valore\" negli esempi sopra."
         }
     }
 }

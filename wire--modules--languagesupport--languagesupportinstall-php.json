@@ -1,0 +1,33 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/LanguageSupportInstall.php",
+    "textdomain": "wire--modules--languagesupport--languagesupportinstall-php",
+    "translations": {
+        "3ae44849cea119dd44333ce66ad5b388": {
+            "text": "Clicca per installare:"
+        },
+        "f62784baf73b04e9986e5e2e5141c1ac": {
+            "text": "Aggiungi e configura nuove lingue"
+        },
+        "b326de895188c390f00d3e3165a4e183": {
+            "text": "Cambia il tipo del campo \"titolo\" da \"Page Title\" a \"Page Title (multilingua)\""
+        },
+        "38655673ed547e757e9275d9132e8002": {
+            "text": "Cambia il tipo di qualsiasi altro campo \"Testo\" in \"Testo (multilingua)\""
+        },
+        "e28586cd56c48fc4522b6f5838c69781": {
+            "text": "Cambia il tipo di qualsiasi altro campo \"Textarea\" in \"Textarea (multilingua)\""
+        },
+        "cce78dc6ebbec7385a01f2146d6d01c8": {
+            "text": "Passi successivi"
+        },
+        "11073190b7d624dffd2b0ed1d24e99be": {
+            "text": "Per continuare a impostare il supporto multilingua, raccomandiamo i passi successivi."
+        },
+        "03936c46ccc75e527d1c061c9307cb2b": {
+            "text": "I link qui sotto si apriranno in una nuova finestra\/tab. Dopo aver terminato chiudili tutti e ritorna qui."
+        },
+        "02860eb2acccc8d47fc0503ceae2b550": {
+            "text": "Installa il modulo LanguageSupportFields prima di provare a cambiare il tipo dei campi testo."
+        }
+    }
+}

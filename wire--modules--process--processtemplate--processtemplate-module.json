@@ -188,9 +188,6 @@
         "30281e3b2fa626d5f52c833c541c84ac": {
             "text": "Duplicare\/Clonare questo template ?"
         },
-        "b69fde670b130ace1c7890c8be5b289b": {
-            "text": "Seleziona la casella sottostante se vuoi creare un duplicato o clonare questo template. La clonazione sar\u00e0 creata al salvataggio. Se la cartella dei template \u00e8 scrivibile anche i file del template saranno clonati."
-        },
         "e9c90e0ba4fdd701df9d4ff73c82dc3e": {
             "text": "Nome alternativo per il nome del file del template"
         },
@@ -257,26 +254,17 @@
         "518270f594c5488ff1f8de2ac0429f0e": {
             "text": "Se vuoi evitare che le pagine che usano questo template vengano spostate (cambiando genitore) allora seleziona questa casella."
         },
-        "7ee14ea7ba968378f99fb3efa7ac22da": {
-            "text": "API: $template->noMove = 1; \/\/ oppure 0 per disabilitarlo"
-        },
         "b919a5aafc6740109c0c58fe51916178": {
             "text": "Impedire che le pagine cambino template ?"
         },
         "6bb5af6d5240fb8b1d720a7e5bec4497": {
             "text": "Quando selezionato, il template di queste pagine non potr\u00e0 essere cambiato."
         },
-        "5c9171f7b16eac3245d2e5f3e79aadbc": {
-            "text": "API: $template->noChangeTemplate = 1; \/\/ oppure 0 per disabilitarlo"
-        },
         "29f47bc61ea7a6f45ee3d36da3a3feff": {
             "text": "Impedire pagine non pubblicate"
         },
         "94c9fe9ddbd9380ceb726bef40232ea3": {
             "text": "Quando selezionato, le pagine che usano questo template possono solo esistere con lo stato 'pubblicato' e non possono essere 'non pubblicate'"
-        },
-        "691edb2dd99517cf0e15dbf596e10cc5": {
-            "text": "API: $template->noUnpublish = 1; \/\/ oppure 0 per disabilitare"
         },
         "19a460b1edf9cc0616cd0ce03e9a0ddf": {
             "text": "Disabilitare l'opzione Cestino?"
@@ -301,9 +289,6 @@
         },
         "16a657e6bf4576ef101f1bcca129694c": {
             "text": "Quando selezionato, le pagine che usano questo template avranno l'opzione di cambiare l'utente che ha creato la pagina (solo per i superusers). Questo abiliter\u00e0 i campi $page->createdUser oppure $page->created_useres_id ad essere salvati via API."
-        },
-        "1684cd1767cda6618ed92febec9e78c6": {
-            "text": "API: $template->allowChangeUser = 2; \/\/ oppure 0 per disabilitarlo. Il valore di default \u00e8 0"
         },
         "0f79346b34fe5a07bf9ad38ef37e1723": {
             "text": "Questo template pu\u00f2 essere usato per le nuove pagine?"
@@ -409,9 +394,6 @@
         },
         "ce79a399cbe0a2128106c428d5f5227c": {
             "text": "Template Salvato: %s"
-        },
-        "0ad1fc6237db839537da704c90b40c53": {
-            "text": "Creato il clone del template \"%1$s\" di nome \"%2$s\". Puoi rinominarlo modificando \"%2$s\" e cliccando la scheda \"Avanzate\"."
         },
         "dbb2a9bf7f53894204e7b75a4a323fa2": {
             "text": "Errore nella creazione del clone di questo template"
@@ -722,18 +704,6 @@
         "249d044ac9d6d23ba96d1515cc4717e4": {
             "text": "Puoi generalmente lasciare questi interruttori deselezionati a meno che tu non abbia una necessit\u00e0 specifica."
         },
-        "8a08c3b7f2922be4ad8e59744781b796": {
-            "text": "Formato del nome Pagina"
-        },
-        "8a396099e3eecefcbbbbac1715a464de": {
-            "text": "Opzionalmente specifica un formato per i nomi delle pagine utilizzati quando una nuova pagina viene aggiunta. Questo consente di saltare il passaggio \"Aggiungi Pagina\" quando viene aggiunta una nuova pagina. Per funzionare, il template usato dalle pagine genitore deve definire questo template (%s) come l'unico permesso per i figli (vedi la scheda \"famiglia\" nel template usato dal genitore)."
-        },
-        "6058394e74833c97153b0edaec2fb369": {
-            "text": "Puoi inserire qualsiasi testo qui. Quando una nuova pagina verr\u00e0 creata e il nome non sar\u00e0 unico, un numero incrementale verr\u00e0 aggiunto alla fine fino a quando sar\u00e0 unico."
-        },
-        "026e4114c3bd578141d593edfdcba4b6": {
-            "text": "**Se vuoi che i nomi delle pagine derivino il loro valore dal campo titolo:** inserisci \"title\" sopra (senza le virgolette)."
-        },
         "06c2cea18679d64399783748fa367bdd": {
             "text": "Uno"
         },
@@ -755,14 +725,8 @@
         "92fe79a8aa59b037f5f6e2b43f89fea8": {
             "text": "Formato nome per i figli"
         },
-        "cde43753349041653da0d29cc52a15fa": {
-            "text": "**Se vuoi fare in modo che i nomi delle tue pagine mostrino la data di creazione:** inserisci un [formato data](http:\/\/www.php.net\/manual\/en\/function.date.php). Il formato della data deve includere almeno un carattere non alfanumerico (per esempio una barra \"\/\" oppure due punti \":\") in modo da essere riconosciuto come un formato di data. Esempio: \"Y\/m\/d H:i:s\" mostrer\u00e0 come nome di pagina: \"2014-10-30-12-39-01\". Come puoi vedere, i caratteri alfanumerici presenti nella data formattata sono convertiti in trattini."
-        },
         "5cf485ae4559df60232a5ff0f87783cb": {
             "text": "Specifica opzionalmente un formato per i nomi delle pagine usato quando vengono aggiunte nuove pagine figlio. Questo permetter\u00e0 di saltare il passaggio \"Aggiungi Pagina\" quando viene aggiunta una nuova pagina. Per funzionare, un singolo (1) template deve essere selezionato dal campo \"Template permessi per i figli\"."
-        },
-        "975bafff7904e0b6768fc9b2d0a11829": {
-            "text": "Lascia vuoto per disabilitare. Inserisci \"title\" (senza virgolette) per auto generare il nome dal titolo della pagina. Opzioni aggiuntive, incluso il formato delle date, sono disponibili. [Pi\u00f9 informazioni](https:\/\/processwire.com\/api\/modules\/process-template\/)"
         },
         "de4914b2943f3cfce0232ae281a8b155": {
             "text": "Mostra nella scorciatoia aggiungi pagina del menu?"
@@ -931,6 +895,87 @@
         },
         "e2cbec4ffca6b29170e0a79d38d2b6dd": {
             "text": "Saltata l'operazione di rinomina dei template - completare quella prima dell'azione corrente."
+        },
+        "044c72d21891e006e09a78d32a1e3226": {
+            "text": "Chiudi e aggiungi"
+        },
+        "4a290c3c1090e21dd600de5f741fa083": {
+            "text": "Azione campo richiesto"
+        },
+        "6aa324ce3baf41a239eaa440caba0a51": {
+            "text": "Notifica l'utente dell'errore (default)"
+        },
+        "df169cc44c2c05b1bc4f79938c03405b": {
+            "text": "Ripristina valore precedente (quando disponibile)"
+        },
+        "90ffa24b83a6a28137f9063f7e6cdc4b": {
+            "text": "Non pubblicare la pagine (quando disponibile)"
+        },
+        "6be7133083e1d91f772589bf24aa5e48": {
+            "text": "specifica 0 per disabilitare"
+        },
+        "4250b64aabe2bd1f7764377c2f5380c4": {
+            "text": "Disabilita il supporto multi-lingua per questo template?"
+        },
+        "3797b58404902683867d788211ac5ce2": {
+            "text": "Usa file compilato?"
+        },
+        "adab801f8cca3e7d6f780fe4853eb55f": {
+            "text": "Se non sei sicuro, scegli \"Auto\"."
+        },
+        "cacd642e8d383be621123210fa6d9d74": {
+            "text": "(disabilita compilatore)"
+        },
+        "a441d0ada5c25b0aaf68585c3cd98609": {
+            "text": "Auto (compila quando il file non ha namespace)"
+        },
+        "422d6e51e28831664b5c0b701b6c6182": {
+            "text": "(solo file template)"
+        },
+        "ad6d587b4370281434a47d58aaf1e5a5": {
+            "text": "(file template e file inclusi da questo)"
+        },
+        "0b506a8d05b70f0f99d7843e1e7ce9c2": {
+            "text": "Compilazione raccomandata."
+        },
+        "b3a57cf1770883844c8e986675546d20": {
+            "text": "Se hai appena aggiunto dei campi sopra, salva e ritorna qui per selezionarli."
+        },
+        "4b5a4101eef9107a93653ecef0418ed1": {
+            "text": "Inserisci il nome del nuovo template che vuoi creare. Il clone verr\u00e0 creato quando salvi. Se la cartella dei tuoi template \u00e8 scrivibile e il template ha un file associato, verr\u00e0 clonato anche quello."
+        },
+        "413c8d36faee24af361553c804386428": {
+            "text": "Quale azione deve essere effettuata quando una pagina gi\u00e0 pubblicata \u00e8 salvata con un campo richiesto mancante?"
+        },
+        "109da571222f1c753257a9ea7d9c0f23": {
+            "text": "Se selezionata, le pagine che usano questo template useranno solo la lingua di default."
+        },
+        "27dd547b53bb1b3c67c345f984747010": {
+            "text": "Lascia vuoto per disabilitare. Inserisci \"titolo\" (senza virgolette) per auto generare il nome dal titolo della pagina. Opzioni aggiuntive, incluso i formati data sono disponibili. [Di pi\u00f9](http:\/\/processwire.com\/api\/modules\/process-template\/)"
+        },
+        "e139846cbe34d9fe671e7b5975d367ba": {
+            "text": "Abilita ProcessWire ad aggiornare il fil template per il namespace ProcessWire e applica i moduli FileCompiler installati."
+        },
+        "d539c03bba4a77f2fb76ab46fa9b93f1": {
+            "text": "Raccomandato almene per i file template che non usano un namespace ProcessWire (quelli che provengono da siti PW 2.x)."
+        },
+        "1d926a6b89b4bc848e3f4ffa3e1bd67d": {
+            "text": "Rilevato namespace per il template file \"%s\"."
+        },
+        "9b404a9b5976b30bf436e218068b3d4d": {
+            "text": "Compilazione non necessaria a meno che non sia richiesta dai moduli o dagli include."
+        },
+        "dd086c8dc23fef8fb9543424864aa9cb": {
+            "text": "Nome template invalido specificato per la clonazione"
+        },
+        "ab64903a1bc47ab8cf1767e8d6581c2d": {
+            "text": "Non \u00e8 possibile clonare perch\u00e9 un template con quel nome esiste gi\u00e0"
+        },
+        "0ce8e11f27f5cff906b08ff533da5567": {
+            "text": "Creato clone del template \"%1$s\" chiamato \"%$s\"."
+        },
+        "363b220544077dba6890921e123486dc": {
+            "text": "Errore nel posizionamento del fieldset\/tab \"%s\" - controlla e salva di nuovo"
         }
     }
 }

@@ -1,0 +1,27 @@
+{
+    "file": "wire\/modules\/Textformatter\/TextformatterSmartypants\/TextformatterSmartypants.module",
+    "textdomain": "wire--modules--textformatter--textformattersmartypants--textformattersmartypants-module",
+    "translations": {
+        "25311c7902557e01bc00f49ff049bcd5": {
+            "text": "Usare caratteri UTF-8 per le sostituzioni anzich\u00e9 entit\u00e0 HTML?"
+        },
+        "0c5d2b49bcf5a803467880b04e70010d": {
+            "text": "Il comportamento di default per SmartyPants \u00e8 di aggiungere\/aggiornare i caratteri usando le entit\u00e0 HTML."
+        },
+        "1db1fb23d15114bebcd0b4c9451753ff": {
+            "text": "Se riscontri problematiche di doppia codifica, potresti voler usare le sostituzioni UTF-8."
+        },
+        "34ba6fe92bd3442e28614da7804133f7": {
+            "text": "="
+        },
+        "438be7072bafe2bb92897edc240e45ae": {
+            "text": "Si (alcuni)"
+        },
+        "8265970592705983b3983796fe0bb408": {
+            "text": "Si (tutti)"
+        },
+        "3dbbad2a19b63578a38458d5c9b08980": {
+            "text": "Nota che l'opzione \"tutti\" causer\u00e0 la decodifica dei seguenti caratteri (se codificati) anche se non sono stati inseriti da SmartyPants:"
+        }
+    }
+}

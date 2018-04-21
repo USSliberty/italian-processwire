@@ -11,9 +11,6 @@
         "7fcc26bcb0e9d85b555592f97cde9539": {
             "text": "La larghezza visualizzata di questo campo (in caratteri). Utilizza 0 per la larghezza totale."
         },
-        "2eb8badec738786d01bb81d0ee6ab3c0": {
-            "text": "Lunghezza massima"
-        },
         "a4965347ff8523a66897b92fec81e04e": {
             "text": "La lunghezza massima (in caratteri) che sono permessi per questo campo."
         },
@@ -52,6 +49,66 @@
         },
         "03272093fac940815539048b032444ea": {
             "text": "Singola linea di testo"
+        },
+        "3c046b3ba4bce0e808ae74b1f17d4cdc": {
+            "text": "1 parola"
+        },
+        "4694403722611f0dab5b4020626b289b": {
+            "text": "%d parole"
+        },
+        "266be751f6043dd6f14366d90c02e395": {
+            "text": "1 carattere"
+        },
+        "1799f67dd85c2b51921d814c95bc30dc": {
+            "text": "%d caratteri"
+        },
+        "42eab4ec87a7e8c172ab10a645ab9301": {
+            "text": "(almeno %d richiesti)"
+        },
+        "cd4377f9e686f1024a3d4358bf96235e": {
+            "text": "(%d massimo)"
+        },
+        "587a544effd13d88cb89456df1222d73": {
+            "text": "Un minimo di %1$d caratteri sono richiesti (attualmente ci sono %2$d caratteri)."
+        },
+        "773726357c07d9847f900eef6ed9b6af": {
+            "text": "Il valore eccede la lunghezza massima disponibile di %d caratteri ed \u00e8 stato troncato."
+        },
+        "4049392fac457a50d9eb641c5873f41e": {
+            "text": "Utilizzare anche l'attributo HTML \"required\"?"
+        },
+        "e20047e93328484a90fd0cf82642d0ff": {
+            "text": "Usa solo su campi sempre visibili all'utente."
+        },
+        "65be4bb9e294bfb3e8b7c09ca0017ef4": {
+            "text": "Lunghezza minima"
+        },
+        "9df187935ceb54067692c568b45e042b": {
+            "text": "La lunghezza minima (in caratteri) che sono richiesti per questo campo."
+        },
+        "8eaf7dcee17c55fd550a28c803b47718": {
+            "text": "Se il campo non \u00e8 \"richiesto\" allora la lunghezza minima \u00e8 solo applicata quando un valore \u00e8 presente."
+        },
+        "94f0e608658539187d65dddeea593677": {
+            "text": "Lunghezza massima"
+        },
+        "62b926a914028b7677a7c1e33ae9306e": {
+            "text": "Il valore \"0\" indica nessun massimo."
+        },
+        "64d129224a5377b63e9727479ec987d9": {
+            "text": "Conteggio"
+        },
+        "e98d599c27d0cc5eac6f2306b4c5891a": {
+            "text": "Nessun conteggio"
+        },
+        "00914008e58920e2994f712269d2e306": {
+            "text": "Conteggio caratteri"
+        },
+        "e5be16f125cae69d8a9185392d6b3393": {
+            "text": "Conteggio parole"
+        },
+        "8f72b73949c8127fb6e116573cbb970c": {
+            "text": "\u00c8 raccomandata la visualizzazione del conteggio caratteri quando usi l'impostazione per la lunghezza minima\/massima."
         }
     }
 }

@@ -1,0 +1,297 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPagesExportImport\/ProcessPagesExportImport.module",
+    "textdomain": "wire--modules--process--processpagesexportimport--processpagesexportimport-module",
+    "translations": {
+        "352f3461a3066e2817043fb2e9e1f932": {
+            "text": "Esporta\/importa \u00e8 al momento disponibile solo al superuser"
+        },
+        "8894de92408710885e26ee0d7419c76c": {
+            "text": "Importa da stringa JSON"
+        },
+        "15c369cf22656869f693431abfbabf35": {
+            "text": "Incolla la stringa JSON precedentemente esportata con questo strumento."
+        },
+        "1d2c7cbb668a639e64eb4d9d1e11dd21": {
+            "text": "Importa da un file ZIP"
+        },
+        "a0bfb8e59e6c13fc8d990781f77694fe": {
+            "text": "Continua"
+        },
+        "9307d9361fab3e60165754816f70e52f": {
+            "text": "Nessun dato importato trovato"
+        },
+        "a6255d9c8319899dbe7c65dc74f9307a": {
+            "text": "Dati importati non validi"
+        },
+        "6a50ab53f47b9f8f811ebbaf822fbb16": {
+            "text": "%d nuovi, %d esistenti"
+        },
+        "bb762878d3e4d3b7a33da405fb77231d": {
+            "text": "Nessun dettaglio di importazione da visualizzare"
+        },
+        "710dea6bdf095f0b2112f36943789222": {
+            "text": "Le pagine che hanno il template \"%s\" non possono essere importate perch\u00e9 quei template non esistono qui."
+        },
+        "6c1d0fdc993bfa095bfa6a0cb500742e": {
+            "text": "Scegli un template da sostituire durante la creazione di queste pagine."
+        },
+        "612bd2323b570ffd7610d860b5fc5b9a": {
+            "text": "OK: sostituendo TEMPLATE \"%1$s\" con \"%2$s\""
+        },
+        "a700c516b508fc37ecbdd5ef3e4149c3": {
+            "text": "Scegli un sostituto per il TEMPLATE chiamato \"%s\""
+        },
+        "037ef64f930a701f646e32b659309203": {
+            "text": "Un file chiamato \"%s\" di tipo %s compare nei dati importati, ma non esiste localmente."
+        },
+        "e7b3e14b8ea6b4e9b9ded5935a787200": {
+            "text": "Se vuoi importare questo campo, scegli un campo sostituto."
+        },
+        "b27e66177b699de288b50b3736392350": {
+            "text": "OK: sostituendo CAMPO \"%1$s\" con \"%2$s\""
+        },
+        "9f2156a6e113d013e84f6b3d0f787f70": {
+            "text": "Scegli un sostituto per il CAMPO chiamato \"%s\""
+        },
+        "f3418f35aed2653864c898b1fbfa7f89": {
+            "text": "Potenziali campi di sostituzione"
+        },
+        "ea41325267ff33833cdd6f91d5a323d1": {
+            "text": "Altri campi (potrebbero non essere compatibili)"
+        },
+        "88a97d86b72eac1bb3a897239a5833c7": {
+            "text": "Scegli un nuovo genitore"
+        },
+        "39131ec4699f5661159842adf4828d87": {
+            "text": "Le pagine che hanno genitore \"%s\" non possono essere importate perch\u00e9 quella pagina non esiste qui."
+        },
+        "9d9d340fef6ece85d9fa8cb168e4cc4b": {
+            "text": "Scegli una pagina genitore da utilizzare invece di creare queste pagine."
+        },
+        "3b3a36a05707eb5bd0c5a9c6ef8b6bcc": {
+            "text": "OK: sostituendo GENITORE \"%1$s\" con \"%2$s\""
+        },
+        "6d4769b2c4ab2c7c6596715d9a95b10a": {
+            "text": "Scegli un sostituto per il GENITORE chiamato \"%s\""
+        },
+        "b8fd4cfffa13fd37bbb33085b3d99559": {
+            "text": "Conflitto di risorse"
+        },
+        "5062a54bca446bff0013b7e3b83971ef": {
+            "text": "Sommario di importazione"
+        },
+        "b622b3c2bd4167573c69775914e6bb1c": {
+            "text": "Modalit\u00e0 di importazione"
+        },
+        "a865157a6095cc25e9db226471350ac0": {
+            "text": "Crea nuove pagine e aggiorna le pagine esistenti"
+        },
+        "093ee62b9967049d867742cc37db9ec6": {
+            "text": "Crea solo nuove pagine"
+        },
+        "5d22ed76c96cfc210e6659bf465c29d9": {
+            "text": "Salta le pagine nell'importazione che esistono gi\u00e0"
+        },
+        "8e0e1c009bd6cdb0c55e6d1ab601f9c5": {
+            "text": "Aggiorna solo pagine esistenti"
+        },
+        "c420555a575c97be4ef7ef4c6335eabd": {
+            "text": "Salta le pagine nell'importazione che non esistono"
+        },
+        "fbd52bbf346d30a5a3c3735d4fd11249": {
+            "text": "Importa pagine sotto il genitore"
+        },
+        "f725a6ddc1137ce2162d1adcfb06e5e5": {
+            "text": "Quando specificato, le pagine importeranno la pagina genitore selezionata qui."
+        },
+        "bc148f36b892cd236d9524d31b92ed3a": {
+            "text": "Scegli genitore"
+        },
+        "dc5065164c53ccdaf2afab0a4e92821b": {
+            "text": "Importa le pagine nel genitore selezionato e mantieni la struttura delle pagine al di sotto"
+        },
+        "9a4182341877068a0de58ca06532a6b5": {
+            "text": "Importa pagine solo come figli della pagina genitore selezionata"
+        },
+        "56e30d5f1290e2bc227c986608645134": {
+            "text": "Campi permessi nell'importazione"
+        },
+        "75cd6d17fcfe896e1521bbec73924c68": {
+            "text": "I campi seguenti sono stati trovati nei dati di importazione."
+        },
+        "21f3733b4c29eea78a95595e8fecfdbd": {
+            "text": "Deseleziona ciascun campo che vuoi saltare durante l'importazione."
+        },
+        "c0a1f9eff88edb62c46edb084004e32b": {
+            "text": "Nome pagina"
+        },
+        "0a47bbe324aa63b3431f8c3f89791928": {
+            "text": "Stato pagina"
+        },
+        "a6425901f3af36ae6ccc9a92b131595a": {
+            "text": "Indice di ordinamento pagina"
+        },
+        "a84ab456be63f90daf5d14573d3a4837": {
+            "text": "Importa pagine"
+        },
+        "993d770e8a02574766cb9e77f05166d1": {
+            "text": "Testa importazione"
+        },
+        "5d762b248f371ac7a53ca63b5686689a": {
+            "text": "Fissa importazione"
+        },
+        "ae5736613c76f3a4222d0aa2986413c6": {
+            "text": "Crea una nuova pagina: %s"
+        },
+        "4da66962948d7a922e24b9821417f14f": {
+            "text": "="
+        },
+        "4fb4efe4086f5f135cdf92d1a6b4d865": {
+            "text": "Aggiorna pagina esistente: %s"
+        },
+        "ac4191b09ac955dce523147b4ae42732": {
+            "text": "Pagina: %s - Fallita"
+        },
+        "eed35940c778016bb521e2e86594020f": {
+            "text": "Pagina: %s"
+        },
+        "622fd1a9153d7f49d2ab40d3a42e9f2a": {
+            "text": "Campi popolati:"
+        },
+        "d80c9a644617ba76da47a8d5e776ea2a": {
+            "text": "Campi cambiati:"
+        },
+        "40fe8d33d2cf8c5f10422b0b229dbcc4": {
+            "text": "Nessun cambiamento rilevato"
+        },
+        "a6d6ed66ec9bac03cd0439959d6efc07": {
+            "text": "La pagina non pu\u00f2 essere importata"
+        },
+        "556843e4a406b780b0cf83c43366a8dd": {
+            "text": "Importazione eseguita con successo"
+        },
+        "7cd0babd7de67eb353b6b61a3f86702e": {
+            "text": "Importare questa pagina?"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "="
+        },
+        "726d6246df516f81a1716ab64006f70a": {
+            "text": "Quali pagine vuoi esportare?"
+        },
+        "9a4ecf5d3003837af473e07e59527178": {
+            "text": "Pagine che ho selezionato"
+        },
+        "d1ae61f175e8cff2fe2b233bd744601a": {
+            "text": "Pagine che hanno genitore"
+        },
+        "0c0f61a363c410be945c0c948ce24dbd": {
+            "text": "Pagine che corrispondono alla ricerca"
+        },
+        "4947db62e5b74b73e637f5c4533871c3": {
+            "text": "Scegli pagine"
+        },
+        "4fd182637e2da2b261886dfae6c01659": {
+            "text": "Scegli una o pi\u00f9 pagine da includere nell'esportazione."
+        },
+        "dc52b4466bd46f4f22f8a5a3049a5357": {
+            "text": "Scegli pagina genitore"
+        },
+        "8a6a2112bdf498013db64d59f301d886": {
+            "text": "Scegli il genitore delle pagine che vuoi esportare. I figli di questa pagina verranno esportati."
+        },
+        "e128ece85361c066ea30a503fb868121": {
+            "text": "Opzioni aggiuntive"
+        },
+        "3c96078602fbe987f0b60fbc8b946092": {
+            "text": "Includi la pagina genitore nell'esportazione"
+        },
+        "556c3dd912453ae5cb3095cd5054e6f4": {
+            "text": "Ricorsiva"
+        },
+        "c98c2eece26a5aa7e2c47740d864c713": {
+            "text": "Esporta alberi di pagine anzich\u00e9 solo figli diretti"
+        },
+        "42fdbb35b46ad8e66130cc690f8d2e84": {
+            "text": "Includi pagine nascoste"
+        },
+        "c7b7b2c71efc438029169573f0c7e7d5": {
+            "text": "Includi pagine nascoste e non pubblicate"
+        },
+        "afbe62b4d04b9023683b0b64f63fb629": {
+            "text": "Costruisci una ricerca per le pagine da esportare"
+        },
+        "5487c98ab1a908b9700fa20e3a3ffc1f": {
+            "text": "Aggiungi uno o pi\u00f9 campi da ricercare per determinare le pagine da esportare."
+        },
+        "28024f25f2a4009ee133f8b562b531d5": {
+            "text": "Esporta campi"
+        },
+        "3aee85d275f14778870a9a59094a3248": {
+            "text": "Di default, tutti i campi supportati su una pagina sono inclusi nell'esportazione."
+        },
+        "6a3dac44a256e9471b5fd2ed42b12c0f": {
+            "text": "Se vuoi che la tua esportazione includa solo alcuni campi, selezionali qui."
+        },
+        "cb8c3657faa795632ec15cbd7721a912": {
+            "text": "Se non viene fatta nessuna selezione, allora tutti i campi supportati verranno inclusi nell'esportazione."
+        },
+        "e2fe1c296c63b89f877ed53a8be349a1": {
+            "text": "Come vuoi salvare l'esportazione?"
+        },
+        "e97986e2d093cf22639cdabd17762178": {
+            "text": "Scarica file ZIP"
+        },
+        "216db75e2a4bd42aa6718a66268f5905": {
+            "text": "Testo per copia\/incolla"
+        },
+        "52bf0f8917ee90a9e2d755751c651cb3": {
+            "text": "Scegli sempre l'opzione file ZIP se vuoi includere campi file o immagine nella tua esportazione."
+        },
+        "1828a21cc67aa04125984a6ca450c313": {
+            "text": "Esporta adesso"
+        },
+        "c5806d824bef9a5b89ffad8b8cc3c266": {
+            "text": "JSON per copia\/incolla (default)"
+        },
+        "7273b7477ad1aad558b4c4fbaba5e3ac": {
+            "text": "Download file ZIP"
+        },
+        "f27cd90ca25ec83caa63a757fc2efcb4": {
+            "text": "Dati esportati per copia\/incolla"
+        },
+        "3e0018e76b5cc05092e1129c9b46dad7": {
+            "text": "Clicca ovunque nel testo sotto per selezionarlo per la copia."
+        },
+        "abdb2686b241382010a3933e591a1cbb": {
+            "text": "Puoi quindi incollare questo testo nella tab Import di un'altra installazione."
+        },
+        "9e695fb18f1a97591ea92d09db081ff9": {
+            "text": "Esegui un'altra esportazione"
+        },
+        "9a3d09c6f627ab8776c1511913bb6586": {
+            "text": "Importata %d pagina"
+        },
+        "76c8ca770c404ebb67fe48d039cf9956": {
+            "text": "Importate %d pagine"
+        },
+        "99c9efe732e034ed4b07956b67ae8677": {
+            "text": "Testata l'importazione di %d pagina"
+        },
+        "c856d1123aa9d66e1534cd282b3ce877": {
+            "text": "Testata l'importazione di %d pagine"
+        },
+        "c9b0a12dc552dbd618bd32115aff0a23": {
+            "text": "Trovata %d pagina per l'importazione"
+        },
+        "cde6a4cf0bc2c5dea574eb1384c6d083": {
+            "text": "Trovate %d pagine per l'importazione"
+        },
+        "e952a9e4d7f52080bd9d79e49d50c57e": {
+            "text": "Questa esportazione include %d pagina."
+        },
+        "a5e9f843454d6e5f8aef06784d94e3a2": {
+            "text": "Questa esportazione include %d pagine"
+        }
+    }
+}

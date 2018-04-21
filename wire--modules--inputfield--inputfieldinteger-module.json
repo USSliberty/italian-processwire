@@ -49,6 +49,15 @@
         },
         "15b920388c8c88882ae50ac7e68a52ad": {
             "text": "Intero (positivo o negativo)"
+        },
+        "bf23ca4feca536a9667209e45869c2f1": {
+            "text": "Dimensione input"
+        },
+        "320e94493eb997536f4ec1eb75a61c38": {
+            "text": "Specifica l'attributo dimensioni per l'input, o specifica 0 per l'intera larghezza."
+        },
+        "08adfc4e3f75347c88b665609425d43a": {
+            "text": "Il valore di default \u00e8 %d."
         }
     }
 }

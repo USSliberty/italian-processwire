@@ -5,9 +5,6 @@
         "e93f994f01c537c4e2f7d8528c3eb5e9": {
             "text": "Conteggio"
         },
-        "d1d7182c9905811b10bcd1f5bdcb9eda": {
-            "text": "Dereferenzia nelle API come"
-        },
         "e28f86b62065207ceeb0b5057eb98537": {
             "text": "Se il tuo campo conterr\u00e0 pi\u00f9 pagine, dovresti selezionare la prima opzione (PageArray). Se il tuo campo conterr\u00e0 solo una pagina, allora seleziona una tra le opzioni di singola Pagina (se non sei sicuro, scegli l'ultima opzione)."
         },
@@ -43,6 +40,18 @@
         },
         "081c14de091c8761b82f930fd59c8f16": {
             "text": "Sto cercando e pulendo..."
+        },
+        "b163d440906ff7e0a02262fb1406e123": {
+            "text": "Tipo valore campo pagina"
+        },
+        "be288f506d4d5100260d915b396a83be": {
+            "text": "Esempi di utilizzo API"
+        },
+        "c563103ae743ad1643e5f3e49a2c89d5": {
+            "text": "Come sopra, ma con una sintassi alternativa"
+        },
+        "0a7cd2620545065d49a8ca58f5fc0b28": {
+            "text": "Di pi\u00f9 riguardo al metodo %s."
         }
     }
 }

@@ -56,12 +56,6 @@
         "1fa78a97c113bed4e867ec21d9ca918f": {
             "text": "Questo campo non pu\u00f2 essere cancellato, poich\u00e9 utilizzato in uno o pi\u00f9 template."
         },
-        "bfacb0dba61ee131e07daaacead869c5": {
-            "text": "Impostazioni base del campo"
-        },
-        "5efc010f527cdfeaa2ef63b1c6898fb5": {
-            "text": "Qualunque combinazione di caratteri ASCII [a-z], numeri [0-9] oppure trattini bassi (non trattini o spazi)."
-        },
         "ab2e4f95a7971ee8077df62efa20d437": {
             "text": "Dopo aver selezionato e salvato il tipo di campo potrebbe essere visualizzato con opzioni in pi\u00f9, specifiche del tipo di campo che hai selezionato."
         },
@@ -124,12 +118,6 @@
         },
         "4b2bcb0478b24201a7d60fed561d1b42": {
             "text": "Modifica i singoli campi che contengono dati delle pagine"
-        },
-        "588f35f32f53430bfc4199ef15c424db": {
-            "text": "Mostrare le opzioni di filtraggio nella lista dei Campi ?"
-        },
-        "887c58e4743e8c789e4ebea161c6fdfe": {
-            "text": "Questo aggiunge due caselle di selezione in cima alla lista di campi che permette di filtrare i campi per template o tipo."
         },
         "7cdb55d0d84a64ee84c14621892d8e10": {
             "text": "Ritorna alla lista di campi dopo aver salvato il campo?"
@@ -562,6 +550,66 @@
         },
         "b26a4731ede28b0686cf017804aa3574": {
             "text": "="
+        },
+        "4b170345be16c4cee0984c08ab54614d": {
+            "text": "quando usato con: %s"
+        },
+        "b021df6aac4654c454f46c77646e745f": {
+            "text": "Etichetta"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Nome"
+        },
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "Tipo"
+        },
+        "2babe53026309ed1bc4d26626dbaf9b3": {
+            "text": "Dettagli:"
+        },
+        "4759b9b64d72e5a1a226e72b31ff919e": {
+            "text": "Modifica front-end"
+        },
+        "349838fb1d851d3e2014b9fe39203275": {
+            "text": "Installa"
+        },
+        "927e2bece8a3ee4ce5f53aca157c04ec": {
+            "text": "Usa solo lettere ASCII (a-z A-Z), numeri o underscore."
+        },
+        "57a9412e7a9b1f328ffef4cd468dabeb": {
+            "text": "Aggiungi come primo campo"
+        },
+        "be777931cbea33cf8f3a5f5cd994ea93": {
+            "text": "Impostazione delle sostituzioni per il namespace del campo: %s"
+        },
+        "760b4bbc37693597edf00f9eeda38cd0": {
+            "text": "Non ci sono impostazioni sostituite da template al momento."
+        },
+        "89fa758424367d5caeb355f904d5bfc1": {
+            "text": "Sostituzioni permesse"
+        },
+        "7710897a6218283716118180cd494f1e": {
+            "text": "Impostazioni selezionate appariranno come opzioni di configurazione durante la modifica di questo campo, nel contesto di un particolare template."
+        },
+        "c4d3fb0af8e800de549531cccd8a19f8": {
+            "text": "**Attenzione**: fare questo per le impostazioni che non sono specificate dall'autore del modulo potrebbero non funzionare sempre o causare problemi."
+        },
+        "c4e024e71ba191d41926d9fcfa7cde3a": {
+            "text": "="
+        },
+        "b35a1460619c7aebb19fddf043d4953d": {
+            "text": "Installare il modulo per la modifica delle pagine lato front-end per abilitare la modifica dei campi lato front-end. Dopo averlo installato, ricarica e ritorna qui per pi\u00f9 opzioni."
+        },
+        "6ed7cdaf5655ad6feaf61425896fca0e": {
+            "text": "Errore nell'impostazione \"%s\""
+        },
+        "86cdc0e0ad458e6450b25153b0ca0248": {
+            "text": "(hai specificato \"%s\")"
+        },
+        "ce1e5086faa587952093bfb31f7af1c1": {
+            "text": "Impossibile validare"
+        },
+        "07f32475d23721446e940087c7e26b53": {
+            "text": "Questo non funzioner\u00e0 perch\u00e9 i valori devono essere ID pagina"
         }
     }
 }

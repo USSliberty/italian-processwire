@@ -2,18 +2,6 @@
     "file": "wire\/modules\/Process\/ProcessCommentsManager\/ProcessCommentsManager.module",
     "textdomain": "wire--modules--process--processcommentsmanager--processcommentsmanager-module",
     "translations": {
-        "787d5f05953ec39b108869dfdd7733e6": {
-            "text": "approvato"
-        },
-        "7c6c2e5d48ab37a007cbf70d3ea25fa4": {
-            "text": "in attesa"
-        },
-        "e09f6a7593f8ae3994ea57e1117f67ec": {
-            "text": "="
-        },
-        "099af53f601532dbd31e0ea99ffdeb64": {
-            "text": "elimina"
-        },
         "98a0736c51255f757cf109bccfa1d7e2": {
             "text": "Non sono installati campi per i commenti"
         },
@@ -44,9 +32,6 @@
         "de95b43bceeb4b998aed4aed5cef1ae7": {
             "text": "modifica"
         },
-        "193cfc9be3b995831c6af2fea6650e60": {
-            "text": "Pagina"
-        },
         "44749712dbec183e983dcd78a7736c41": {
             "text": "Data"
         },
@@ -59,14 +44,8 @@
         "c6e190b284633c48e39e55049da3cce8": {
             "text": "Sito Web"
         },
-        "a1fa27779242b4902f7ae3bdd5c6d508": {
-            "text": "Tipo"
-        },
         "d37c550d781bfb93b0088a2470598bcf": {
             "text": "Stelle"
-        },
-        "7f319b8ccad7e92033b9492ddbc4b522": {
-            "text": "Vota"
         },
         "f42d9d8fbfa2f6929ac7ee0d2e2871c5": {
             "text": "In risposta a %s"
@@ -94,6 +73,69 @@
         },
         "af617b357692e5cded9ff1dd859080b3": {
             "text": "%d risposte"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Elimina"
+        },
+        "2eaf1946befd8d1cec85046ac88324e3": {
+            "text": "="
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "Stato"
+        },
+        "8c3560971347019d5f97199e943831f0": {
+            "text": "Voti"
+        },
+        "d442d63d91aee0c27fffe480c591f6d8": {
+            "text": "Imposta stato:"
+        },
+        "4f5d5f295ddc8fd8673e74dd5fbe114a": {
+            "text": "per pagina"
+        },
+        "1ef29a5a234edee09d7e54a321740181": {
+            "text": "Seleziona\/deseleziona tutti"
+        },
+        "67148361142da466e462aed78d201888": {
+            "text": "Non ci sono elementi selezionati"
+        },
+        "a46e2270222c49988714ec7916109fc4": {
+            "text": "Azioni (elementi selezionati)"
+        },
+        "e8eaf777c8e1f5b4e219d2e79cfd755f": {
+            "text": "Reset: mi piace"
+        },
+        "cf2dd3571dc6f61216f9f14785d7e227": {
+            "text": "Reset: non mi piace"
+        },
+        "dec8ba3ab6e0a24199eb5b6c43a9c846": {
+            "text": "Data (nuovi-vecchi)"
+        },
+        "33abd1fd65941eb346da43ae77afbbb0": {
+            "text": "Data (vecchi-nuovi)"
+        },
+        "ff138d55cfc1cb9ad05eff795e830b6c": {
+            "text": "Stelline (di pi\u00f9-di meno)"
+        },
+        "5a4745441b4ca1eaecd9d27664d7a667": {
+            "text": "Stelline (di meno-di pi\u00f9)"
+        },
+        "63e90287fd383e2e42e4778c0e9d7a71": {
+            "text": "Mi piace"
+        },
+        "b45352aeca3646b5fb15baa385d44224": {
+            "text": "Non mi piace"
+        },
+        "a4c295f303bd3ad4c69344a18dc68420": {
+            "text": "Ordina:"
+        },
+        "eee1a3d85e91b9944c98c7558f706b27": {
+            "text": "Hai cambiamenti non salvati!"
+        },
+        "8413c683b4b27cc3f4dbd4c90329d8ba": {
+            "text": "Commenti"
+        },
+        "37128d5a4c6200152c60cd46c829d635": {
+            "text": "Gestisci commenti nel tuo sito al di fuori dell'editor della pagina."
         }
     }
 }

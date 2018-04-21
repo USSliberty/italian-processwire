@@ -1,0 +1,51 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeRepeater\/FieldsetPageInstructions.php",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--fieldsetpageinstructions-php",
+    "translations": {
+        "fce8db7e35654f2d39ed13c88caeb595": {
+            "text": "Questo \u00e8 un testo di esempio"
+        },
+        "e24b5159feaf11cbc2866fc792dcb205": {
+            "text": "Istruzioni su come usare questo campo"
+        },
+        "dda3c63808783d90468ffc36857b1ad2": {
+            "text": "Questo tipo di fieldset utilizza una pagina separata (dietro le scene) per memorizzare valori per i campi scelti sopra."
+        },
+        "43ef844d717ad05c793ebe3fc0bfa46f": {
+            "text": "Un beneficio \u00e8 che puoi riutilizzare campi che sono gi\u00e0 presenti sulla tua pagina, al di fuori del fieldset."
+        },
+        "450f315bbf5a730f06d882603e2351ee": {
+            "text": "Per esempio, potresti avere un campo \"title\" sulla tua pagina, e un altro nel tuo fieldset. Lo stesso vale per ogni altro campo."
+        },
+        "082323774f8bcc4a3b546017f4699653": {
+            "text": "Questo \u00e8 possibile perch\u00e9 i campi nel fieldset hanno il loro namespace\u2014altra pagina\u2014separata dalla pagina principale."
+        },
+        "1c965c7b269c1b604d6490030b52cb9a": {
+            "text": "Qui sotto ci sono diversi esempi su come usare questo campo nei file dei tuoi template e attraverso le API."
+        },
+        "2b9532c496c737a7d979ede12021cbfc": {
+            "text": "Recuperare un valore:"
+        },
+        "3cdf9e98ed82c4005e72a8d904f2c396": {
+            "text": "Mostrare un valore:"
+        },
+        "e77be29cea913a45c5a64261aab889fe": {
+            "text": "Mostrare un valore nel markup:"
+        },
+        "a1846e66c3581626834fa2b2b713a751": {
+            "text": "Impostare un valore:"
+        },
+        "c17698c4f96778fb0e1c2cf7e08354fa": {
+            "text": "Impostare e salvare un valore:"
+        },
+        "07eb153eceddb68a89d41166e566601a": {
+            "text": "questo disabilita la formattazione dell'output quando necessario"
+        },
+        "d4dcb894c9c0f44c78175f84b15a0b57": {
+            "text": "Assegnare un fieldset ad un'altra variabile e mostrare un valore:"
+        },
+        "89c8a04262edb041b1d1cf735fd36a4b": {
+            "text": "Trovare pagine che hanno il fieldset con il campo \"%s\" contenente il testo \"esempio\":"
+        }
+    }
+}

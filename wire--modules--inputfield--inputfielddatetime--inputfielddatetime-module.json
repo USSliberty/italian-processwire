@@ -88,6 +88,27 @@
         },
         "d27357121209bd712604d8af46cd2460": {
             "text": "Inputfield che accetta data e opzionalmente l'ora"
+        },
+        "7db50c3ca59f3f55260013a5e3481f47": {
+            "text": "="
+        },
+        "40b99901bce42a7638315b36c0bec462": {
+            "text": "(raccomandato)"
+        },
+        "b4857dd659bf6e86731ccda0a3b581fb": {
+            "text": "(timestamp unix)"
+        },
+        "91c4223a8591eed0ecab28c3a1a880b2": {
+            "text": "Tipo di input per l'ora"
+        },
+        "08d3eb379def33331427b243c363eef5": {
+            "text": "Cursori (default) permettono all'utente di usare i controlli di scorrimento per scegliere l'ora, dove una Select permette all'utente di scegliere l'ora da una select a discesa."
+        },
+        "9ad46d2d4f10955abfc9ca97565bba87": {
+            "text": "Cursori"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "Select"
         }
     }
 }

@@ -8,11 +8,11 @@
         "68d1cb3da7a618bf1997d9d5149ae24a": {
             "text": "query singola"
         },
-        "0c6ba1befbcac7213ccc923d1ecf573a": {
-            "text": "Cancellati i dati dal campo \"%1$s\" in %2$d righe da %3$d pagine."
+        "95174709ea432bbeb2a0ec8d9862b8a5": {
+            "text": "Eliminato campo \"%1$s\" data in %2$d riga(righe) dalla pagina %3$d page(s) che usa il template \"%4$s\"."
         },
-        "b9e9528a32781ceaefec638ec3bfa62e": {
-            "text": "Errore durante l'eliminazione dei dati dal campo \"%1$s\", %2$d righe, %3$d pagine."
+        "f9de29a177673a5d7f9bfe31fb3d94f3": {
+            "text": "Errore durante l'eliminazione del campo \"%1$s\" data in %2$d riga(righe) dalla pagina %3$d page(s) che usa il template \"%4$s\"."
         }
     }
 }

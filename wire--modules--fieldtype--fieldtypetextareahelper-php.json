@@ -1,0 +1,138 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeTextareaHelper.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypetextareahelper-php",
+    "translations": {
+        "00f6c76a7a83b1d7aab61a93e513e9d5": {
+            "text": "Tipo di Inputfield"
+        },
+        "127852afa67b41673ab8ea17b383847c": {
+            "text": "Il tipo di campo che verr\u00e0 usato per l'input (Textarea \u00e8 il campo di default). Nota che se cambi questo valore e salvi, le configurazioni disponibili nella tab \"input\" potrebbero cambiare."
+        },
+        "5d85f44b69f9d7e86c7f3f473f97f771": {
+            "text": "="
+        },
+        "2effa58f13159d138a634233e246713d": {
+            "text": "="
+        },
+        "a9b2702617bab3152e6c7018a2285a92": {
+            "text": "Sconosciuto\/Testo"
+        },
+        "d337592463bb66726521716a080b78da": {
+            "text": "L'opzione [u]Markup\/HTML[\/u] \u00e8 raccomandata per i campi che utilizzano editor di rich text (come CKEditor) e quelli che contengono HTML. Fornische controlli addizionali a runtime per assicurare la qualit\u00e0 dell'input."
+        },
+        "0601bf716a208a7476c5f97c040fc44c": {
+            "text": "Se scegli l'opzione [u]Sconosciuto\/Testo[\/u], \u00e8 fortemente raccomandato [per sicurezza] la selezione dell'opzione \"HTML Entity Encoder\" nel campo [u]Formattatori di Testo[\/u] sopra."
+        },
+        "f49044eb0f5ff823c157a2feedf2b9f8": {
+            "text": "Per informazioni aggiuntive riguardo queste opzioni vedi [descrizione delle opzioni di contenuto](%s)"
+        },
+        "2addde1795e171e77196f84ba88dbcbf": {
+            "text": "Opzioni HTML"
+        },
+        "22f8b4c1c9e9fb845bebab08141575db": {
+            "text": "Le seguenti opzioni forniscono controlli di qualit\u00e0 aggiuntivi a runtime per il codice HTML."
+        },
+        "6691dadd4bc16c7d23fee64a309e2eaa": {
+            "text": "**Nota:** Queste opzioni sono sperimentali. Verifica eventuali problematiche e segnala qualsiasi errore."
+        },
+        "8985f62bfdbc5d278d07342bc4a7f5c2": {
+            "text": "Le opzioni sopra registrano gli errori in Setup > Logs > markup-qa-errors."
+        },
+        "4518ac1588b93d4b89d45741c610a3f5": {
+            "text": "Astrazione link:"
+        },
+        "9bf757dce49f1b058b55e0234e5b422a": {
+            "text": "Aggiorna automaticamente gli attributi href quando i link interni cambiano"
+        },
+        "1721f5bf2ec99fbb54f5ff6cea84968c": {
+            "text": "Aggiorna gli attributi alt delle immagini:"
+        },
+        "e18d0ae0d4d738e2afb687643527b107": {
+            "text": "Sostituisce gli attributi alt vuoti con le descrizioni delle immagini"
+        },
+        "87b47dca906c93d9e1a035e8d14e6e95": {
+            "text": "Sistema immagini con url errati:"
+        },
+        "1d88fc19dbd058dc84585c30ab49b306": {
+            "text": "Rimuove i tag img che risulterebbero in errori 404, oppure ricrea le immagini se possibile"
+        },
+        "3b51a8c40e3436386b687d45ddb5f836": {
+            "text": "Controllo accesso immagini:"
+        },
+        "4d1e0f588db26c2678b311717d9d5c65": {
+            "text": "Rimuove le immagini dal markup se l'utente non ha il permesso per accedere"
+        },
+        "8ab4f511bd5b2971beecbe09b1462818": {
+            "text": "Applica le opzioni HTML"
+        },
+        "5fe0528e0c4b792b394749289ad392f1": {
+            "text": "Per applicare le opzioni sopra a tutte le pagine esistenti, seleziona questo campo. Questo si concentrer\u00e0 principalmente sull'opzione di astrazione link."
+        },
+        "7b4f1bb8cb43086b5d5f3b850d06a6c3": {
+            "text": "Attenzione, questo effettuer\u00e0 un aggiornamento su potenzialmente centinaia di pagine (massimo 300 per esecuzione) e aggiorner\u00e0 le date di modifica delle pagine. Se il tuo sito ha numerose pagine, potresti dover lanciare questa procedura molte volte."
+        },
+        "d9acd327c0ee998a16c85324936d214d": {
+            "text": "**Come precauzione extra raccomandiamo di eseguire un backup del tuo database prima di eseguire quest'azione.**"
+        },
+        "0f754c670b9d8c02b22eaeebd630181e": {
+            "text": "Sembra che sia stato fatto! Le opzioni HTML sono state applicate."
+        },
+        "2029a900eb62eecaaf188a654c2c084d": {
+            "text": "Aggiornamenti futuri verranno applicati automaticamente quando ciascuna pagina verr\u00e0 salvata."
+        },
+        "4b9ad9f31022ef1c2c6d202da55a0365": {
+            "text": "Ci sono ancora numerose pagine da modificare. Seleziona nuovamente il campo per modificare le pagine rimanenti."
+        },
+        "2c1df5375d9f20282b3df677f8a4bc0c": {
+            "text": "\u00c8 necessario modificare pi\u00f9 pagine per volta? Puoi aggiungere un impostazione %s al file \/site\/config.php."
+        },
+        "d4705c271d7e1e75a05e9b6236ad836c": {
+            "text": "(vedi %s log)"
+        },
+        "91032d1254768e880dbbeede54e35a79": {
+            "text": "="
+        },
+        "5fcef18456ba78863a5a57e162279d2d": {
+            "text": "="
+        },
+        "d53200ec5949152baffbeed6c4d58966": {
+            "text": "Aggiornate %1$d su %2$d pagine per le opzioni HTML."
+        },
+        "8a64cae4f29b541d3e532599d513e04e": {
+            "text": "Markup\/HTML riepilogo di qualit\u00e0:"
+        },
+        "7b538279515341a88a5fcfb4197111f6": {
+            "text": "Altre opzioni HTML verranno applicate a runtime."
+        },
+        "9b039b000924bae6bb0977867cc455a0": {
+            "text": "%d a[href] tag esterni"
+        },
+        "bb83c854fd76ba88b57f700280e65291": {
+            "text": "%d link di pagina interni\/astratti"
+        },
+        "52b8044e625821dcc4f2002c70f05881": {
+            "text": "%d referenze file\/asset"
+        },
+        "b49218c47bb7e184c12776471a865612": {
+            "text": "%d a[href] tag relativi aggiornati"
+        },
+        "84a543e559f6e8ae86ba9ca203f6c57f": {
+            "text": "%d a[href] tag locali non-pagine\/non-riconosciuti"
+        },
+        "2fb3cb1dbd223aca0a255df639afabb1": {
+            "text": "%d a[href] tag non-http come mailto, tel, ecc."
+        },
+        "a0b71249600398fd6f497273a8fbd0c6": {
+            "text": "%d a[href] tag non risolti"
+        },
+        "1207ad89efff06ef7ff663d9b3a61af4": {
+            "text": "%d img[src] tag non risolti"
+        },
+        "29cf35e7a0357a5a759b715afbcfa857": {
+            "text": "%d img[src] tag non risolti e sistemati"
+        },
+        "bf488dca57621015b17e715b49053f72": {
+            "text": "%d img[alt] tag vuoti che verranno popolati a runtime"
+        }
+    }
+}

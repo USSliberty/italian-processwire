@@ -1,0 +1,120 @@
+{
+    "file": "wire\/modules\/Page\/PageFrontEdit\/PageFrontEditConfig.php",
+    "textdomain": "wire--modules--page--pagefrontedit--pagefronteditconfig-php",
+    "translations": {
+        "2e3924cdf708580effa1682a30cc024c": {
+            "text": "Prima di usare la modifica front-end, leggi la [pagina di aiuto](http:\/\/rexolution.test\/admin\/setup\/language-translator\/edit\/%s) per la modifica front-end."
+        },
+        "728f08c6a5722017ce7fb9747da7bac3": {
+            "text": "Impostazioni dell'editor in linea:"
+        },
+        "180efa8a9b1cfee25988715f7d673dbc": {
+            "text": "Opzione A: campi modificabili in front-end"
+        },
+        "6e8a63eb8616bdb680f111e0b1a5bea3": {
+            "text": "Questi campi di testo saranno modificabili in front-end, direttamente nella pagine, semplicemente selezionando le caselle sotto."
+        },
+        "d0526ac74110f73ee2926fd2d650c4a9": {
+            "text": "**Fai attenzione con questa opzione:** Se stai mostrando il valore di un campo in pi\u00f9 di una posizione sulla pagina, dovresti usare le [Opzioni B, C o D](https:\/\/processwire.com\/api\/modules\/front-end-editing\/)."
+        },
+        "78badcbc932189f3c876e9f2f55350cd": {
+            "text": "(non raccomandato)"
+        },
+        "f16845125537677cf6b52cc53b2e1ee7": {
+            "text": "Opzione A: ambito dell'editor"
+        },
+        "5fd733ebd21770ef2dff6a0382db2117": {
+            "text": "Quando i campi selezionati sopra sono visualizzati, dove dovrebbero essere modificabili?"
+        },
+        "2fac3d64842df30df607c68da216acd7": {
+            "text": "I campi sono modificabili solo se provengono dalla pagina renderizzata (raccomandato)"
+        },
+        "aa27ca4492b42802705a21889bb9a27e": {
+            "text": "Campi editabili a prescindere dalla pagina"
+        },
+        "8b0326c326b1dddbdc4bf7b3519c02f6": {
+            "text": "Pulsanti salva\/annulla"
+        },
+        "046d8235ad520c64afae23d7aaa4ffcc": {
+            "text": "Posizione pulsanti"
+        },
+        "06b9281e396db002010bde1de57262eb": {
+            "text": "="
+        },
+        "a4d0d101d6a34bf80ffeee601c3ff84a": {
+            "text": "In alto a sinistra"
+        },
+        "d3708546a929dfcf66eaeaba794486eb": {
+            "text": "In alto a destra"
+        },
+        "b67554192c50f4f6a4c1bd4797f6c3f8": {
+            "text": "In basso a sinistra"
+        },
+        "5968e3c37145f57587afcba727d2b120": {
+            "text": "In basso a destra"
+        },
+        "61a4338583e41efc9ecde01cc622f21c": {
+            "text": "Tipo pulsanti"
+        },
+        "de39b6da18c671eec0524a2bfc0da0c2": {
+            "text": "Auto (icone e testo per desktop, icone per dispositivi touch)"
+        },
+        "fb8bc05d9bb7a27307aff0d799f995fd": {
+            "text": "Icone e testo"
+        },
+        "e01d2e7e85c1522149ddd1abead1167f": {
+            "text": "Solo testo"
+        },
+        "bf1079a9cc453b4caaa03e1b4d3c41d7": {
+            "text": "Solo icone"
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "Di pi\u00f9"
+        },
+        "fdf8ef9fa133d1852bef33c7c85144cb": {
+            "text": "Ci sono modi differenti con cui puoi abilitare la modifica front-edn per questo campo. A prescindere da quale opzione scegli, la modifica front-end apparir\u00e0 solo quando l'utente ha permessi appropriati per la pagina e il campo."
+        },
+        "4cb305eca1333573edc880819fc7c977": {
+            "text": "Permessi richiesti sono [page-edit](http:\/\/rexolution.test\/admin\/setup\/language-translator\/edit\/%s) e [page-edit-front](http:\/\/rexolution.test\/admin\/setup\/language-translator\/edit\/%s)"
+        },
+        "5e7f95d663a3711b9965a6fa8707ef6f": {
+            "text": "Quando un campo \u00e8 modificabile, passandoci sopra con il mouse verr\u00e0 mostrato un puntatore contesto anzich\u00e9 un puntatore standard. Per modificare il campo in front-end devi fare **doppio click** su di esso."
+        },
+        "17dc7a031f9540dbeb3cf9e10a7a1ebf": {
+            "text": "Questa opzione non \u00e8 supportata per questo campo."
+        },
+        "5f858c76077c44036b1442243b30ac34": {
+            "text": "Opzione A: modifica automatica"
+        },
+        "88dad1b60aca7105bd5e7e185fa221ec": {
+            "text": "Quando il valore formattato del campo \u00e8 recuperato dalla variabile $page, verr\u00e0 reso modificabile senza che tu debba scrivere alcun markup\/codice. Assume pertanto che l'utente abbia i permessi per modificarlo."
+        },
+        "f1206f9fadc5ce41694f69129aecac26": {
+            "text": "Configura"
+        },
+        "c214147662040e46e52c3cd0006a1122": {
+            "text": "Questa opzione \u00e8 correntemente ABILITATA per questo campo."
+        },
+        "c4755719068ffa0049bab373cee32aef": {
+            "text": "Opzione B: chiamata API"
+        },
+        "b4da834069eb28c98cdf74c0dd7179d3": {
+            "text": "Utilizza $page->edit(\"%s\"); anzich\u00e9 $page->%s; quando vuoi visualizzare il valore."
+        },
+        "a88ea479a9d66a019262dbfd5b4879b7": {
+            "text": "Ciascuna delle sintassi seguenti sono supportate (scegline una). Il valore \"1001\" pu\u00f2 essere qualsiasi ID pagina o percorso e \"...\" pu\u00f2 essere qualsiasi markup o codice, tipicamente dove vuoi visualizzare il valore del campo."
+        },
+        "48f403566075715027bd7fc9e1902cbc": {
+            "text": "Opzione C: Aggiungi tag HTML di modifica per creare una regione modificabile"
+        },
+        "ee885b8843c6c111129d0eaca536bbbe": {
+            "text": "Opzione D: Aggiungi attributi HTML di modifica al markup esistente per creare regioni modificabili"
+        },
+        "0e060a7eca98daf0e3c2e5280319e907": {
+            "text": "Il tag div mostrato sotto potrebbe essere qualsiasi tag HTML che racchiude la regione modificabile."
+        },
+        "5c23fae6f3e37e699b6663a4fa6dbf08": {
+            "text": "Nota che quando vengono usati gli attributi di modifica, verr\u00e0 usato sempre l'editor modale. Tutte le altre opzioni useranno l'editor in linea se supportato."
+        }
+    }
+}

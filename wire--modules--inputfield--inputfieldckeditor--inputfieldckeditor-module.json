@@ -23,12 +23,6 @@
         "586dfebdb944d7af7c4720be84d7fa50": {
             "text": "Salvataggio Immagine"
         },
-        "941c891be23b6a837de1d46c30efad2a": {
-            "text": "Inserisci questa Immagine"
-        },
-        "a616a1ef7aa1ee32d7d31c742923a202": {
-            "text": "Scegli un'altra immagine"
-        },
         "a2a62a977b1825230f76d3ba2a6bf3df": {
             "text": "La modalit\u00e0 inline di CKEditor richiede il modulo MarkupHTMLPurifier. Utilizza invece la modalit\u00e0 normale."
         },
@@ -131,9 +125,6 @@
         "b67b49a021c8f28a0be44e276cdcb145": {
             "text": "Questa opzione ti permette di modificare il modo in cui il testo e altri elementi appaiono nell'editor. Questo si applica solo nell'interfaccia di amministrazione e non nel front-end del tuo sito."
         },
-        "9728a8f280cf7e8b0b89b52749f7e800": {
-            "text": "Vedi le nostre [istruzioni](https:\/\/github.com\/ryancramerdesign\/ProcessWire\/blob\/dev\/wire\/modules\/Inputfield\/InputfieldCKEditor\/README.md#custom-editor-css-file) per come utilizzarlo."
-        },
         "c329380c093af757e030c47c58fc31ae": {
             "text": "Editor per il file CSS personalizzato (modalit\u00e0 regolare)"
         },
@@ -145,9 +136,6 @@
         },
         "749b7a2316f526ff2ec75692749211ad": {
             "text": "L'opzione ti permette di specificare stili personalizzati per la selezione nel tuo editor. Richiede che tu abbia un elemento \"Stili\" nella tua toolbar."
-        },
-        "63ba0561c6027fed354e6c5af252a77b": {
-            "text": "Vedi le nostre [istruzioni](https:\/\/github.com\/ryancramerdesign\/ProcessWire\/blob\/dev\/wire\/modules\/Inputfield\/InputfieldCKEditor\/README.md#custom-editor-js-styles-set) per come utilizzarlo."
         },
         "2c3077a1dd5833c9dc6f49fe48e3ab71": {
             "text": "Se utilizzato, inserisci una **propriet\u00e0: valore** per linea, o utilizza una stringa JSON."
@@ -214,6 +202,36 @@
         },
         "68835c69c5818fea532f3ad00a91be00": {
             "text": "="
+        },
+        "7038eac66e387c3b3a0834d786a88757": {
+            "text": "Inserisci immagine"
+        },
+        "0d1fae9f57cbc9a014f1c96baeef3911": {
+            "text": "Scegli un'altra"
+        },
+        "f05a8abeb447b6720621d879a9197d00": {
+            "text": "Elementi disponibili della toolbar:"
+        },
+        "fb946d5480a9eb75edd868079b14cfac": {
+            "text": "Contatore \u00e8 supportato per i campi regolari CKEditor, ma non per i campi CKEditor inline."
+        },
+        "2eba31ae40d6ac1bd4d48c72f1977364": {
+            "text": "Campi immagine che possono essere usati per trascinare o incollare immagini"
+        },
+        "556255b8390dd04b90c0dca2b07da0aa": {
+            "text": "Se nessun campo \u00e8 selezionato allora un campo immagine verr\u00e0 automaticamente scelto a runtime. Se l'opzione con etichetta \"Nessuno\" \u00e8 selezionata, allora questa caratteristica verr\u00e0 disabilitata."
+        },
+        "ba5c4d2fefb66dfdc969030e8d4726a6": {
+            "text": "Nessuna (disabilita upload attraverso drag\/paste)"
+        },
+        "7a20fe498ae5ceab6766124b9cb7b2a9": {
+            "text": "Consulta le [istruzioni](http:\/\/rexolution.test\/admin\/setup\/language-translator\/edit\/%s) su come usare questo campo."
+        },
+        "27580e5542fe0d14d78016023f38829f": {
+            "text": "Pagina da utilizzare per il salvataggio di immagini\/asset"
+        },
+        "d17026399e4b0283ab382defdc5ac109": {
+            "text": "Di default, le immagini caricate verranno salvate assieme alla pagina modificata. Se invece vuoi utilizzare una pagina condivisa per questi asset, sceglila qui."
         }
     }
 }

@@ -1,0 +1,18 @@
+{
+    "file": "wire\/core\/MarkupQA.php",
+    "textdomain": "wire--core--markupqa-php",
+    "translations": {
+        "2c8c8cc955bc953e099536d83ba3f9be": {
+            "text": "\u00e8 nel cestino"
+        },
+        "bb07bf84b3c2188ebdc8883e128685f8": {
+            "text": "Impossibile recuperare il link sulla pagina %1$s nel campo \"%2$s\": %3$s"
+        },
+        "82767b749996ed727738e156e277919f": {
+            "text": "Ricreata la variazione dell'immagine"
+        },
+        "e7f0084e8dc972e4cd7d238f17f5cbce": {
+            "text": "Impossibile ricreare la variazione dell'immagine"
+        }
+    }
+}
