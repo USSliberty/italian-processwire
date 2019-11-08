@@ -22,6 +22,15 @@
         },
         "baa866af125aefed417409d878f6d013": {
             "text": "Aggiunto permesso opzionale: %s"
+        },
+        "f42c0a03ea62c2f657939fd15ef033cb": {
+            "text": "Quando installato, l'utente deve avere questo permesso per completare il compito descritto."
+        },
+        "76455df332216051d893a89ac3b39deb": {
+            "text": "Quando NON installato, il permesso viene garantito se l'utente ha gi\u00e0 permessi di modifica alla risorsa specificata."
+        },
+        "3900b58fd6fe4828f0595efc2d4f574f": {
+            "text": "Come risultato, se installato, questo permesso potrebbe rimuovere l'accesso esistente fino a quando non verr\u00e0 assegnato ai ruoli."
         }
     }
 }

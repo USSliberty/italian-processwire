@@ -92,9 +92,6 @@
         "5e1daea70649e788db6ead8cd50f791d": {
             "text": "La pagina non pubblicata %1$s non \u00e8 permessa nel campo \"%2$s\""
         },
-        "1cc510dea04a978b3bb88514582eea6c": {
-            "text": "Per permettere pagine non pubblicate, modifica il campo \"%s\" e controlla l'impostazione nella tab \"Avanzate\"."
-        },
         "309980b76124ca15c19a948edcd2b820": {
             "text": "Pagine selezionabilit"
         },
@@ -190,6 +187,9 @@
         },
         "d89af7d091962a34d3d666a54148e1f9": {
             "text": "Se vuoi fare in modo che tutto sia selezionabile, non specificare niente."
+        },
+        "1f6147d9cbae7fa8c3e213824bce6405": {
+            "text": "Per permettere pagine non pubblicate, modifica il campo \"%s\" e controlla l'impostazione nella tab \"Dettagli\"."
         }
     }
 }

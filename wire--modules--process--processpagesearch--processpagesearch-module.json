@@ -80,35 +80,11 @@
         "dc87414810d43e27f63b89feabadc943": {
             "text": "Trovate %1$d pagine usando il selettore: %2$s"
         },
-        "d60c090c3c99aaae5f57da3eb85fe008": {
-            "text": "Campi di default da cercare"
-        },
-        "bfe2201d3b973b0d8c3c5b0ea08e1736": {
-            "text": "Inserisci i nomi di uno o pi\u00f9 campi di testo che vuoi cercare, separandoli con uno spazio."
-        },
-        "6278e5dbbd21048091f612f55185257e": {
-            "text": "Campi da cercare nella ricerca admin (ajax)"
-        },
-        "cc10d38a176ad7cde1228d2e22f1122b": {
-            "text": "Raccomandiamo di limitare a 1 o 2 campi al massimo in quanto i risultati popolano un campo autocomplete. Tipicamente la ricerca si concentra solo sul titolo."
-        },
         "2d29cf36f3ebbd5bab570d70070e5102": {
             "text": "Nomi dei campi predefiniti da mostrare nei risultati di ricerca."
         },
         "6cfd6f09104bdac467bb40624aae4e9c": {
             "text": "Se specifichi pi\u00f9 di un campo, separali con uno spazio."
-        },
-        "51e1d489ac4198969f8daf52b7cdfaf6": {
-            "text": "Operatore di ricerca predefinito"
-        },
-        "c488b358fae501da3848f9faeb83dd35": {
-            "text": "Campi"
-        },
-        "736f3e2669c68c02be0fb19d1e70622f": {
-            "text": "Template"
-        },
-        "c26ba1dd54d52630a0aedf779e5926af": {
-            "text": "Moduli"
         },
         "8aa55d906b86496efeb66b0eae7d75ce": {
             "text": "Pagine"
@@ -118,6 +94,66 @@
         },
         "6950a77d131f284826099392fd57701c": {
             "text": "Finisce con"
+        },
+        "03164877c3d4b788308e3fbfe3199751": {
+            "text": "="
+        },
+        "d1032e06eff58a781d56ae06b0ebeb85": {
+            "text": "Ordine di ricerca"
+        },
+        "e8159c4a91a92ac26a6c03ef7aaf6dac": {
+            "text": "Questi sono i tipi di ricerca che verranno eseguiti durante la ricerca admin."
+        },
+        "e6325f7d83769dd875f667c2dbcd5fd7": {
+            "text": "Trascinali nell'ordine in cui vuoi elencare i risultati della ricerca."
+        },
+        "94d8d93a863e2724dc409c7b5771bf76": {
+            "text": "(esclusi)"
+        },
+        "8cf4111a5e458360994845128c2b07b3": {
+            "text": "Escludi tipi di ricerca"
+        },
+        "fbb4e524dc820fa07f82c23211611ad9": {
+            "text": "Scegli qualsiasi tipo di ricerca che vuoi escludere dalla ricerca in tempo reale. Questi potrebbero essere i tipi che non ricerchi spesso."
+        },
+        "cee52fb451f657b046988a3535ad9fad": {
+            "text": "Pi\u00f9 tipi escludi, pi\u00f9 veloce sar\u00e0 la ricerca in tempo reale."
+        },
+        "1b803e4573be96837e8a286f9ba111c4": {
+            "text": "Ciascun tipo selezionato potr\u00e0 essere ricercato se richiesto specificatamente."
+        },
+        "5b2201bc8bf61333c472ab98b9f3b2c3": {
+            "text": "Per esempio, se escludi il tipo \"cestino\", potr\u00e0 essere comunque incluso se utilizzi il prefisso \"trash=\" nel termine di ricerca, ad esempio \"trash=hello\"."
+        },
+        "e1eee8c1f21fe51aa15f3006cd6419f4": {
+            "text": "Campi pagina da ricercare"
+        },
+        "14521e8e790db172e8c476f9d77291c0": {
+            "text": "Questo si applica solamente ai risultati di ricerca di \"pagine\" e \"cestino\"."
+        },
+        "4f745aea666e6efcb5ff18f1d9275693": {
+            "text": "Raccomandiamo di limitare a 1 o 2 campi al massimo per assicurarsi che la ricerca sia veloce. Tipicamente la ricerca dovrebbe essere effettuata solo sul campo \"titolo\"."
+        },
+        "719994663f2fff9ce4cd0935acc6c6a5": {
+            "text": "Campi pagina da ricercare se l'utente preme \"invio\" nel box di ricerca"
+        },
+        "50570447523d04b47c7c79f8c135a3ae": {
+            "text": "Tipicamente dovrebbe essere identico a sopra, ma \u00e8 possibile aggiungere campi aggiuntivi."
+        },
+        "72dc6e522da22345e91fd3dde26d792e": {
+            "text": "Per esempio, anzich\u00e9 ricercare solo il campo \"titolo\", puoi ricercare anche il campo \"body\"."
+        },
+        "f9702fc01ddd6b314fe6d74ac54995b6": {
+            "text": "Operatore di ricerca per parole singole e parziali"
+        },
+        "5187ed7cdf401218d2ae7263781350b8": {
+            "text": "Indica il supporto per le corrispondenze di parole parziali"
+        },
+        "bbeff731bf48359f60959f600e6240c2": {
+            "text": "Operatore di ricerca per parole multiple (frasi)"
+        },
+        "3aaf625865081e0b0f1f8d001a9a06be": {
+            "text": "(in qualsiasi ordine)"
         }
     }
 }

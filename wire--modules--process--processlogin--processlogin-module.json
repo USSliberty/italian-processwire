@@ -44,20 +44,44 @@
         "00796cc045b871fe7b2867edef6aaaf7": {
             "text": "Per nascondere questo messaggio, imposta $config->chmodWarn = false; nel tuo file \/site\/config.php."
         },
-        "efdf35a179a19ed3b3de0d3e7785f17d": {
-            "text": "Attenzione: il tuo server locale non \u00e8 definito e potrebbe causare problemi."
-        },
-        "25722c10f4f7abdc7297094d5d8f97e6": {
-            "text": "Traduci l'impostazione \"C\" della localizzazione per ogni lingua alla localizzazione corretta in %s"
-        },
         "d5877d284caca4c9b4d55adb8e6e758c": {
             "text": "Per esempio, l'impostazione di localizzazione per US English potrebbe essere: %s"
         },
-        "58b0cb95c27f394bd4c6970b563153dd": {
-            "text": "Aggiungi questo al file \/site\/config.php (modifica \"%s\" come richiesto):"
-        },
         "1860fb17b107cbb39cf6bbfa61130803": {
             "text": "Modifica profilo"
+        },
+        "60d0f1128804dfd5fa013c3d02c67012": {
+            "text": "La tua impostazione per la localizzazione \u00e8 \"%s\"."
+        },
+        "9cdeee8e8a463c558dc372434cc5dbb1": {
+            "text": "Nota: la tua impostazione corrente per la localizzazione del server non funziona correttamente con il set di caratteri UTF-8 e potrebbe causare problemi minori."
+        },
+        "f8239d6a9013fae244731a805aa50b09": {
+            "text": "Traduci l'impostazione di localizzazione \"C\" per ogni lingua in %s"
+        },
+        "7ca79a1980d88028a56fcee7c711685e": {
+            "text": "Aggiungi questo al tuo file %1$s (regola \"%2$s\" come richiesto):"
+        },
+        "8b10281154afa6312e3e8448c14f7134": {
+            "text": "Autenticazione a due fattori"
+        },
+        "c32dc189adbf7de6a1277780634d1a75": {
+            "text": "Trovati i seguenti moduli 2FA:"
+        },
+        "f00ee62461e9cc7a824e71feff114251": {
+            "text": "Autenticazione a due fattori fortemente consigliata per questi ruoli"
+        },
+        "ab848ea82288648eb2aabe4e9e2f4dc6": {
+            "text": "Dopo aver eseguito l'accesso al pannello, ProcessWire richieder\u00e0 ai ruoli qui selezionati di usare l'autenticazione a due fattori per i loro account."
+        },
+        "ab77fff843383131e8f774ba78654a91": {
+            "text": "Per configurare installa prima uno o pi\u00f9 moduli 2FA e poi torna qui."
+        },
+        "aef111cc10b28b4cf297865dbc1253bb": {
+            "text": "Moduli 2FA nella cartella dei moduli di ProcessWire"
+        },
+        "0d61f8370cad1d412f80b84d143e1257": {
+            "text": "C"
         }
     }
 }

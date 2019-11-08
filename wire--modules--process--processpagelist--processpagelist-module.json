@@ -70,6 +70,39 @@
         },
         "de9ced9bf5e9829de4a93ad8c9d7a170": {
             "text": "Aggiungi nuova"
+        },
+        "e834b638a7a5df6f0de0c57b1d6ac901": {
+            "text": "Permetti agli editori non-superuser di usare il Cestino?"
+        },
+        "6288d796be4065eb3b00cf1fe1f7b613": {
+            "text": "Se selezionato, gli utenti potranno visualizzare le pagine nel cestino (solo le pagine a cui hanno accesso)."
+        },
+        "98ee3deee3a12fa7795a82801d19a020": {
+            "text": "Questo permetter\u00e0 anche di abilitare le azioni \"Cestina\" e \"Ripristina\", dove permesso dal controllo degli accessi."
+        },
+        "a8a530c941af87d6dc1d0d907cd4ee3f": {
+            "text": "Tipo di conteggio dei figli"
+        },
+        "f472347ec718962a0e4560a410768cf1": {
+            "text": "Nell'elenco delle pagine, il conteggio delle pagine figlio verr\u00e0 mostrato di fianco ad ogni pagina quando applicabile. Quale tipo di conteggio dovrebbe mostrare?"
+        },
+        "8c06d8c7bf685599eb5de83ad4d79d08": {
+            "text": "Quando verranno visualizzati i discendenti, il conteggio includer\u00e0 tutti i discendenti, a prescindere dal fatto che siano elencabili dall'utente oppure no."
+        },
+        "1cf8145a75b3d3d0f52759b1808c9cac": {
+            "text": "Figli di primo livello (default)"
+        },
+        "f9e98f3e587cf5da4ddb460f0aa52437": {
+            "text": "Discendenti: pagine di primo livello, secondo livello, eccetera..."
+        },
+        "3f842a2d7d72a4f7fb3e400a5b569f0b": {
+            "text": "Entrambi: figli\/discendenti"
+        },
+        "d86d2e0723883a6f48c9c0c05d3584b6": {
+            "text": "Entrambi: discendenti\/figli"
+        },
+        "69ff054adc667458622b780aabe13d60": {
+            "text": "Mostra l'ID pagina"
         }
     }
 }

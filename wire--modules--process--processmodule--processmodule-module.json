@@ -102,10 +102,10 @@
             "text": "="
         },
         "418cab01f270b56053a218c414840ec9": {
-            "text": "Download e Aggiorna"
+            "text": "Scarica e Aggiorna"
         },
         "c83047e52e84102cde2e46c99f5f2fa5": {
-            "text": "Download e Installa"
+            "text": "Scarica e Installa"
         },
         "fadeae979278b23b0c0245fe143813ca": {
             "text": "Aggiungi moduli dalla Directory"
@@ -193,9 +193,6 @@
         },
         "0900a3f6adfa931e0130c02c436e7e7f": {
             "text": "Nome della Classe"
-        },
-        "8de5f3b8fe691cf6304176b9a5ed54da": {
-            "text": "Puoi sfogliare la directory dei moduli e trovare il modulo che vuoi scaricare e installare. Scrivi o incolla nel \"nome classe\" il modulo che vuoi installare."
         },
         "3b0798392299a74418470d3f13b5eec2": {
             "text": "La directory dei moduli \u00e8 visualizzabile all'indirizzo [modules.processwire.com](http:\/\/modules.processwire.com)"
@@ -409,6 +406,18 @@
         },
         "d9402453cf25d5a1ced0a12d96cc7f98": {
             "text": "="
+        },
+        "43e59b407ace3714a7913e09ad22a594": {
+            "text": "Ottieni informazioni sul modulo"
+        },
+        "3c6392d21eded83348fcd9ba6fbf3784": {
+            "text": "Scarica adesso"
+        },
+        "bb767ff00426d9e68c6a09aef27403b1": {
+            "text": "Puoi sfogliare la cartella dei moduli e individuare il modulo che vuoi scaricare e installare."
+        },
+        "a2eff7125bf22d0665eb96166b471821": {
+            "text": "Scrivi o incolla il nome della classe per il modulo che vuoi installare, quindi clicca il pulsante \"%s\" per procedere."
         }
     }
 }

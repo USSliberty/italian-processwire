@@ -56,9 +56,6 @@
         "41553b358b6daba19bf079d5ad3eefb1": {
             "text": "Pagina temporanea non utilizzata"
         },
-        "bd71df4fde063d60b0fe33d87f52f7ff": {
-            "text": "Attenzione, il nome che hai scelto \"%1$s\" \u00e8 gi\u00e0 utilizzato ed \u00e8 stato cambiato in \"%2$s\"."
-        },
         "a713b3cf3828f00d541e6ae14b294a8f": {
             "text": "Le pagine che hai scelto sopra rappresentano segnalibri alle pagine genitore dove vuoi aggiungere figli. Nota che se un utente non ha il permesso per aggiungere una pagina a uno specifico genitore (a causa dei controlli di accesso o per le impostazioni del template), il segnalibro non sar\u00e0 visibile."
         },
@@ -82,6 +79,9 @@
         },
         "9d9c4e8d05601024166b9a3b0cb46ad6": {
             "text": "La selezione del template \u00e8 richiesta"
+        },
+        "6649c293aa8a0af33c071f946674fc31": {
+            "text": "Attenzione, il nome che hai scelto \"%1$s\" \u00e8 stato cambiato in \"%2$s\"."
         }
     }
 }

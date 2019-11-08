@@ -7,6 +7,21 @@
         },
         "f7b20059533e8267e92eecda0b6eee8e": {
             "text": "Errore durante il salvataggio del campo \"%s\""
+        },
+        "659a129a2ef73cd3628cdb82dd2ecfb7": {
+            "text": "Pagine che usano il template \"%s\" non sono spostabili."
+        },
+        "de2497c4afe885df1cae702f984bc35d": {
+            "text": "Il genitore \"%1$s\" selezionato utilizza il template \"%2$s\" che non permette figli."
+        },
+        "054467106726884f49f1059fa63c12a7": {
+            "text": "Impossibile spostare \"%1$s\" perch\u00e9 il template template \"%2$s\" usato dalla pagina \"%3$s\" non permette figli che usano il template \"%4$s\"."
+        },
+        "39f8623f438de062026d1508751a5e3d": {
+            "text": "Impossibile spostare \"%1$s\" perch\u00e9 il template template \"%2$s\" utilizzato dal nuovo genitore \"%3$s\" non \u00e8 permesso dal template \"%4$s\" della pagina spostata."
+        },
+        "f99ff7a362ba2a69eb85a3e3f2bfe1e4": {
+            "text": "Il genitore selezionato \"%1$s\" ha gi\u00e0 una pagina chiamata \"%2$s\"."
         }
     }
 }

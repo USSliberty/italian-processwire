@@ -11,9 +11,6 @@
         "f3f43e30c8c7d78c6ac0173515e57a00": {
             "text": "Filtri"
         },
-        "89872ab3eb9af52f34b4dd82077758fc": {
-            "text": "Filtra per Template"
-        },
         "410267bd4e3c99784bab90c5e64b5209": {
             "text": "Quando selezionato, solo i campi di uno specifico template saranno mostrati. I campi predefiniti sono anche visualizzati quando filtrati da un template. L'asterisco (*) indica i template di sistema."
         },
@@ -23,23 +20,14 @@
         "a81c2112e97c64099ff86d5b97cb13c6": {
             "text": "Campi per Template"
         },
-        "d9a45316e3230df36980cf6ab8983485": {
-            "text": "Filtra per tipo di campo"
-        },
         "db2b4f5915e2053955edfec38776a17f": {
             "text": "Quando specificato, solo i campi del tipo selezionato saranno mostrati. Anche i campi predefiniti saranno mostrati quando si filtra per tipo di campo."
         },
         "cca90d2e0854b62dc0c77ad0e1679be4": {
             "text": "Visualizzazione campi del tipo: %s"
         },
-        "380f82872d1eb16c53b69ce4cfb45c9f": {
-            "text": "Mostrare campi predefiniti ?"
-        },
         "2a7b956033d031e555889f8ddd52754f": {
             "text": "Quando selezionato, i campi predefiniti saranno mostrati. Sono inclusi anche i campi di sistema e i campi permanenti. I campi di sistema sono richiesti da ProcessWire e non possono essere cambiati. I campi permanenti sono quei campi che non possono essere rimossi da un template. Questi campi sono usati internamente da ProcessWire."
-        },
-        "1535d0228ba3626bad19ec55142ffcc6": {
-            "text": "Visualizzazione di tutti i campi, inclusi quelli predefiniti."
         },
         "288fc0452049b753c8a75464d299ffe3": {
             "text": "Nessun campo corrisponde al tuo filtro"
@@ -155,9 +143,6 @@
         "f98b1dd6f292ac2dfa3f8b0f9a8df9b0": {
             "text": "Aggiungi nuovo campo"
         },
-        "cba80ebc9ff6059cddbf49c3f46172a6": {
-            "text": "Nessuno"
-        },
         "1f2b73286f18ea71c594652199e86dff": {
             "text": "Annulla"
         },
@@ -166,12 +151,6 @@
         },
         "a90b5efafea041e94da7fffd2bd530a3": {
             "text": "Base"
-        },
-        "0071819b4ba5f6d112dbf1eab7cbe2ae": {
-            "text": "Tipo"
-        },
-        "7facb165145d489aeaa6743a6f9f1f55": {
-            "text": "Etichetta"
         },
         "9ea1f3769ad9c72e3ebf7de539b53aa1": {
             "text": "Descrizione"
@@ -184,12 +163,6 @@
         },
         "3df354a032179f36ea493c3df6643ce1": {
             "text": "Se vuoi raggruppare visualmente questo campo con altri presenti nella lista, inserisci una parola (tag). Inserisci lo stesso tag negli altri campi che vuoi raggruppare. Per specificare tag multipli, separali con uno spazio. L'uso dei tag \u00e8 utile se il tuo sito ha un gran numero di campi."
-        },
-        "7f511c25eccff9ce7127eecfb136f443": {
-            "text": "Ogni tag deve essere di una parola (il trattino \u00e8 ok)."
-        },
-        "78bd709db99c927f3a59a1983f18c237": {
-            "text": "Per rendere una tag richiudibile nella lista dei template fai precedere alla parola un trattino (es. -ingredienti)"
         },
         "72d6d7a1885885bb55a565fd1070581a": {
             "text": "Importa"
@@ -497,12 +470,6 @@
         "a698a809093ad1c25ea277ff03ae5fc7": {
             "text": "Azioni"
         },
-        "0e26a613a19dbe1752912c253f5b2e37": {
-            "text": "Nome"
-        },
-        "0e6b389782e160492d4fe3a397e392df": {
-            "text": "Etichetta"
-        },
         "995ed8becc596409849c6a652fbf5cd4": {
             "text": "Pagine popolate"
         },
@@ -539,9 +506,6 @@
         "4da66962948d7a922e24b9821417f14f": {
             "text": "="
         },
-        "bcb2ce4355834a060bef50afb9127603": {
-            "text": "="
-        },
         "b342aa8cb5e92300b8b0bda3eaf8076d": {
             "text": "="
         },
@@ -553,15 +517,6 @@
         },
         "4b170345be16c4cee0984c08ab54614d": {
             "text": "quando usato con: %s"
-        },
-        "b021df6aac4654c454f46c77646e745f": {
-            "text": "Etichetta"
-        },
-        "49ee3087348e8d44e1feda1917443987": {
-            "text": "Nome"
-        },
-        "a1fa27779242b4902f7ae3bdd5c6d508": {
-            "text": "Tipo"
         },
         "2babe53026309ed1bc4d26626dbaf9b3": {
             "text": "Dettagli:"
@@ -610,6 +565,57 @@
         },
         "07f32475d23721446e940087c7e26b53": {
             "text": "Questo non funzioner\u00e0 perch\u00e9 i valori devono essere ID pagina"
+        },
+        "c101058e7ea21bbbf2a5ac893088e90b": {
+            "text": "="
+        },
+        "c145e5825899a7a53cf8a14b64e53639": {
+            "text": "Gestisci tag"
+        },
+        "f62aef3d1bcf85a63cf9af0e03a46c0f": {
+            "text": "Filtra per template"
+        },
+        "8870ba7044d8bb0fd95686ec955f9109": {
+            "text": "Filtra per tipo"
+        },
+        "a922cb7ffa163fa26dfe9e44aaa24d32": {
+            "text": "Mostrare campi di sistema?"
+        },
+        "7db27839ce9f9208f2b52bb9a48220a9": {
+            "text": "Mostra tutti i campi, inclusi i campi di sistema e campi permanenti."
+        },
+        "1bd8f22fdbf8e9e0ca28f3f1e276b085": {
+            "text": "="
+        },
+        "5da3b0e9c19f86443f6ad42f6d0d1456": {
+            "text": "Scegli tutti i campi che devono avere questo tag"
+        },
+        "cd83a77df71e48e6273b925549e0af71": {
+            "text": "Per eliminare questo tag, rimuovilo prima da tutti i campi."
+        },
+        "ed4def612e69863794dc9c98db08b464": {
+            "text": "Aggiunto il tag \u201c%1$s\u201d al campo: %2$s"
+        },
+        "ab7c81ccbce2415afa58b092a3c58162": {
+            "text": "Rimosso il tag  \u201c%1$s\u201d dal campo: %2$s"
+        },
+        "d80b6b9388a3f3767f80be5c2ab78976": {
+            "text": "I tag ti consentono di creare collezioni di campi per l'elenco o per la ricerca"
+        },
+        "718bd4be79fcb0bac1a4ff2e4528d45d": {
+            "text": "Attenzione: il tag \"%s\" ha lo stesso nome di un Campo."
+        },
+        "9fc8691fab39cc1433cd39430edb0501": {
+            "text": "Aggiungi nuovo tag"
+        },
+        "c6e44f0384ed0d130e044f153e7b772f": {
+            "text": "Ogni tag deve essere una singola parola (trattini bassi vanno bene)."
+        },
+        "2eea24744a636478929cd8cbbe444ded": {
+            "text": "Mostrare come compresso nell'elenco dei campi?"
+        },
+        "6855bfdf44496210543dabeb8f88a1c0": {
+            "text": "+"
         }
     }
 }

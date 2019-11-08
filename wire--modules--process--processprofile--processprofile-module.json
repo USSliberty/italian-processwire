@@ -26,9 +26,6 @@
         "2ed85673c671a4f6a96ccccf154dab83": {
             "text": "Nome login utente"
         },
-        "c5e601d1ba182fc5a8c177a4f5eb6661": {
-            "text": "Per cambiare questo campo, devi inserire anche la tua password nel campo \"Imposta Password\"."
-        },
         "cb6f985e3af3f01a7f7f9e2d3cc6fe77": {
             "text": "L'username pu\u00f2 contenere lettere minuscole a-z, 0-9 trattini o underscore."
         },
@@ -67,6 +64,9 @@
         },
         "a1fa27779242b4902f7ae3bdd5c6d508": {
             "text": "Tipo"
+        },
+        "75ac88c5fefdf1235b5f0484d3c88a2b": {
+            "text": "Per sicurezza, inserisci la tua password per salvare questi cambiamenti:"
         }
     }
 }

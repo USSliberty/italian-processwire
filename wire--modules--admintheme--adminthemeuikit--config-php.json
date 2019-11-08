@@ -14,17 +14,11 @@
         "ff498dcc16878847ee1d01c38a0138f3": {
             "text": "(SPERIMENTALE)"
         },
-        "6f8d1b93e4aad53511c85e29ed36b3d0": {
-            "text": "="
-        },
         "1a79a4d60de6718e8e5b326e338ae533": {
-            "text": "+"
-        },
-        "2d7e18586d2265fc63934ad26902effb": {
-            "text": "Masthead e navigazione"
+            "text": "esempio"
         },
         "5580ceafc3f05d1b31e318f00e2d187c": {
-            "text": "Avatar utente"
+            "text": "Avatar"
         },
         "f9a6b1bbc44e674712c33ec4363ca698": {
             "text": "Gravatar (servizio esterno che determina l'avatar dall'email)"
@@ -62,20 +56,11 @@
         "94badcf29c95c51eb93549c399c1c91d": {
             "text": "Esempi: \u201c{name}\u201d, \u201c{Name}\u201d, \u201c{title}\u201d, \u201c{first_name} {last_name}\u201d, \u201c{company.title}\u201d, ecc."
         },
-        "496160bbca5b6421fb40ff6676562b17": {
-            "text": "Azione al click sul logo dell'intestazione principale"
-        },
         "96f31592de4b37ce5ff61db935fbfa81": {
             "text": "Elenco pagine"
         },
         "2fcf0b21fb2e5b0c2ed8774ca91bd3a0": {
             "text": "Apri navigazione offcanvas"
-        },
-        "ebd9bec4d70abc789d439c1f136b0538": {
-            "text": "="
-        },
-        "1688f46c79b3285c9de79d60d63d32d0": {
-            "text": "Tipo interfaccia"
         },
         "21924d98c4f369c97991af1760e5fc64": {
             "text": "Tradizionale con la navigazione nell'intestazione"
@@ -101,9 +86,6 @@
         "c0a71759159badff6c9c45f730402dd6": {
             "text": "Specifica la larghezza massima del layout (in pixel) oppure 0 per nessun massimo."
         },
-        "c20f63b379f6b02a18439890f5ce535b": {
-            "text": "Si applica solo all'interfaccia tradizionale."
-        },
         "37243206806c555c2dbce190b1f49f37": {
             "text": "Style notifiche"
         },
@@ -116,9 +98,6 @@
         "9d2e228039bb6eef2e6cbaff5c904b56": {
             "text": "Mostra sempre tutto"
         },
-        "81e3da80ad979591250cca7feb39720b": {
-            "text": "File specifici"
-        },
         "6059a6e9b311f4cb4afd60c154f0bef5": {
             "text": "File CSS primario"
         },
@@ -130,9 +109,6 @@
         },
         "35c45261e46b5a1400aef3ecbf237879": {
             "text": "Il file dovrebbe essere PNG, GIF, JPG oppure SVG, su sfondo trasparente, e almeno largho 100px in entrambe le direzioni."
-        },
-        "6c6a6ca96d96fc13c06abbf98f38668f": {
-            "text": "Impostazioni di visibilit\u00e0 dei campi form"
         },
         "21909eb7e7cbb04d9c804458848a7af3": {
             "text": "Queste impostazioni influenzano tutti i campi form nel pannello."
@@ -161,9 +137,6 @@
         "cf83a7d29c286d14e29a97334e9279a5": {
             "text": "Non si applica ai tipi selezionati che non hanno bordo."
         },
-        "391889c9ed085249fe76c0beb25ad304": {
-            "text": "I tipi di input che dovrebbero avere un offset con un margine verticale aggiuntivo."
-        },
         "0d638e3ac46bc8f0cf58d60281ff4ebc": {
             "text": "Come esempio, i campi in questo insieme utilizzano questa opzione."
         },
@@ -175,6 +148,150 @@
         },
         "1939d9deea3a9b379eca5948b1b3cfc6": {
             "text": "Questo pu\u00f2 rendere pi\u00f9 chiaro i form in alcuni casi, ma verr\u00e0 utilizzato pi\u00f9 spazio verticale."
+        },
+        "38cb04b53f3f1cf755ff1bbd9cc88cd1": {
+            "text": "="
+        },
+        "9bc773c48947ebcedc8c2e0a4cfe8f8f": {
+            "text": "Azione da compiere al click sul logo"
+        },
+        "fd248b03e2d006b305f4a7896defe9cc": {
+            "text": "Layout + interfaccia"
+        },
+        "d4d0ee9985bf14169e809b164524b0b0": {
+            "text": "Tipo layout"
+        },
+        "ed81bfff2c494916fd8a4f7f0526e14c": {
+            "text": "Larghezza colonna degli Inputfield"
+        },
+        "39e84864692943ca0ba0c69e5039ed9a": {
+            "text": "Scegli l'opzione B se hai problemi con le larghezze desiderate per gli Inputfield"
+        },
+        "775d588dfe892290c0bfa5e56590577f": {
+            "text": "Classi UIkit uk-width (fino a 6 colonne)"
+        },
+        "3ae2bf644696505c219965a72b7cbb70": {
+            "text": "Larghezze in percentuale (pi\u00f9 flessibile)"
+        },
+        "d4b002181224e7985e75a3913eb4ac2d": {
+            "text": "Si applica solo al layout tradizionale."
+        },
+        "683b41edb2bd91ba816cdbe8b67abed4": {
+            "text": "Form + input"
+        },
+        "16b7c3d9f12cdd91bac81d618a62f357": {
+            "text": "Esempi di dimensione input"
+        },
+        "8863450d1e8ee628cf02531395c1fb14": {
+            "text": "Esempi di dimensione select"
+        },
+        "cb4144ba5a55530ecbf14a45c4d0349d": {
+            "text": "Dimensione di input predefinita"
+        },
+        "190d86032ba8b2f2522f36d983700c72": {
+            "text": "Determina come appaiono i campi text, textarea e select."
+        },
+        "3be905d0e0e23fa3e645f3d70e7d28d3": {
+            "text": "Non tutti gli Inputfield supportano le opzioni \"piccolo\" o \"largo\"."
+        },
+        "2660064e68655415da2628c2ae2f7592": {
+            "text": "Piccolo"
+        },
+        "831dfeb03973957261415d12c1509f11": {
+            "text": "Medio (predefinito\/raccomandato)"
+        },
+        "3a69b34ce86dacb205936a8094f6c743": {
+            "text": "Largo"
+        },
+        "dcf96c65e2763ec9e77c895af9d25cbe": {
+            "text": "Tipi di input che devono essere compensati con margini superiore\/inferiore addizionali."
+        },
+        "06b9281e396db002010bde1de57262eb": {
+            "text": "="
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Nessuno"
+        },
+        "b2dd4aca1dc11bb2c4efcbd9ab347789": {
+            "text": "Impostazioni del tema admin"
+        },
+        "838ee308c6474d98feac3ebbff4c08a8": {
+            "text": "Queste impostazioni hanno effetto su come questo campo apparir\u00e0 quando usato nel tema admin Uikit."
+        },
+        "2a94ec4e40704b025161d175bc18fe53": {
+            "text": "Se viene selezionata l'opzione \"Auto\", le impostazioni saranno determinate durante l'esecuzione."
+        },
+        "54e4e4fb8f8494b61dc7407161cff620": {
+            "text": "L'impostazione \"Margine\" si applica solo ai campi con 100% di larghezza."
+        },
+        "741b3715dff40fc66d023ffe7d2ec932": {
+            "text": "L'opzione \"Auto\" \u00e8 raccomandata per tutte le impostazioni."
+        },
+        "4c7c5ab57475a86d54c99e99e8cbb5e7": {
+            "text": "Extra piccolo"
+        },
+        "87f8a6ab85c9ced3702b4ea641ad4bb5": {
+            "text": "Medio"
+        },
+        "5b176800a4fa5f818733bbc47bf50c58": {
+            "text": "Dimesione input"
+        },
+        "81508f718ba3c39f2614a6384da3d565": {
+            "text": "Larghezza input"
+        },
+        "db3e3f51c9107e26c9bccf9a188ce2ed": {
+            "text": "Riempimento"
+        },
+        "98369609669478919c74c916440e9978": {
+            "text": "Margine"
+        },
+        "070554647306343cbea29ebfdd278ba8": {
+            "text": "Bordo"
+        },
+        "cb5feb1b7314637725a2e73bdc9f7295": {
+            "text": "Colore"
+        },
+        "2bd5addcf7653a473e310fc64bcbac60": {
+            "text": "Minimizza gli stili dei campi dei moduli"
+        },
+        "0a52730597fb4ffa01fc117d9e71e3a9": {
+            "text": "+"
+        },
+        "c0bfe90a485c1e5db5e8fd63193fe65f": {
+            "text": "Questo campo dimostra semplicemente le impostazioni che hai scelto sopra."
+        },
+        "127278ab533d9fcec53fa6c0947df913": {
+            "text": "Un altro campo"
+        },
+        "661262f88b0f998e147baacf8778d340": {
+            "text": "Apri il campo \"%s\" sopra per vedere un esempio di larghezza colonna."
+        },
+        "7ce481195c78d64795db8cf62a6df04d": {
+            "text": "Contorno"
+        },
+        "8101df5a8d382ef957a02876d08a6f0f": {
+            "text": "Trasparente"
+        },
+        "eed661e12b91dcdc202ea5682df87a83": {
+            "text": "Primario"
+        },
+        "702f41f09f0670ea93e1bb7121a835eb": {
+            "text": "Secondario"
+        },
+        "d819318a32ee146ed8fec4feb03aab02": {
+            "text": "="
+        },
+        "42d6b04b169e71af86e5bff6ca177f11": {
+            "text": "="
+        },
+        "5a9e33ceafdb38535a8dcee28ff0cd68": {
+            "text": "="
+        },
+        "9b6545e4cea9b4ad4979d41bb9170e2b": {
+            "text": "+"
+        },
+        "0afa7ae71fac97af574e05f44f2296c5": {
+            "text": "="
         }
     }
 }

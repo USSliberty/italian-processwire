@@ -11,9 +11,6 @@
         "f3f43e30c8c7d78c6ac0173515e57a00": {
             "text": "Filtri"
         },
-        "1ada25378d2f81d6394cb823cda822ad": {
-            "text": "Filtra per campo"
-        },
         "602717d1b0adbf6ff41366d6371e375d": {
             "text": "Seleziona un campo e solo i template che usano quel campo saranno visualizzati."
         },
@@ -46,9 +43,6 @@
         },
         "524fe63ba99d979ba854d38529c9abc1": {
             "text": "Se vuoi creare un nuovo template anche se attualmente non c'\u00e8 un file associato, inserisci il nome del template qui."
-        },
-        "088244ca195e0e9e57bd38027406b66b": {
-            "text": "Non includere l'estensione del file"
         },
         "24a144ffc0e6aae299d3a23c2152e7fa": {
             "text": "Modifica Template: %s"
@@ -181,9 +175,6 @@
         },
         "8d5a5a7af810d2ef80cf02082615c9dd": {
             "text": "Il file del template non \u00e8 scrivibile quindi lo devi rinominare manualmente (le istruzioni ti verranno date dopo il salvataggio)."
-        },
-        "e1f4b06346cdbed5063a5e42a9593f59": {
-            "text": "Inserisci una combinazione di lettere (a-z), numeri (0-9), trattini o trattini bassi (nessuno spazio). Non includere l'estensione .php."
         },
         "30281e3b2fa626d5f52c833c541c84ac": {
             "text": "Duplicare\/Clonare questo template ?"
@@ -626,9 +617,6 @@
         "72d6d7a1885885bb55a565fd1070581a": {
             "text": "Importa"
         },
-        "6703f01fb2662a497ae2d29163ed68c2": {
-            "text": "Il nome \u00e8 gi\u00e0 in uso"
-        },
         "0e2511c51c799246bc640afd3b4cc07b": {
             "text": "Puoi inserire pi\u00f9 nomi di template separandoli con uno spazio."
         },
@@ -965,17 +953,32 @@
         "9b404a9b5976b30bf436e218068b3d4d": {
             "text": "Compilazione non necessaria a meno che non sia richiesta dai moduli o dagli include."
         },
-        "dd086c8dc23fef8fb9543424864aa9cb": {
-            "text": "Nome template invalido specificato per la clonazione"
-        },
-        "ab64903a1bc47ab8cf1767e8d6581c2d": {
-            "text": "Non \u00e8 possibile clonare perch\u00e9 un template con quel nome esiste gi\u00e0"
-        },
         "0ce8e11f27f5cff906b08ff533da5567": {
             "text": "Creato clone del template \"%1$s\" chiamato \"%$s\"."
         },
         "363b220544077dba6890921e123486dc": {
             "text": "Errore nel posizionamento del fieldset\/tab \"%s\" - controlla e salva di nuovo"
+        },
+        "1f1e0f35a65380b2fb521f45ebe074d4": {
+            "text": "Puoi usare lettere(a-z A-Z), numeri (0-9), trattini e trattini bassi come nomi dei template."
+        },
+        "121b570925fe79a1a61a5af3597db410": {
+            "text": "Si raccomanda nomi minuscoli anche se sono opzionali"
+        },
+        "f2b378843f03d80972622754302da574": {
+            "text": "Non includere l'estensione."
+        },
+        "9cc59ab6a716c29aa5e36e79f150552c": {
+            "text": "Il nome del template non corrisponde al formato richiesto."
+        },
+        "d52ab043aebc166d5bbf3b73e0bffb0f": {
+            "text": "Filtra per campo"
+        },
+        "8ce07bc265e6bec0335b8d17460ff715": {
+            "text": "%d campo"
+        },
+        "f31f5e50313e32f1b8a1d38913e26023": {
+            "text": "%d campi"
         }
     }
 }

@@ -13,6 +13,18 @@
         },
         "703fdc8134134754f6630df73ee50572": {
             "text": "L'user agent tipicamente contiene informazioni riguardo il browser utilizzato."
+        },
+        "ba361c497e1c5943748b4df7933d353f": {
+            "text": "Non permettere sessioni parallele?"
+        },
+        "34fde9e07a3a1cae09017ec0a9ae2c31": {
+            "text": "Quando abilitato, un accesso corretto far\u00e0 scadere tutte le altre sessioni per quell'utente su altri dispositivi\/browser."
+        },
+        "d95cdb1f2c4fd9c3c22f548068589fa3": {
+            "text": "Selezionando questa casella permetterai solo una singola sessione per utente."
+        },
+        "8883240d9c18322fd43dfd39c8b32e14": {
+            "text": "Sessioni di login precedenti per \"%s\" sono state rimosse."
         }
     }
 }

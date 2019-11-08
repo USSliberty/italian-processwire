@@ -250,6 +250,117 @@
         },
         "7e7b8eaf9921d2a698937d925748e85b": {
             "text": "Esci + Vedi"
+        },
+        "e4d5ce77afa1ac8b139234c7e641d5cd": {
+            "text": "Quali pagine sono collegate a questa pagina?"
+        },
+        "b9c25fdc76ccaff0426b33dc56852e77": {
+            "text": "Non elencabile"
+        },
+        "60c6e03c99253b3bca28a08aa5102fdc": {
+            "text": "Trovate %d altre pagine che sono collegate a questa nei campi Pagina o in link href."
+        },
+        "bd3cc7d2c61580ec64f4225eae3a330e": {
+            "text": "(in campo pagina)"
+        },
+        "ccab4e644acf8e1bc8a9bef59f811803": {
+            "text": "(in link href)"
+        },
+        "ea31b3f98bd7b1a8e71fad1f47ab4bae": {
+            "text": "%d pagine addizionali non mostrate."
+        },
+        "3b3ad8a776bd0a0e7498a58c538a95b9": {
+            "text": "Non \u00e8 stata trovata alcun altra pagina che punti a questa nei campi pagina o in link href."
+        },
+        "3efee15199d0046c4a68bd6c96c66800": {
+            "text": "Quali altri URL redirigono a questa pagina?"
+        },
+        "c665039391ab01a70f17f05adcc566df": {
+            "text": "Ogni volta che una pagina viene spostata o il nome cambia, ricorderemo la posizione precedente per i redirect."
+        },
+        "d9a0149000506e68eb258bab1ef93e2f": {
+            "text": "Di seguito una lista di URL (percorsi) che redirigono automaticamente a questa pagina (utilizzando il codice 301 di redirect permanente)."
+        },
+        "bc84a6916935bff7a425f45f894a18a6": {
+            "text": "Puoi eliminare qualsiasi percorso\/URL o aggiungerne altri manualmente."
+        },
+        "1324a129fbb956748409f981833c0736": {
+            "text": "Nessun percorso di redirect"
+        },
+        "9d76aca60838d896fb7754d4a890eb9d": {
+            "text": "Non ancora"
+        },
+        "593d4b34403b76f5c134df5b3c033420": {
+            "text": "Eliminato redirect per l'URL precedente: %s"
+        },
+        "ca2593b9cdd313f5fc57d68fb0e94470": {
+            "text": "Aggiungi un nuovo URL redirect"
+        },
+        "71fc4eb5d7649ced69d2936060e7774c": {
+            "text": "Inserisci percorsi\/URL addizionali (uno per linea) che dovrebbero redirigere a questa pagina."
+        },
+        "1715e12396d2512d6a079d39809bd855": {
+            "text": "Inserisci solamente il percorso dell'URL (per esempio \"\/hello\/world\/\"), NON includere lo schema, il dominio, la porta, query string o frammenti."
+        },
+        "05977549ad6511429ee4d274f710771d": {
+            "text": "I percorsi sono relativi alla radice del sito pertanto non includere la sotto cartella %s all'inizio."
+        },
+        "b74adc728406a06b4e47a2bcfd534281": {
+            "text": "Per specificare una lingua per il redirect, inserisci il percorso\/URL con il prefisso del nome lingua:"
+        },
+        "beb808c0ab58b957ea0350e633392cee": {
+            "text": "="
+        },
+        "ab2435deb08297062617b30c57c0ef9e": {
+            "text": "(per %s)"
+        },
+        "e638e85311e9a6c568c715cb46e7ac01": {
+            "text": "Aggiunto redirect: %s"
+        },
+        "4ece098a04808389cd88f5e62f8a6fa0": {
+            "text": "Impossibile aggiungere il redirect %s perch\u00e9 \u00e8 in conflitto con un altro percorso"
+        },
+        "2bd339d85ee3b33e513359ce781b60cc": {
+            "text": "Ripristina"
+        },
+        "0f9445b68a3d6fffc41f65efa9711f6e": {
+            "text": "Rimuovi dal cestino e ripristina alla posizione originale"
+        },
+        "514327d866bf40803bfdf3a678af92ba": {
+            "text": "Seleziona la casella per confermare che vuoi ripristinare questa pagina."
+        },
+        "d8514ace7bcb47e0d419377402b13142": {
+            "text": "La pagina verr\u00e0 ripristinata in: %s."
+        },
+        "e6c6e3f3e972de9c735faefa037529ab": {
+            "text": "Il nome originale verr\u00e0 adattato da %1$s a %2$s in modo da essere unico."
+        },
+        "91ce4ed84b455bf383570b705a732cd6": {
+            "text": "La pagina non pu\u00f2 essere ripristinata perch\u00e9 sono presenti errori"
+        },
+        "e4da3fa39ff5ce0fd581bc97389b5cdf": {
+            "text": "Ripristinata la pagina: %s"
+        },
+        "e8691f66b2ae08756dac17d0e3b91eb2": {
+            "text": "Errore durante il ripristino della pagina"
+        },
+        "ea1056a7e305406e5662eb74ed8eb9f1": {
+            "text": "+"
+        },
+        "c28806887f7038aa8c83cef389bfcec6": {
+            "text": "="
+        },
+        "a413997b3fa1374648ebd250435071c5": {
+            "text": "Quando"
+        },
+        "5ee35a979708ef27ee71dcc13f862da0": {
+            "text": "Lingua"
+        },
+        "1443a205d4656be20da9f81a5b7a5da9": {
+            "text": "Corrente"
+        },
+        "2623934b184a9c5b44a0c9992499b5f6": {
+            "text": "Genitore"
         }
     }
 }
