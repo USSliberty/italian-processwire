@@ -25,6 +25,12 @@
         },
         "ce8ae9da5b7cd6c3df2929543a9af92d": {
             "text": "="
+        },
+        "14d866744fd30744389cd711c4a8d4c7": {
+            "text": "L'email \"%s\" \u00e8 gi\u00e0 in uso, utilizza una differente."
+        },
+        "f462a55cf22cc9382696a17a198c2aae": {
+            "text": "L'email eccede la lunghezza massima permessa di %d caratteri"
         }
     }
 }

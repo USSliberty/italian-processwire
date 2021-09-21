@@ -35,12 +35,6 @@
         "ad560982b535502d63dbf2f46ea8b3a6": {
             "text": "Questo campo serve inoltre come anteprima del tipo di input selezionato (%s) e delle opzioni."
         },
-        "810906cf431b89762465d39dd3402ba7": {
-            "text": "Nota: le tue selezioni qui non saranno attive fino a quando un valore \u00e8 *sempre* richiesto per questo campo. Vedi l'opzione \"richiesto\" nella scheda Input delle impostazioni del tuo campo."
-        },
-        "a6a26b1340a7cbaf1b405484a8a74b98": {
-            "text": "Questa caratteristica \u00e8 attiva in quanto un valore \u00e8 sempre richiesto."
-        },
         "c3524d56fb147114b84d6e9dd56110a9": {
             "text": "Elimina questa opzione"
         },
@@ -58,6 +52,15 @@
         },
         "d51f7ee41ebdd5252b9a4410e297b306": {
             "text": "Se vuoi mostrare l'output dei valori anzich\u00e9 dei titoli, sostituisci \"titolo\" con \"valore\" negli esempi sopra."
+        },
+        "d8773b3c985910685f4f4aca03604c14": {
+            "text": "Valori multipli ordinabili"
+        },
+        "69a114a946943d26c4ea03ba031b4124": {
+            "text": "Nota: le tua pre selezione non \u00e8 attiva, dato che questo non \u00e8 un campo richiesto. Attiva l'opzione \"richiesto\" nella scheda input del campo."
+        },
+        "67f541f6547ed8217b9d81909acc241f": {
+            "text": "La pre selezione \u00e8 attiva perch\u00e9 questo campo \u00e8 richiesto."
         }
     }
 }

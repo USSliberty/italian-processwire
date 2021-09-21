@@ -5,12 +5,6 @@
         "fb5bc6b1ef6713a60dc29d381c94f0c0": {
             "text": "Questo testo \u00e8 traducibile"
         },
-        "c34814ef5a75aa478503556456ef91d5": {
-            "text": "Traducibile con il file corrente come dominio di testo"
-        },
-        "27fcbef6dfbafc7467da8d1b29113ded": {
-            "text": "Traducibile con altri file come domio di testo"
-        },
         "d1346524ac7f6fe232016c077a9fc6ec": {
             "text": "Clicca per saperne di pi\u00f9"
         },
@@ -25,6 +19,33 @@
         },
         "a91d611a962e2baf78e47b720f43bfdd": {
             "text": "Trovati %d elementi"
+        },
+        "1cb251ec0d568de6a929b520c4aed8d1": {
+            "text": "testo"
+        },
+        "83378236d008605772b0b7ad762cfad4": {
+            "text": "Stai leggendo la pagina %s"
+        },
+        "f49588184356b1846ce48469ae3843ac": {
+            "text": "L'ID della pagina corrente \u00e8 %d"
+        },
+        "e1fe2670bb21367812b567146e61221d": {
+            "text": "Oggi \u00e8 %1$s e l'orario \u00e8 %2$s"
+        },
+        "355e4477dc80f629e33f018fac3d9836": {
+            "text": "Benvenuto amico!"
+        },
+        "e0e5bd63c9d415c7fb84eecaa74c78fc": {
+            "text": "Nuovo testo"
+        },
+        "777005300b355c69534803c6407f99e7": {
+            "text": "="
+        },
+        "eadea3a747e3696d7959fb28d1d18230": {
+            "text": "Cerca"
+        },
+        "fbe3c412d3a00ee92f603be1b42465d5": {
+            "text": "="
         }
     }
 }

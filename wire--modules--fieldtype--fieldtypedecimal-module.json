@@ -1,0 +1,36 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeDecimal.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypedecimal-module",
+    "translations": {
+        "0f26309b1be1b637d35f604c298b57df": {
+            "text": "Aggiornato campo \u201c%1$s\u201d schema: %2$s => %3$s"
+        },
+        "506c2c0c7f5b70af3df68c45c46f45a7": {
+            "text": "Per esempio:"
+        },
+        "a495e52f576ff7677bb1ebe793e5cc9e": {
+            "text": "Numero totale di cifre supportate"
+        },
+        "6bc3814dd7bc238bb8c0f906e323d4d7": {
+            "text": "Include cifre prima e dopo la virgola."
+        },
+        "7a12767f99c7a4fcac27286992c2030f": {
+            "text": "999,99 \u00e8 composto da 5 cifre totali pertanto richiede un valore pari a 5 o superiore."
+        },
+        "7d06ba10369f702102235f72dc0f34c8": {
+            "text": "Numero di cifre presenti dopo la virgola"
+        },
+        "0e2cec5723266f020033868d628d6061": {
+            "text": "Questo valore sar\u00f2 inferiore (o in alcuni casi uguale) al numero totale delle cifre."
+        },
+        "6acc82c74212c97024e366c4c20d7e3c": {
+            "text": "999,99 e 100,00 hanno 2 cifre dopo la virgola"
+        },
+        "937504f318f04eaf0f1d701df4c4d7f3": {
+            "text": "Decimale"
+        },
+        "c9abe09f2a14ec066fadf2954ea16aa6": {
+            "text": "Campo che memorizza un numero decimale"
+        }
+    }
+}

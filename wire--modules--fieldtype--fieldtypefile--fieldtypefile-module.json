@@ -1,0 +1,24 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeFile\/FieldtypeFile.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypefile--fieldtypefile-module",
+    "translations": {
+        "3e560c05ba6d07bcd41ac1053b5b9437": {
+            "text": "Il campo \"%s\" non \u00e8 pronto all'uso e deve essere configurato."
+        },
+        "a8d5114d10f7846bf0263c4e4207137e": {
+            "text": "Le impostazioni non sono ancora state confermate."
+        },
+        "d950e30995efd1abcc2dc812404f03c5": {
+            "text": "Verifica le impostazioni su questa pagina e salva nuovamente (anche se non cambi niente) per confermare che le accetti."
+        },
+        "435ed7e9f07f740abf511a62c00eef6e": {
+            "text": "nome file"
+        },
+        "91f3a2c0e4424c87689525da44c4db11": {
+            "text": "File"
+        },
+        "2cb39a29b55cb3b4480c782dbe367518": {
+            "text": "Campo che salva uno o pi\u00f9 file"
+        }
+    }
+}

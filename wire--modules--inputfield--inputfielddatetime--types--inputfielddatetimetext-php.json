@@ -1,0 +1,108 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldDatetime\/types\/InputfieldDatetimeText.php",
+    "textdomain": "wire--modules--inputfield--inputfielddatetime--types--inputfielddatetimetext-php",
+    "translations": {
+        "ce7581417b903cd7bb99be8785822ce8": {
+            "text": "Input di testo con selettore della data jQuery UI"
+        },
+        "b69f42ea4444ae5aa888b53cf6045710": {
+            "text": "="
+        },
+        "7db50c3ca59f3f55260013a5e3481f47": {
+            "text": "="
+        },
+        "566235c7913fdded5a84d4578758515f": {
+            "text": "Selettore della data"
+        },
+        "7962180f3333f0ccaa9e208cccaac049": {
+            "text": "Nessun selettore data\/ora"
+        },
+        "aa547f01eea89a5b845b6db3870ba757": {
+            "text": "Selettore data\/ora al focus del campo"
+        },
+        "40b99901bce42a7638315b36c0bec462": {
+            "text": "(raccomandato)"
+        },
+        "edcc19a354ad1b61e258b993a1ff09c4": {
+            "text": "Selettore data\/ora al click del bottone"
+        },
+        "c3119c40400e0c55178bba8a9b8e36d8": {
+            "text": "Selettore della data sempre visibile in linea (nessun selettore ora)"
+        },
+        "53e628836cd60f6dbb5fe56320f776ef": {
+            "text": "Formati di input data\/ora"
+        },
+        "38322714c2bfe9eba81ea980714fd0a6": {
+            "text": "Formato di input della data"
+        },
+        "7656e28d6e435ffecc453794149e6a0d": {
+            "text": "Scegli il formato da utilizzare per l'input di questo campo. La tua selezione popoler\u00e0 il campo sottostante, che potrai personalizzare se preferisci."
+        },
+        "b4857dd659bf6e86731ccda0a3b581fb": {
+            "text": "="
+        },
+        "91c0a51785efc109b0fdb5d710a2656e": {
+            "text": "Formato di input dell'ora"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Nessuno"
+        },
+        "44d9d932f51a771c8c76c2dc6ff57e1f": {
+            "text": "Scegli un formato opzionale per l'ora da utilizzare per questo input. Se utilizzato, il calendario includer\u00e0 un selettore per l'ora."
+        },
+        "91c4223a8591eed0ecab28c3a1a880b2": {
+            "text": "Tipo di input dell'ora"
+        },
+        "08d3eb379def33331427b243c363eef5": {
+            "text": "I cursori (predefinito) permettono all'utente di scorrere il valore, mentre la Selezione permette all'utente di selezionare il valore da un menu a discesa"
+        },
+        "9ad46d2d4f10955abfc9ca97565bba87": {
+            "text": "Cursori"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "Selezione"
+        },
+        "4dc865ad9218b271e212f2656a4415e4": {
+            "text": "Codice formato input della data"
+        },
+        "20f706119fa58d0787ea397d413bf1e0": {
+            "text": "Questo \u00e8 costruito automaticamente dalla data scelta sopra, a meno che non lo modifichi."
+        },
+        "e87ce06927649f8cdfff9e27c4ac8e3d": {
+            "text": "Verifica la documentazione per la funzione [PHP date](http:\/\/www.php.net\/manual\/en\/function.date.php) per maggiori informazioni su come personalizzare questi formati."
+        },
+        "3668c3ec43f4b401c6de009e3abb73f9": {
+            "text": "Opzionalmente puoi anche specificare i formati per altre lingue. Qualsiasi valore lasciato vuoto erediter\u00e0 le impostazioni predefinite."
+        },
+        "b3641a0b694cd7a82856611ce58d4979": {
+            "text": "Codice formato input dell'ora"
+        },
+        "3dd984b18a5880f9279e17ff2e53a5de": {
+            "text": "Questo \u00e8 costruito automaticamente dall'ora scelta sopra, a meno che non lo modifichi."
+        },
+        "6485c7641245873388f0170f472183c6": {
+            "text": "Testo segnaposto"
+        },
+        "70bf9b371944c2d5b1adf809a356f607": {
+            "text": "Testo segnaposto che apparir\u00e0 nel campo se lasciato vuoto."
+        },
+        "6f6cb72d544962fa333e2e34ce64f719": {
+            "text": "Dimensione"
+        },
+        "49e0e66405106d4f9cf741207255476f": {
+            "text": "La larghezza di questo campo (in caratteri)."
+        },
+        "0825dd56fbac59b910dff90abf30024d": {
+            "text": "Intervallo anni"
+        },
+        "105145f02985f6f81d519b78eaca6dfb": {
+            "text": "Se la selezione dell'anno \u00e8 possibile, verr\u00e0 permesso un intervallo di anni minore o maggiore di 10 dall'anno corrente."
+        },
+        "57bed892b74c37659d8705088727032e": {
+            "text": "Per modificare questo intervallo specifica il numero di anni, prima e dopo l'anno corrente, in questo formato: `-30:+20`, che mostrer\u00e0 30 anni prima e 20 anno dopo di adesso."
+        },
+        "ef538874da76f56a05956925c0a162bb": {
+            "text": "Il valore predefinito \u00e8 `-10:+10` che visualizza un intervallo di 10 anni prima e dopo di adesso."
+        }
+    }
+}

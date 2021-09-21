@@ -61,6 +61,12 @@
         },
         "610d28b5e07bce623b5dcbcefc043344": {
             "text": "Salvati %d cambiamenti per il file: %s"
+        },
+        "eb1aa189659918acda10866815cacccd": {
+            "text": "Aggiorna indice di ricerca"
+        },
+        "ed2a971bca5defe00f300999d777b058": {
+            "text": "%d predefinite"
         }
     }
 }

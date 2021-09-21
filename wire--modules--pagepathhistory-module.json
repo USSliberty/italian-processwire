@@ -1,0 +1,30 @@
+{
+    "file": "wire\/modules\/PagePathHistory.module",
+    "textdomain": "wire--modules--pagepathhistory-module",
+    "translations": {
+        "112a51baa056cba6320b36b7a71bcb1c": {
+            "text": "Et\u00e0 minima (secondi)"
+        },
+        "6f6974b30b7af85a0b0b8e3382fc9345": {
+            "text": "Comincia a registrare lo storico di una pagina dopo questo numeri di secondi dalla data di creazioni. Raccomandati almeno 2 o pi\u00f9 secondi."
+        },
+        "b26126a5fdfea23d379aa813c392d533": {
+            "text": "="
+        },
+        "2bcf586c695b0ada1781efb8ac78d294": {
+            "text": "Eliminati %d percorsi dallo storico delle pagine"
+        },
+        "c6d134febe49205b49a3d50c095359e1": {
+            "text": "Elimina tutto lo storico delle pagine?"
+        },
+        "49ec38867ac66d1ebc5e03d7d27b5939": {
+            "text": "Al momento ci sono %d percorsi nello storico delle pagine nel database."
+        },
+        "729a51874fe901b092899e9e8b31c97a": {
+            "text": "+"
+        },
+        "7d77cfb1efb2f2ae3b3870708b58d7ee": {
+            "text": "Questa informazione \u00e8 utilizzata per reindirizzare automaticamente ed altro. Non pu\u00f2 essere ripristinata una volta eliminata. Seleziona la casella per confermare."
+        }
+    }
+}

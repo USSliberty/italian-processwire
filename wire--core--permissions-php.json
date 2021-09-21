@@ -37,6 +37,15 @@
         },
         "021ae36974d48cf90a6b204c4abe221b": {
             "text": "Modifica campi mono lingua su pagina multi lingua"
+        },
+        "5a1dc311dc716c30ccdb008bee94e9d6": {
+            "text": "L'utente pu\u00f2 vedere gli utenti in qualsiasi ruolo (incluso superuser)"
+        },
+        "d341b36940e0a17c1d212ab5b32fafa8": {
+            "text": "L'utente pu\u00f2 vedere se stesso (quando non \u00e8 gi\u00e0 possibile a causa di un permesso)"
+        },
+        "9d7f65dc30d669d9000ef19ed549228e": {
+            "text": "Vedi utenti nel ruolo: %s"
         }
     }
 }

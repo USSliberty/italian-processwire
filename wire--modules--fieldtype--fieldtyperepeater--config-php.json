@@ -154,6 +154,18 @@
         },
         "678e17a04cd1c42a28cc8a9eff4f60c0": {
             "text": "Campi repeater"
+        },
+        "b88543bf2626f096ed455b862390b4e3": {
+            "text": "Utilizzare la modalit\u00e0 familiare per la profondit\u00e0 dell'elemento?"
+        },
+        "9b7bbf35ecde2744bc2b120d7a19e425": {
+            "text": "Questa impostazione permette all'editor della pagina di trattare la profondit\u00e0 di un elemento come una relazione padre\/figlio."
+        },
+        "fc26899013e5130bf0f035bcb6645e36": {
+            "text": "Questo significa che spostare\/ordinare un elemento include anche gli elementi figli."
+        },
+        "239509c1f5621ac1d950faf5de9d9111": {
+            "text": "Questo inoltre previene ad un elemento figlio di non essere trascinato pi\u00f9 in profondit\u00e0 del padre con un fattore maggiore di 1."
         }
     }
 }

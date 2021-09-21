@@ -5,15 +5,6 @@
         "7e4cc6c00140cefcecd178df1836fbba": {
             "text": "Immagine ridimensionata per avere le massime dimensioni consentite"
         },
-        "ef375d406da59811c42dc0f5a245dca3": {
-            "text": "Le misure di altezza\/larghezza sono opzionali. Se tali misure sono specificate, le immagini verranno ridimensionate, al momento dell'upload, quando supereranno le misure impostate. Il ridimensionamento \u00e8 fatto durante l'upload. Quindi non influisce su nessuna immagine nel filesystem o immagini aggiunte tramite API."
-        },
-        "e69ccb31941d2fd7923c6b0c01957db3": {
-            "text": "Larghezza massima per le immagini caricate"
-        },
-        "c58e466902d0ff945d0677114e41682b": {
-            "text": "Altezza massima per le immagini caricate"
-        },
         "fff0d600f8a0b5e19e88bfb821dd1157": {
             "text": "Immagini"
         },
@@ -28,21 +19,6 @@
         },
         "5e244fccb2d4cda18bebf756dacce94c": {
             "text": "Immagine %s eccede la dimensione massima permessa"
-        },
-        "1a2b9bdaad8fc3ebd6b83463a0def69e": {
-            "text": "Inserisci il valore in pixel o lascia vuoto per nessun limite."
-        },
-        "dffe78c5f55b8a4187b91c40a03cf904": {
-            "text": "Rifiuta immagini che eccedono le dimensioni massime?"
-        },
-        "a195023920e6ece61b6211755c9af27f": {
-            "text": "Opzionale. Inserisci le dimensioni minime di larghezza e\/o altezza delle immagini caricate. Se specificato, le immagini che non soddisfano i requisiti saranno rifiutate."
-        },
-        "d704e5da0e9e4ca2aa3e04201575f44c": {
-            "text": "Larghezza minima per le immagini caricate"
-        },
-        "b477617de997199bdd26761085aea486": {
-            "text": "Altezza minima per le immagini caricate"
         },
         "d388632d05e8826abe4b95de0b110529": {
             "text": "Taglia"
@@ -125,81 +101,6 @@
         "b84a9a38377dc1ab6c6d5005cb461f0d": {
             "text": "Seppia"
         },
-        "34ad9feb46d0ae8a8ab105230c7e5e1a": {
-            "text": "Modalit\u00e0 default griglia"
-        },
-        "c53c009277b900e7292c4b49f07ddaec": {
-            "text": "Nel pannello di amministrazione, l'elenco delle immagini appariranno in questa modalit\u00e0 di default. L'utente pu\u00f2 cambiare questa modalit\u00e0 in ogni momento cliccando le icone nell'angolo in alto a destra del campo."
-        },
-        "e6c7b90087278c53b5361182358a2d92": {
-            "text": "Se hai recentemente usato questo campo immagine, devi cancellare i cookie prima di vedere qualsiasi cambiamento in questa impostazione."
-        },
-        "a188c29fb8020eee47113073e366f78e": {
-            "text": "Griglia immagini quadrate"
-        },
-        "06d5ddb736061086ad90f364eca1c56d": {
-            "text": "Griglia immagini proporzionali"
-        },
-        "fa996d5ac4351e7e603f3ab1b9f77afe": {
-            "text": "Lista verticale"
-        },
-        "84a327773a9172357f703ebdbb28680b": {
-            "text": "Dimensioni massime immagine"
-        },
-        "16e3e850ce20fe9fa8340e6d27693f61": {
-            "text": "Si applica alle immagini JPG, PNG e GIF"
-        },
-        "9fdc5bac96032d0465aa6cc6543d1871": {
-            "text": "Come ridimensionare alle dimensioni massime"
-        },
-        "434352c2b6134b909827f386b3644f0f": {
-            "text": "Usando il ridimensionamento lato client ti permette di ridurre le dimensioni del file prima del caricamento"
-        },
-        "c265ab5c0405e78595f05a15d5279278": {
-            "text": "Quando viene utilizzato il ridimensionamento lato client, specifica entrambe le dimensioni massime di larghezza **e** altezza nel campo sopra, oppure il numero massimo di megapixel."
-        },
-        "edcf99dacdc6160d6eb8d2efb90ee189": {
-            "text": "Usa ridimensionamento lato client quando possibile"
-        },
-        "4421a363b922af1808ae2b258c9d11bb": {
-            "text": "Usa solo ridimensionamento lato server"
-        },
-        "41d833b452340b52caa65fdcfe181945": {
-            "text": "Numero massimo di megapixel per le immagini caricate"
-        },
-        "86d448ef6f037ce16fc358a22921c45c": {
-            "text": "Questo pu\u00f2 essere usato come alternativa alla larghezza\/altezza massima. Specifica un valore con virgola."
-        },
-        "bd035d6e1aa04d38e61f36c27150e39d": {
-            "text": "Si applica solo al ridimensionamento lato client."
-        },
-        "fe64c68c1aa30e687be4aa011b33f15f": {
-            "text": "Un buon valore per i siti web \u00e8 1.7 che corrisponde circa a 1600x1000 pixel, dove 1600 e 1000 possono essere sia la larghezza o l'altezza."
-        },
-        "c719e0f0e40f5193e0bbe6f9afc408e5": {
-            "text": "Altri esempi:"
-        },
-        "a29b9e543bb7bc0f4b7e2c04d0a1c820": {
-            "text": "Qualit\u00e0 JPEG per il ridimensionamento lato client"
-        },
-        "ab00b0c8eb852647eee9553c75a100fe": {
-            "text": "Specifica un numero tra 10 (qualit\u00e0 pi\u00f9 bassa\/file pi\u00f9 piccolo) e 100 (qualit\u00e0 pi\u00f9 alta\/file pi\u00f9 grande). Predefinito \u00e8 90."
-        },
-        "aa09d92fbba4044af814b7504798dec3": {
-            "text": "Se selezionato, le immagini che eccedono larghezza\/altezza massima (che non possono essere ridimensionate lato client) verranno rifiutate."
-        },
-        "2d77facadb02370d5dd7c076b5afbee7": {
-            "text": "Dimensioni immagine minime"
-        },
-        "a39e1de5e7b995d90322ab7d047428bc": {
-            "text": "Inverti dimensioni min\/max per le immagini ritratto?"
-        },
-        "7f3d934927a1c106f5191c01b36c7766": {
-            "text": "Se selzionato, le dimensioni minime e massime verranno invertite per le immagini ritratto in modo da tenere in considerazione l'aspect ratio differente."
-        },
-        "98ebe60c452735dc2ef2249c835eddfe": {
-            "text": "Si applica solo al ridimensionamento lato server."
-        },
         "36400352f439e8894099e79dc33fada1": {
             "text": "Ricreate tutte le miniature"
         },
@@ -220,24 +121,6 @@
         },
         "c9b416167392c2b301810695b92efa12": {
             "text": "="
-        },
-        "e0f4085735da81540154c2c351147301": {
-            "text": "Selezione punto di focus"
-        },
-        "f6a9e8b3977d98dd0e4b7b13720c858b": {
-            "text": "Abilita un punto di focus trascinabile per scegliere il soggetto dell'immagine. Questo aiuta la generazione di ritagli non proporzionali."
-        },
-        "17450a5a8844e5a36f3911d94bea2b72": {
-            "text": "Un anteprima del punto di focus \u00e8 mostrata quando le immagini sono in modalit\u00e0 \"Griglia di immagini quadrate\"."
-        },
-        "470ede3fd1e5fcf4fca77d7fbf5df11a": {
-            "text": "Punto di focus"
-        },
-        "2d07823e1de7d7eb6f09477f9070524f": {
-            "text": "Punto di focus e zoom"
-        },
-        "b9f5c797ebbf55adccdd8539a65a0241": {
-            "text": "Disabilitato"
         }
     }
 }

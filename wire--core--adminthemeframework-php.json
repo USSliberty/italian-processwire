@@ -14,9 +14,6 @@
         "0323de4f66a1700e2173e9bcdce02715": {
             "text": "="
         },
-        "9d228734f81e102a94540a1508e69d1d": {
-            "text": "+{n-1}"
-        },
         "fbbbb283efc814825613301c22951ba7": {
             "text": "Chiudi tutto"
         },
@@ -25,6 +22,21 @@
         },
         "ffd8fa387acec9945788ad7c39400b1b": {
             "text": "Se selezionato, questo tema verr\u00e0 usato per la schermata di login."
+        },
+        "9d228734f81e102a94540a1508e69d1d": {
+            "text": "="
+        },
+        "5d245d16dae6579f37c78f49f078b36a": {
+            "text": "Cambia questo tema per gli utenti"
+        },
+        "5b5cb08a3f289568f6d628e8f4858906": {
+            "text": "Scegli i ruolo a cui gli utenti corrispondenti verr\u00e0 cambiato questo tema."
+        },
+        "bb387a29dee8d495ac6a7870d5e10442": {
+            "text": "Ruolo: %s"
+        },
+        "f590c9f5400a3be977d2027832a99e02": {
+            "text": "Imposta %d utenti che riceveranno questo tema."
         }
     }
 }

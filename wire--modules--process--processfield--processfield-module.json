@@ -47,17 +47,11 @@
         "ab2e4f95a7971ee8077df62efa20d437": {
             "text": "Dopo aver selezionato e salvato il tipo di campo potrebbe essere visualizzato con opzioni in pi\u00f9, specifiche del tipo di campo che hai selezionato."
         },
-        "219befd28b6f70d6d0a52f13c6b93772": {
-            "text": "Questa \u00e8 l'etichetta che appare sopra l'inserimento del campo. Se lasciata vuota sar\u00e0 usato il nome."
-        },
         "d421f74dd8c605a337e57a6224f23478": {
             "text": "Informazioni in pi\u00f9 che descrivono questo campo e\/o istruzioni su come inserire il contenuto."
         },
         "983f66857047c1e6fc8878e54c5c9939": {
             "text": "Duplicare\/clonare questo campo?"
-        },
-        "ee2d3754b6e7f57898d9d8670f78ae71": {
-            "text": "Opzioni avanzate"
         },
         "89e1299f98120a24c999cdffa860d2cb": {
             "text": "Campo cancellato"
@@ -146,9 +140,6 @@
         "1f2b73286f18ea71c594652199e86dff": {
             "text": "Annulla"
         },
-        "b2a6343356c7cf0f4c1aae50c2cac1b7": {
-            "text": "Elimina"
-        },
         "a90b5efafea041e94da7fffd2bd530a3": {
             "text": "Base"
         },
@@ -220,15 +211,6 @@
         },
         "62d09c342e50351059153e99a2fdbb47": {
             "text": "Per modificare un impostazione di sostituzione o sostituire altre impostazioni, modifica qualsiasi template e clicca il campo nome nella lista dei campi."
-        },
-        "2452cab12330c0a3ce62f7974eb82ba6": {
-            "text": "Rimuovere il contesto di sostituzione"
-        },
-        "7ce33a363647f83aa612fc538dcb8214": {
-            "text": "Le seguenti impostazioni sostituiscono le impostazioni originali del campo quando questo campo \u00e8 usato nel contesto del template \"%s\"."
-        },
-        "b5781496c3e514537473d4edd038152a": {
-            "text": "Per rimuovere qualsiasi valore sostituito (e ripristinare il valore originale del campo) seleziona il box di fianco a ciascun impostazione che vuoi rimuovere\/ripristinare."
         },
         "158b56553ee2e91623b2568e46a4fb82": {
             "text": "Clona campo esistente"
@@ -455,15 +437,6 @@
         "a360c947f7ea8bd51220987c073edf15": {
             "text": "Impostazione"
         },
-        "7f8ceb624f94b152f89f7bfd06a2dff2": {
-            "text": "Originale"
-        },
-        "f4aa6607ad257caa74e12b30eab4b8c6": {
-            "text": "Sostituzione"
-        },
-        "0255524701bd52455b1ae33bf39818ff": {
-            "text": "Rimuovi impostazione"
-        },
         "a6f1b7f6b210b19d1d4ff7722c8fd790": {
             "text": "Note"
         },
@@ -539,14 +512,8 @@
         "760b4bbc37693597edf00f9eeda38cd0": {
             "text": "Non ci sono impostazioni sostituite da template al momento."
         },
-        "89fa758424367d5caeb355f904d5bfc1": {
-            "text": "Sostituzioni permesse"
-        },
         "7710897a6218283716118180cd494f1e": {
             "text": "Impostazioni selezionate appariranno come opzioni di configurazione durante la modifica di questo campo, nel contesto di un particolare template."
-        },
-        "c4d3fb0af8e800de549531cccd8a19f8": {
-            "text": "**Attenzione**: fare questo per le impostazioni che non sono specificate dall'autore del modulo potrebbero non funzionare sempre o causare problemi."
         },
         "c4e024e71ba191d41926d9fcfa7cde3a": {
             "text": "="
@@ -616,6 +583,57 @@
         },
         "6855bfdf44496210543dabeb8f88a1c0": {
             "text": "+"
+        },
+        "133027c82744d7b44344c6d2fdd3cd2e": {
+            "text": "(non utilizzato)"
+        },
+        "aa4c25b56e75fc2bb56256932d820a04": {
+            "text": "quando utilizzato con il template \u201c%1$s\u201d nel contesto \u201c%2$s\u201d"
+        },
+        "f08b82b9bcde7ff240df5ed0057e7b08": {
+            "text": "Per regolare quali impostazioni sono permesse per la sovrascrittura, vedi il campo seguente."
+        },
+        "ecd6ac32b4369912ca3321c1dd169dc9": {
+            "text": "Impostazioni permesse alla sovrascrittura via template"
+        },
+        "089ff074f0a08e950aae098cce20eff4": {
+            "text": "**ATTENZIONE:** abilitando le impostazioni al di l\u00e0 di quelle specificate dal modulo Fieldtype\/Inputfield potrebbe non funzionare sempre, oppure potrebbe causare problemi."
+        },
+        "8b55debf249cfc13cc6dc6791ee5d69f": {
+            "text": "Di conseguenza, raccomandiamo di testare prima qualsiasi modifica a queste impostazioni in un ambiente di sviluppo (non produzione)."
+        },
+        "a28cb5dda04811b1ee1749f8b7a5b51d": {
+            "text": "Attenzione:"
+        },
+        "cb69676cc6783d1f5bf44dc1680f6e2a": {
+            "text": "Impostazioni in **grassetto** sono quelle che il modulo Fieldtype\/Inputfield permette di essere sovrascritte."
+        },
+        "efd28a1fcd7d855ff111e2f110ae0b20": {
+            "text": "Altre impostazioni potrebbero non funzionare."
+        },
+        "da23f7900566628f7658f3a693d6bfda": {
+            "text": "Dovresti deselezionare qualsiasi impostazione che non funziona, altrimenti potrebbe causare problemmi."
+        },
+        "28ac344e871bb5931c25502670d3e2fd": {
+            "text": "Etichetta che appare al di sopra del campo di input."
+        },
+        "405231013da488699f3761636027e651": {
+            "text": "La descrizione apparir\u00e0 in questo modo."
+        },
+        "0151b4b3cfa88e85b9387dc9490961cf": {
+            "text": "unico"
+        },
+        "ab17e61adc90fe446ec49fe7cd795864": {
+            "text": "sovrascritture\/contesti"
+        },
+        "e036648db74b48abc2b6af1d56d4596c": {
+            "text": "Cambiamenti"
+        },
+        "2e97680673e9f48756601bd5672b0d45": {
+            "text": "template %d"
+        },
+        "f78cb52b393842a378dcbee7bd241ffe": {
+            "text": "template %s"
         }
     }
 }

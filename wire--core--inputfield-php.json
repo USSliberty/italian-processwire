@@ -76,6 +76,12 @@
         },
         "b26d2db211d5748ab5ca3f2b5124e63a": {
             "text": "Larghezza colonna (%d%%)"
+        },
+        "4049392fac457a50d9eb641c5873f41e": {
+            "text": "Utilizza anche l'attributo HTML5 \"required\""
+        },
+        "e20047e93328484a90fd0cf82642d0ff": {
+            "text": "Utilizza solamente su campi sempre visibili all'utente."
         }
     }
 }

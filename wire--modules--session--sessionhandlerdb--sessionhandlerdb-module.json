@@ -25,6 +25,15 @@
         },
         "8883240d9c18322fd43dfd39c8b32e14": {
             "text": "Sessioni di login precedenti per \"%s\" sono state rimosse."
+        },
+        "38c612b0c7404dbf10629354dfc1ec43": {
+            "text": "Timeout blocco sessione (secondi)"
+        },
+        "b0736da4c0683db9382ba750a5f0073b": {
+            "text": "Se un lock per la sessione non pu\u00f2 essere ottenuto sul Database in questo intervallo temporale, verr\u00e0 inviato un errore \"%s\", suggerendo al client di riprovare nuovamente dopo %d secondi."
+        },
+        "c1ab83af87ac0bb0dab8511d14260c73": {
+            "text": "="
         }
     }
 }

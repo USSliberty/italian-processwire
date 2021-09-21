@@ -1,0 +1,42 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeToggle.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypetoggle-module",
+    "translations": {
+        "261e3b04ea1f3b5603314ddcc479e0cc": {
+            "text": "Che formattazione vuoi che abbia il valore del campo interruttore?"
+        },
+        "6309837e6ce0a3f0fa946345c7167eb3": {
+            "text": "Scegli il valore formattato ritornato da %s."
+        },
+        "be626e72635b0ea8fbdafa5d3028fcb4": {
+            "text": "Controlla le altre impostazioni per il campo Interruttore nella scheda \"Input\""
+        },
+        "f94e479441f41c15b899438240ca67d1": {
+            "text": "Per tutte le impostazioni sopra, una stringa vuota rappresenta sempre una non selezione."
+        },
+        "fa3b8249dcb2b9a523c69ba62614753f": {
+            "text": "Se un altra opzione \u00e8 abilitata, verr\u00e0 rappresentata dal numero 2."
+        },
+        "5e17d8d5bf6e642f015706c44be5b32c": {
+            "text": "Quando la formattazione dell'output \u00e8 disabilitata, il valore \u00e8 sempre un numero 0, 1, 2 (per No, Si, Altro) oppure una stringa vuota se non c'\u00e8 una selezione."
+        },
+        "3826ef10fef22663ed856d6a34ae4991": {
+            "text": "Numero Intero: 0=no, 1=si (nessuna formattazione)."
+        },
+        "e4233a81c5260370b0c97ab1ee5364ba": {
+            "text": "Booleano: Vero o falso per gli stati si\/no."
+        },
+        "53559d654a38f34b067b188cde584853": {
+            "text": "Stringa: Utilizza etichette di testo configurate nelle impostazioni \"Input\"."
+        },
+        "047f245cdf987a38461e1a12559ff71a": {
+            "text": "Entit\u00e0: Come sopra (stringa), ma la codifica HTML viene applicata all'output."
+        },
+        "87947648d1451650784ef832cbdc0983": {
+            "text": "Interruttore (Si\/No)"
+        },
+        "ed4f448d518712aadb3a62be1b48236e": {
+            "text": "Interruttore si\/no, acceso\/spento, pi\u00f9 un opzione \"altro\", configurabile come alternativa ad una checkbox."
+        }
+    }
+}

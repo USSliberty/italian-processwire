@@ -44,14 +44,41 @@
         "e7df9a3e1460bdfcaabe5b2e451a6594": {
             "text": "Nessun upload trovato"
         },
-        "c8e5b4f1bb72c62949a522f6925e80c8": {
-            "text": "Impossibile completare il download"
-        },
         "a4e29333ef852fef776eecdb5b3ac6a1": {
             "text": "Specificato un URL di download invalido"
         },
         "e830879e542fd52ca82f599ce41b6668": {
             "text": "Scaricato il file ZIP: %s (%d byte)"
+        },
+        "38933d5ecc7b9e5ac7859a9b6a1de7eb": {
+            "text": "Opzione \"%s\" di installazione modulo"
+        },
+        "d83612969f53282acff312397c6d8fa8": {
+            "text": "Estratto: %s"
+        },
+        "5fcb2e65954f268db4a5e500f8187817": {
+            "text": "abilita sempre"
+        },
+        "5e13c331fbe3baf04626f93b56d7fb30": {
+            "text": "temporaneamente"
+        },
+        "a1af683d99a3a6a621a2c27ec9e468fb": {
+            "text": "abilita solamente in modalit\u00e0 debug"
+        },
+        "060aa54c407428fd1b33c89d00abb0db": {
+            "text": "Per abilitare, modifica il file %1$s e specifica %2$s \u2026oppure\u2026 %3$s"
+        },
+        "7c67236ffb79ce4bb59a4ec3b5a3de0e": {
+            "text": "Questa opzione di installazione \u00e8 configurata per essere disponibile sono in modalit\u00e0 di debug."
+        },
+        "3d32978a99cfd1c17aa9effcace86b1c": {
+            "text": "Questa opzione di installazione \u00e8 correntemente disabilitata."
+        },
+        "43b2e82a51daa1adee20374e35b3caa9": {
+            "text": "Estratto %d file"
+        },
+        "aeb9dc1c219e430958416b2390306776": {
+            "text": "Estratti %d file"
         }
     }
 }

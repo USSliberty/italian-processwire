@@ -23,18 +23,6 @@
         "b896cdc3267a288d8a0082126a91cb06": {
             "text": "Raggiunto limite max file upload"
         },
-        "bed8a5795ff53ecfd7b9dab0face84b6": {
-            "text": "Decomprimo i file ZIP?"
-        },
-        "fab7f7d0de48baa58342b39e975c9aab": {
-            "text": "Se \u00e8 selezionato i file ZIP saranno decompressi e tutti i file validi saranno aggiunti come uploads (se supportato dal vostro hosting). Max files deve essere deve essere impostato a   (nessun limite) perch\u00e9 questa opzione sia funzionante."
-        },
-        "91015caeadb6afed86544257b5d796f5": {
-            "text": "Numero di righe per il campo descrizione?"
-        },
-        "27eebd9281cfaa6f4173d02986c9ad71": {
-            "text": "Inserisci il numero di righe disponibile per il campo descrizione dei file, oppure inserisci \"0\" per non avere un campo descrizione"
-        },
         "fbf221ff984c277d7fea5d290e817767": {
             "text": "Uno o pi\u00f9 files (ordinabili)"
         },
@@ -49,21 +37,6 @@
         },
         "5d28dcd09c5073bb0e454aee16d9b349": {
             "text": "Il file %s \u00e8 stato rifiutato perch\u00e9 \u00e8 gi\u00e0 presente nel file system ed \u00e8 associato a un campo differente."
-        },
-        "4839f7d2588943e6763c3c91cbd8d7f2": {
-            "text": "Sovrascrivi file esistenti?"
-        },
-        "35a96944722fb825db8bf04ab791c209": {
-            "text": "Se selezionato, un file caricato con lo stesso nome di un file esistente sostituir\u00e0 tale file (descrizione e tags resteranno). Se non selezionato, i nomi dei file saranno rinominati in modo da essere univoci."
-        },
-        "2713d4f20fb5e7947fb2bb844d57322d": {
-            "text": "Quando questa opzione \u00e8 attivata, i file caricati via AJAX saranno salvati con la pagina immediatamente all'upload, anzich\u00e9 quando viene premuto \"salva\". Lascia quest'opzione deselezionata a meno di particolari esigenze."
-        },
-        "1aac69c83eb57d215a710401956430f1": {
-            "text": "Disabilita le descrizioni multi-lingua?"
-        },
-        "9c0e34e99b5acfb622d682dabefa5578": {
-            "text": "Per impostazione predefinita, le descrizioni sono multi-lingua quando hai il Supporto Lingua installato. Se vuoi disabilitare le descrizioni multi-lingua seleziona questo campo."
         },
         "189f63f277cd73395561651753563065": {
             "text": "="
@@ -82,6 +55,15 @@
         },
         "d7c8c85bf79bbe1b7188497c32c3b0ca": {
             "text": "Fallito"
+        },
+        "e72ce31f0ee80699eb03ad6cc894fe3a": {
+            "text": "Estensione file non supportata, utilizza solamente: EXTENSIONS"
+        },
+        "6ebd01ddd3a5422eb7dcdd0ce4b677c7": {
+            "text": "Il file \u00e8 troppo grande - la dimensione massima permessa \u00e8 MAX_KB kb"
+        },
+        "c62fc670ac122455cc5853bf97130711": {
+            "text": "Il tipo \u201c%2$s\u201d del campo \u201c%1$s\u201d non \u00e8 supportato nel campo \u201c%3$s\u201d"
         }
     }
 }

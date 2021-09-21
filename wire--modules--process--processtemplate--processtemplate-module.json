@@ -71,9 +71,6 @@
         "5dd56426fff182e0610cc0bf9d389437": {
             "text": "Impostazioni specifiche di sistema"
         },
-        "bef497d3a07d13fedba143fc543e606d": {
-            "text": "Importa campi da un altro template"
-        },
         "0d4ca2b82aa1381b25348c8509009839": {
             "text": "Cancella template"
         },
@@ -95,14 +92,8 @@
         "6daa35fd97a645b8e37cae080eab3de9": {
             "text": "Aggiungi campo"
         },
-        "71bb941583eef6e3e5ed3eaad39cc315": {
-            "text": "Duplica campi usati da un altro template"
-        },
         "b6b0afb901a4db116f6b8403cf434280": {
             "text": "Come riferimento, questa \u00e8 una lista di campi usati da questo template. Questo template prende i campi dal template '%s'."
-        },
-        "0a18045f3c2d800b18fc146d3f16b97e": {
-            "text": "Se vuoi duplicare i campi usati da un altro template, selezionali qui. I campi gi\u00e0 presenti in questo template saranno lasciati cos\u00ec come sono."
         },
         "0f62a8abd379b96004d8118b0d9a2399": {
             "text": "Per memorizzare in cache l'output di questo template, inserisci il tempo (in secondi) in cui l'output sar\u00e0 lasciato in cache. Il Caching riduce considerevolmente il tempo di presentazione delle pagine molto pesanti. Il caching non dovrebbe tuttavia essere usato nei template che devono elaborare dati che cambiano costantemente, come dati provenienti da form o sessioni. Nota anche che anche segmenti di URL possono essere messi in cache, ma le variabili GET e POST no."
@@ -164,9 +155,6 @@
         "f32d42af055544c46a989bceee851733": {
             "text": "Inserisci opzionalmente uno o pi\u00f9 nomi di variabili. Se ne inserisci pi\u00f9 di uno separali con uno spazio."
         },
-        "f9c716f29bd379e49e4485ea8afd1556": {
-            "text": "Rinomina Template"
-        },
         "f1a2199b60e95006b3d66f9eb5a9e621": {
             "text": "Il nome usato come riferimento a questo template. Questo \u00e8 anche di default, il nome del file del template (con l'estensione .php) in \/site\/templates\/."
         },
@@ -175,9 +163,6 @@
         },
         "8d5a5a7af810d2ef80cf02082615c9dd": {
             "text": "Il file del template non \u00e8 scrivibile quindi lo devi rinominare manualmente (le istruzioni ti verranno date dopo il salvataggio)."
-        },
-        "30281e3b2fa626d5f52c833c541c84ac": {
-            "text": "Duplicare\/Clonare questo template ?"
         },
         "e9c90e0ba4fdd701df9d4ff73c82dc3e": {
             "text": "Nome alternativo per il nome del file del template"
@@ -350,12 +335,6 @@
         "1adb25e12d2b0d06683c3dc04e833631": {
             "text": "Mostra la pagina di Login: %s"
         },
-        "225237dc381e612f4bbf08dd75efdb71": {
-            "text": "Redireziona verso un altro URL"
-        },
-        "b12715241d6f9d36629e189651930f08": {
-            "text": "Questo campo \u00e8 applicabile solo se selezioni \"redireziona verso un altro URL\" nel campo sopra."
-        },
         "2f2055affca16d8404e278fc1d6c3a07": {
             "text": "Opzionale: Nell'URL, puoi anche includere il tag '{id}' (magari come variable GET), e verr\u00e0 sostituita dall'ID della pagina richiesta, se lo desideri."
         },
@@ -518,9 +497,6 @@
         "08b4ed72628b718cbe3158eb2eaf10a2": {
             "text": "Sistema"
         },
-        "ac97a1ad01bd7b48508de449e229a73d": {
-            "text": "Importa"
-        },
         "b2a6343356c7cf0f4c1aae50c2cac1b7": {
             "text": "Elimina"
         },
@@ -593,9 +569,6 @@
         "7f511c25eccff9ce7127eecfb136f443": {
             "text": "Ogni tag deve essere di una parola (il trattino \u00e8 ok)."
         },
-        "9238cda6a9c91cd5cc846791a49ba3ab": {
-            "text": "Per rendere una tag richiudibile nella lista dei template fai precedere alla parola un trattino, cos\u00ec: -hello"
-        },
         "a8d7050d17168bae58f775f20d56eeba": {
             "text": "Le pagine che hanno questo template possono avere figli?"
         },
@@ -625,9 +598,6 @@
         },
         "6f8d1b93e4aad53511c85e29ed36b3d0": {
             "text": "="
-        },
-        "ae89f7319ca951efb3ce055e92b8ade2": {
-            "text": "Definisci i campi che sono utilizzati da questo template. Puoi anche trascinare i campi nell'ordine desiderato oppure [creare un nuovo campo](..\/field\/add)."
         },
         "c5abeb6189c82d5b9d81bbcac604408b": {
             "text": "Stato della Cache"
@@ -796,9 +766,6 @@
         },
         "6540057c786960e596930c3041771293": {
             "text": "Per aggiungere pi\u00f9 content types vedi *contentTypes\" in in \/wire\/config.php (e aggiungili in \/site\/config.php)."
-        },
-        "57f844c4a5ccb54207fa22705e7729a3": {
-            "text": "Inserisci un URL o un ID pagina dove vuoi reindirizzare l'utente quando non ha l'accesso."
         },
         "ba9f2559a3fd0e360488de130ff7ab73": {
             "text": "Permetti l'accesso in modifica di essere ereditato ai figli?"
@@ -979,6 +946,129 @@
         },
         "f31f5e50313e32f1b8a1d38913e26023": {
             "text": "%d campi"
+        },
+        "9b2692fa9c25a63ff93341c03734c067": {
+            "text": "Gestisci tag"
+        },
+        "af6397fe799c6883d32c1904e226a176": {
+            "text": "Non disponibile per le seguenti ragioni"
+        },
+        "78f0addb345c31ce3601b53076e87281": {
+            "text": "Definisci i campi personalizzati per \"%s\". Non \u00e8 necessario configurare nient'altro."
+        },
+        "1ee7f0f967f1817a4d0df8dac4105ebc": {
+            "text": "Scegli i campi che saranno utilizzati da questo template e trascinali nell'ordine desiderato."
+        },
+        "2e5b330cc3f63247217f9a7aff0ba468": {
+            "text": "Puoi anche cliccare il nome o l'etichetta di un campo per modificarlo nel contesto di questo template, clicca\/trascina l'indicatore di percentuale per regolare la larghezza, oppure [crea un nuovo campo](%s)."
+        },
+        "5b55d084858290c6852cb1b0bd6be400": {
+            "text": "Salva questo template per rendere i nuovi campi editabili."
+        },
+        "8ad0889e260991fdddd4730a35287dad": {
+            "text": "Clicca e trascina per regolare la larghezza del campo"
+        },
+        "710392d799626a77535d30648716ddd3": {
+            "text": "Salva il template prima di regolare la larghezza di un nuovo campo"
+        },
+        "6d54a6464afb9baefe6dc9b5bb9407ba": {
+            "text": "Rinomina template"
+        },
+        "50b8391d080056ff0fef83460aec05c2": {
+            "text": "Duplica\/clona questo template"
+        },
+        "6a40b08ae62e68a7c0d75fbe482422bb": {
+            "text": "Copia campi da un altro template"
+        },
+        "8daeee7ba24747388991aebbef424aca": {
+            "text": "Se vuoi copiare i campi utilizzati da un altro template, selezionali qui. I campi gi\u00e0 presenti in questo template non verranno toccati."
+        },
+        "491b2e7db94dabf054ee83c101755e87": {
+            "text": "Reindirizza ad un altro URL oppure renderizza una pagina tramite ID"
+        },
+        "9f461848426762d3cf5e46a83b9f2657": {
+            "text": "Login redirect URL oppure ID pagina da renderizzare"
+        },
+        "ba5068f94547142a71a790f6dedc9a77": {
+            "text": "Inserisci l'URL a cui vuoi reindirizzare OPPURE l'ID della pagina che vuoi renderizzare quando un utente non ha accesso."
+        },
+        "9f0e0bbab28d57fef318155ea51c6d68": {
+            "text": "Se specifichi un ID di pagina, assicurati che la pagina possa essere renderizzata dall'utente a prescindere dai suoi permessi."
+        },
+        "1fa93855c234c32d0a9451ce1ef4fa6c": {
+            "text": "Questo \u00e8 importante nel caso l'accesso alla pagina di login stessa potrebbe essere protetto."
+        },
+        "793e0cc1771feadd7a91c0031e7ad663": {
+            "text": "Questa impostazione \u00e8 applicabile solo se scegli l'opzione \"C\" nel campo sopra."
+        },
+        "cd0cf5a5ee30d30f0261238f5875a33b": {
+            "text": "Previeni l'accesso diretto ai file di propriet\u00e0 delle pagine che usano questo template?"
+        },
+        "e29fbd4b3ab93bd36ba02701195f7267": {
+            "text": "Quando l'accesso diretto ad un file in [u]\/site\/assets\/files\/[\/u] \u00e8 bloccato, ProcessWire pu\u00f2 gestire la consegna del file invece di Apache."
+        },
+        "f0e7c1fdf80a62ce6751727bdba68f47": {
+            "text": "Questo permette il controllo degli accessi al file nello stesso modo della pagina che ne detiene la propriet\u00e0, mantenendo comunque lo stesso URL."
+        },
+        "cb3c9250730efdee741ff650f807d56a": {
+            "text": "Nota che sar\u00e0 pi\u00f9 dispendioso consegnare questo file in questo modo, pertanto scegli l'opzione \"Si sempre\" solo se veramente ne hai bisogno."
+        },
+        "09af5db524e775b4a1f701ef67479387": {
+            "text": "Testa sempre che il controllo degli accessi funzioni correttamente provando ad accedere ai file protetti usando il browser."
+        },
+        "825eaff6cfdbcc09fd32758d056e4742": {
+            "text": "Esegui questo test sia quando hai l'accesso (connesso) sia quando non lo hai (disconnesso)."
+        },
+        "eae07a5d655bbc5b0b66030482669d7b": {
+            "text": "(utilizza la configurazione generale del sito)"
+        },
+        "60b7601149e4f71061b2518b1fb1369f": {
+            "text": "Si quando la pagina non \u00e8 pubblicata, \u00e8 nel cestino oppure non \u00e8 pubblicamente accessibile."
+        },
+        "d761f031894f4f6b20d02ac34d62daa7": {
+            "text": "Si sempre, a prescindere dallo stato della pagina o dal controllo degli accessi"
+        },
+        "1ac66e7a4aef92762b695f5d268e693e": {
+            "text": "Rinominati %d percorsi di file pagina dovuto al cambiamento dell'opzione per i file sicuri"
+        },
+        "06ac19612d34194fee5bcab738cefe62": {
+            "text": "Il cambiamento all'opzione per i file sicuri verr\u00e0 applicata sull'accesso a ciascuno dei campi file\/immagine in %d pagine."
+        },
+        "b2c26a5234b7fb3fa549883f7c211bd3": {
+            "text": "Considera che questa operazione pu\u00f2 richiedere del tempo. Per applicarla a tutti subito, esegui il seguente codice API da un file di template:"
+        },
+        "8b3a3179c770d5cda3e5d38d7eb45ca2": {
+            "text": "Scegli tutti i template che dovrebbero ricevere questo tag"
+        },
+        "cb1828d1114a1e3b73c8ffd78723339c": {
+            "text": "Mostra come collassato nella lista dei template?"
+        },
+        "cdffd81250dc6c457665e79016900133": {
+            "text": "Per eliminare questo tag, rimuovilo da tutti i template."
+        },
+        "8958860efca6192ab40af3a1f2e17d48": {
+            "text": "Aggiunto il tag \"%1$s\" al template: %2$s"
+        },
+        "7a53b43fab8ccbe670792e7832ef2588": {
+            "text": "Rimosso il tag \"%1$s\" dal template: %2$s"
+        },
+        "b8bda8719893c4a385d4025c60c78ec2": {
+            "text": "I tag ti permettono di creare collezioni di template da elencare."
+        },
+        "9fc8691fab39cc1433cd39430edb0501": {
+            "text": "Aggiungi nuovo tag"
+        },
+        "a698a809093ad1c25ea277ff03ae5fc7": {
+            "text": "Azioni"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "+"
+        },
+        "b021df6aac4654c454f46c77646e745f": {
+            "text": "+"
+        },
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "+"
         }
     }
 }

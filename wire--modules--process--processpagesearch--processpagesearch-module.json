@@ -38,33 +38,6 @@
         "de95b43bceeb4b998aed4aed5cef1ae7": {
             "text": "modifica"
         },
-        "0ccb67e7eaae09d9e4078d161eeca100": {
-            "text": "Uguale"
-        },
-        "3255c386f4276b5c66f12d216ec71906": {
-            "text": "Non uguale"
-        },
-        "05824b7be006782aaefd1fdb97c71e06": {
-            "text": "Pi\u00f9 grande di"
-        },
-        "798fe01fcb2754a295b6937ed885a69a": {
-            "text": "Pi\u00f9 grande o uguale a"
-        },
-        "ad647e4ae904c7ed54ee93040d8298c7": {
-            "text": "Meno di"
-        },
-        "28d1141142e2cbb29e657b69a044ddf4": {
-            "text": "Uguale o meno di"
-        },
-        "45fc43a01c15bc63159695441dfacd63": {
-            "text": "Contiene la frase o la parola"
-        },
-        "e44edbd140708c448e991cde9d8dc0b2": {
-            "text": "Contiene frasi\/parole usando LIKE"
-        },
-        "593e63d42f95f6ad96cf700f80c2fe2c": {
-            "text": "Contiene tutte le parole"
-        },
         "4ecb0055aa1e66535afeaf6093585618": {
             "text": "Pagina di ricerca"
         },
@@ -88,12 +61,6 @@
         },
         "8aa55d906b86496efeb66b0eae7d75ce": {
             "text": "Pagine"
-        },
-        "13a4a02c365a44407beebb73dddbc554": {
-            "text": "Comincia con"
-        },
-        "6950a77d131f284826099392fd57701c": {
-            "text": "Finisce con"
         },
         "03164877c3d4b788308e3fbfe3199751": {
             "text": "="
@@ -146,14 +113,11 @@
         "f9702fc01ddd6b314fe6d74ac54995b6": {
             "text": "Operatore di ricerca per parole singole e parziali"
         },
-        "5187ed7cdf401218d2ae7263781350b8": {
-            "text": "Indica il supporto per le corrispondenze di parole parziali"
-        },
         "bbeff731bf48359f60959f600e6240c2": {
             "text": "Operatore di ricerca per parole multiple (frasi)"
         },
-        "3aaf625865081e0b0f1f8d001a9a06be": {
-            "text": "(in qualsiasi ordine)"
+        "608da9c856f25abd4d2a774f9c5aa9a0": {
+            "text": "(impostazioni per il tipo di pagine)"
         }
     }
 }

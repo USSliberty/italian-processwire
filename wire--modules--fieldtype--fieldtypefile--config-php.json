@@ -1,0 +1,216 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeFile\/config.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypefile--config-php",
+    "translations": {
+        "91f3a2c0e4424c87689525da44c4db11": {
+            "text": "File"
+        },
+        "130b3d918858ab70e130f882bed5edbe": {
+            "text": "Estensioni file permesse"
+        },
+        "b3f2fb9ff683cc6bb4e353a8c443260c": {
+            "text": "Inserisci tutte le estensioni file permesse da questo campo. Separa ogni estensione con uno spazio. Non inserire punti o virgole. Questo campo non distingue maiuscole o minuscole."
+        },
+        "ecc79534d4d067624a9ff21c9007cf0f": {
+            "text": "L'estensione file %s deve essere rimossa, inserita in whitelist, oppure deve avere un modulo di [validazione file](%s) installato."
+        },
+        "02c7048fd25999ef0196b9c702031e69": {
+            "text": "Estensioni file permesse senza validazione (whitelist)"
+        },
+        "8d0d44f9431f8dbb6599425c0d0a38a2": {
+            "text": "Queste estensioni file necessitano di un [modulo di validazione file](%s) installato. Deseleziona le estensioni che sono state disabilitate per sicurezza."
+        },
+        "3cf5aa280976802bec73910581f4dbe5": {
+            "text": "Per ignorare e permettere le estensioni dei file senza validazione, seleziona la casella di fianco (non raccomandato)."
+        },
+        "4c8ec65a891b88ab97e4c0ca89b1e161": {
+            "text": "Se un estensione non \u00e8 necessaria, rimuovila dalla lista."
+        },
+        "34f7d8569876cb1a4b73390d2d3528cd": {
+            "text": "Numero massimo di file"
+        },
+        "de38bb7cf785c7c8bdfc0e1011d3056a": {
+            "text": "(il valore 0 significa nessun limite)"
+        },
+        "6dab09cc3298db0a1910fa57b90351a2": {
+            "text": "Ciascun file pu\u00f2 avere una descrizione opzionale inserita nell'editor della pagina \u00e8 che pu\u00f2 essere mostrata in front-end."
+        },
+        "445c10f03463258c5646dfb9ddfc2622": {
+            "text": "Per esempio, comunemente si pu\u00f2 usare la descrizione come attributo \"alt\" durante il rendering dei tag `<img>` per le immagini."
+        },
+        "b17288f2ed130badc7ac8919f95fd5f1": {
+            "text": "Formattatori di testo (per le descrizioni dei file)"
+        },
+        "8d664d296530bbabc76043e4e499b272": {
+            "text": "Scegli uno o pi\u00f9 formattatori di testo (e il loro ordine) che verranno applicati alla descrizione dei file quando la formattazione \u00e8 attiva. Almeno l'opzione HTML Entity Encoder \u00e8 raccomandata."
+        },
+        "32409f0b1cd120b66cea293a46c8032e": {
+            "text": "Tag file"
+        },
+        "b55655b900ccd6c743eec6ca69d47a9a": {
+            "text": "I tag permettono di avere tag predefiniti oppure personalizzati da associare a ciascun file."
+        },
+        "6ab8e7e456ae5d6187a05f5c1a2c40ae": {
+            "text": "Se utilizzato, i file possono avere qualsiasi numero di tag."
+        },
+        "46b47d6ebfaf955b2ea2c4deb8acb7fa": {
+            "text": "I tag possono essere utili per categorizzare un file."
+        },
+        "7a1bc94ff553f83b21c9ad1248543c18": {
+            "text": "Per esempio, il tag `sidebar` potrebbe indicare un immagine che vuoi mostrare automaticamente nella barra laterale."
+        },
+        "4727ffde45e752b8d1c5ec4740b25444": {
+            "text": "Utilizzare i tag per i file?"
+        },
+        "8d550b9f7f5bde97eac6e78eea9f4ed2": {
+            "text": "Se abilitato, il campo conterr\u00e0 anche un opzione per la selezione (o l'inserimento) di tag per ciascun file."
+        },
+        "b32f1d32240c3f4298baf57f5f0d88b1": {
+            "text": "Selezione da una lista di tag predefiniti"
+        },
+        "18856ebc636a3ce5a3e083ddd831c949": {
+            "text": "Tag disabilitati"
+        },
+        "564d93d129c0a94937b12c4fafa4ad62": {
+            "text": "Inserimento tag tramite input di testo"
+        },
+        "83b7a060baaabcf327d37b63bf72bd63": {
+            "text": "pu\u00f2 inserire i propri"
+        },
+        "3dc8049d67dc4088f705f9d94bc48652": {
+            "text": "Tag file predefiniti"
+        },
+        "43bce07bd160232ee31114541357640c": {
+            "text": "Inserisci i tag separati da spazio. I tag possono contenere lettere, numeri, trattini o trattini bassi."
+        },
+        "a0af6bad96d7e79b06174600be6b480b": {
+            "text": "Esempio di utilizzo dei tag"
+        },
+        "30b3b29a9b14045e591d7409bf9b8172": {
+            "text": "Mostra tutti i file con il tag \"sidebar\""
+        },
+        "720288cbab99d3ca6e8994693a15df81": {
+            "text": "Identico a sopra utilizzando un altro metodo"
+        },
+        "d7c60080cfa6bf0157407cf8e592e9ca": {
+            "text": "Estrai un file che ha il tag"
+        },
+        "14d16d497322288077ddb51e1c9bad84": {
+            "text": "Mostra i tag per tutti i file"
+        },
+        "8faa7616b66ec7990abd90e6eb970b03": {
+            "text": "Documentazione:"
+        },
+        "f217d0fdc1aad53234d09e7107b25316": {
+            "text": "Valore formattato"
+        },
+        "f09906b55a7a66786de08cb25550a2c8": {
+            "text": "Scegli il tipo di valore che vuoi che questo campo riporti quando viene utilizzato via API nel front-end del tuo sito."
+        },
+        "c0e161ac2ecec98d0c8bb5f163c4b279": {
+            "text": "Quando la formattazione dell'output non \u00e8 abilitata, il valore sar\u00e0 sempre un array %s."
+        },
+        "086247a9b57fde6eefee2a0c4752242d": {
+            "text": "Automatico"
+        },
+        "4baa1a5e2258639723ac2c8c258297a5": {
+            "text": "(file singolo o null quando il numero massimo di file \u00e8 impostato a 1, array di pi\u00f9 elementi in caso contrario)"
+        },
+        "a9c9e7818e56124f98fd90168c0bb08c": {
+            "text": "Array di pi\u00f9 elementi"
+        },
+        "d19baaf6e0b64fcdc34a386b7c2298a6": {
+            "text": "File singolo se popolato, null se vuoto"
+        },
+        "c175f71a9a4f1e8a8c4aa7187be25d63": {
+            "text": "Stringa renderizzata di markup\/testo"
+        },
+        "4a989703a6000c30a09f5857fb7f20f0": {
+            "text": "(configurabile)"
+        },
+        "b74176f4828823f7800a9deafd8b0f4d": {
+            "text": "Esempio di utilizzo multi-file"
+        },
+        "cc58528899ff92480114494c1a8cbc7e": {
+            "text": "Esempio di utilizzo file singolo"
+        },
+        "1bc580809c796e521316a1a495084d38": {
+            "text": "p.e."
+        },
+        "fefb41e13016890d511b8d55d8057c37": {
+            "text": "Fornisci una stringa di testo che vuoi renderizzare come valore di questo campo. Se il campo contiene pi\u00f9 elementi, la stringa verr\u00e0 renderizzata pi\u00f9 volte. Se il campo non contiene alcun elemento, verr\u00e0 usata una stringa vuota."
+        },
+        "bc87ae1cea1ec39d98cb68f7198a23a4": {
+            "text": "Puoi usare qualsiasi dei seguenti tag segnaposto:"
+        },
+        "7b9324fd1b6cc33da6065e0338fd1828": {
+            "text": "Campi personalizzati"
+        },
+        "464b7386b281c4351c2b22a2968be583": {
+            "text": "I campi personalizzati ti permettono di definire testo, numeri e campi di selezione addizionali da utilizzare come metadata per ciascun file."
+        },
+        "bd02d4cb90800173cbefee03c4e39d1c": {
+            "text": "Utilizza questa funzionalit\u00e0 quando hai bisogno di qualcosa di pi\u00f9 di una descrizione o di tag."
+        },
+        "e96b5e4a44489720ddfd5c8f0bc7c8d4": {
+            "text": "Per maggiori informazioni, vedi: %s."
+        },
+        "674c8abf6416d34295dca28c074b951d": {
+            "text": "Come funzionano i campi personalizzati per file\/immagini"
+        },
+        "3301a70ba35b82ff2d2c48d2303befd4": {
+            "text": "Utilizzare i campi personalizzati per ciascun file?"
+        },
+        "edff576be0da9025ff8cdbc845f42557": {
+            "text": "Creato il template per il campo personalizzato: %s"
+        },
+        "eddbb22443a358c25b523a2b1ea13a27": {
+            "text": "I campi personalizzati sono abilitati e gestiti da un template."
+        },
+        "ca2a3a8473fef6a68aa88445b8a3f862": {
+            "text": "Utilizza il pulsante \"Modifica campi personalizzati\" qui sotto per aggiungere o modificare i campi che vuoi gestire per ciascun file."
+        },
+        "9cd6a4fe3407c8aa92eb4ed3b4066c49": {
+            "text": "La maggior parte dei campi di testo, numero e selezione funzioneranno, ma alcuni potrebbero non funzionare."
+        },
+        "8aa4af0a95c0601cf5b9ff0db1abdb16": {
+            "text": "Modifica campi personalizzati"
+        },
+        "2f91f0d53d469e691f68554022e7426b": {
+            "text": "Il template per i campi personalizzati \u00e8: %s"
+        },
+        "411de45d712bc52bf20397e686ced665": {
+            "text": "Per disabilitare in modo permanente i campi personalizzati per questo campo, elimina il template %s."
+        },
+        "b232b3febcd514c94d3a01ec7c90b727": {
+            "text": "Se abiliti i campi personalizzati, salva e ritorna qui per cofigurarli."
+        },
+        "918339f9d2be43fb1343a0999d91f7e2": {
+            "text": "Pagina che contiene il valore predefinito per questo campo"
+        },
+        "f4adf511dd72b27244f802b5ca027eca": {
+            "text": "Opzionalmente scegli una pagina che conterr\u00e0 il valore predefinito, in questo stesso campo."
+        },
+        "39eb21d8ba89f126ca77c936092fe041": {
+            "text": "Puoi creare una pagina specificatamente per questo scopo."
+        },
+        "0debf9bf73234ccd8ef3a4f6f0afc5c8": {
+            "text": "La pagina selezionata deve avere un campo `%s` popolato con uno o pi\u00f9 file."
+        },
+        "a0d1f6d231d53462451ca80f74dce859": {
+            "text": "Tipo di Inputfield per il campo file"
+        },
+        "d5d6f34e6e58f9351e36d93c982eff52": {
+            "text": "Il tipo di campo che verr\u00e0 usato per l'input dei file di questo campo."
+        },
+        "9cdd19f51364783933fefd557c7cd644": {
+            "text": "Cambia questo valore solo se imposto dalle istruzioni di un modulo Inputfield di terze parti."
+        },
+        "d51491292f62e94821f0fb6802cc1849": {
+            "text": "Moduli Fieldtype permessi per i campi personalizzati"
+        },
+        "100061c6a3b1c84e1a3617988f77bd88": {
+            "text": "I tipi barrati probabilmente non sono compatibili al 100%."
+        }
+    }
+}

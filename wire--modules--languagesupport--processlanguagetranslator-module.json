@@ -1,0 +1,171 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/ProcessLanguageTranslator.module",
+    "textdomain": "wire--modules--languagesupport--processlanguagetranslator-module",
+    "translations": {
+        "2df236e737fce3ea9b2aafd92aefabf8": {
+            "text": "Lingua non valida\/sconosciuta"
+        },
+        "c739fa5cd3140c5f6d9c874c9f7f0c06": {
+            "text": "Non hai i permessi per modificare questa lingua."
+        },
+        "1cadf174f70d643ae126661933c29496": {
+            "text": "Nessun file in questa lingua per il campo %s"
+        },
+        "cf9b6034d657b9e496cf2507c0ed54b2": {
+            "text": "Scegli File"
+        },
+        "97b4a79a9a82063ffc66201622b97961": {
+            "text": "Scegli un file (o pi\u00f9 file) e clicca Invia per creare nuove traduzioni per %s."
+        },
+        "7f4f03f8ce0547dc27519ec6aaba5274": {
+            "text": "File traducibili in %s"
+        },
+        "f6da161610e69fd47285a4fb73023161": {
+            "text": "File di traduzione esistenti"
+        },
+        "9310f3093e8580c52cbbadc2e4298018": {
+            "text": "Nessun file di traduzione esiste"
+        },
+        "2c1b934717b59076f55e53b7a097efbb": {
+            "text": "Inserisci file da tradurre"
+        },
+        "ad5156526794edff80df65b5362dd4c1": {
+            "text": "Inserisci il percorso e il nome del file da tradurre. Questo dovrebbe essere relativo alla radice di installazione."
+        },
+        "81eeab9506186e2dca8faefa78d54067": {
+            "text": "Esempio:"
+        },
+        "9a7e6c43d5ae842c6aff819f4853ef76": {
+            "text": "Aggiorna elenco dei file"
+        },
+        "b259a9c95331e8ade9dca22c5fb2062c": {
+            "text": "Aggiunto %s"
+        },
+        "d0a467da1b045cff8ba333833df858bd": {
+            "text": "Trovato %s"
+        },
+        "56ebdb7fbca39f9ec77bf8e994b127ae": {
+            "text": "Questo file \u00e8 gi\u00e0 nel sistema"
+        },
+        "4ff5d8112871bb3d23262bb8611f507b": {
+            "text": "Questo file non ha frasi traducibili"
+        },
+        "e8edb193e1cb171a17efe2765d72af71": {
+            "text": "Il file non esiste"
+        },
+        "201cd1463929afbbd095c4803262ceae": {
+            "text": "Quando non \u00e8 tradotto, verr\u00e0 utilizzato il testo \u201c%1$s\u201d, il quale \u00e8 tradotto da \u201c%2$s\u201d."
+        },
+        "b2d2f26148deb14bf22ab1fcd1d231a1": {
+            "text": "Se non viene fornito alcun testo, verr\u00e0 utilizzata la traduzione comune \"**%s**\"."
+        },
+        "54380879a24d554e549d4d18f998dfa9": {
+            "text": "Inserisci un simbolo di addizione \"**+**\" per marcare questo campo come tradotto."
+        },
+        "c5bd6d3cb3eba13bfb553d4f6cd34d84": {
+            "text": "Sono state trovate le seguenti traduzioni inutilizzate. Questo significa che il testo originale non tradotto \u00e8 stato cambiato o eliminato. Si raccomanda di eliminare le traduzioni abbandonate a meno che non decidi di mantenerle per copiarle\/incollarle in una nuova traduzione."
+        },
+        "1b296d99ce0be35a6e13ff0465794ea0": {
+            "text": "[vuoto]"
+        },
+        "786a3ffbf64dbd32b887357bfb981ab3": {
+            "text": "Elimina?"
+        },
+        "cea7ade6fb9d07ee7e46b6c003d3ea0a": {
+            "text": "Impossibile caricare il textdomain"
+        },
+        "96847fc3fd81c6824a46038486c7a966": {
+            "text": "Il file non esiste:"
+        },
+        "620c3d12b2ebf6fba6fc8ca8bd7d5f7e": {
+            "text": "(file di traduzioni non necessario? textdomain: %s)"
+        },
+        "048378af50897cd55a4fba47686151da": {
+            "text": "Traduci: %1$s in %2$s"
+        },
+        "cc3280a236d930bb719b4bbd4e60618b": {
+            "text": "Ciascuno dei campi input di seguito rappresenta un blocco di testo da tradurre."
+        },
+        "2373d8c961aba6c7a710d9e28796fc94": {
+            "text": "Il testo mostrato immediatamente sopra ogni campo di input \u00e8 il testo che dovrebbe essere tradotto in %s."
+        },
+        "2201c8e27207f315872b8dade43506d6": {
+            "text": "Se lasci un campo di input vuoto, verr\u00e0 utilizzato il testo non tradotto."
+        },
+        "28879280857d9ccc118fbd72fc972ad0": {
+            "text": "Se la traduzione \u00e8 identica all'originale, puoi utilizzare il simbolo uguale \"=\" per il testo che verr\u00e0 segnato come tradotto."
+        },
+        "24e75fc33422e42d84ba0fc01cdc8579": {
+            "text": "Puoi anche [scaricare](%1$s) o [vedere](%2$s) il file CSV con queste traduzioni, modficarlo e quindi [caricarlo nuovamente](%3$s)."
+        },
+        "45f6644c6b04fc718813131f29eb414f": {
+            "text": "Il textdomain per questo file \u00e8: %s"
+        },
+        "936fa205069d0afdfda6096184e8479d": {
+            "text": "Mostra solamente i blocchi di testo non tradotto"
+        },
+        "4ec2fa1aa32d93e6fd11a255fc3507bc": {
+            "text": "+"
+        },
+        "fbf51b23dec9d964dea27ac78b55f042": {
+            "text": "Salva + Successivo"
+        },
+        "6f90a6f3d4f23a403a3ce6988c1ee05b": {
+            "text": "Salvato %s"
+        },
+        "77ee287e7787dda03867ac2f9b312990": {
+            "text": "Non c'\u00e8 nessun altro file da editare."
+        },
+        "b817c7fc9a774b9a22172e59c228a9cb": {
+            "text": "%s non esiste o non \u00e8 una cartella"
+        },
+        "c5e313f97cfed8076c6f3700a1ebb121": {
+            "text": "="
+        },
+        "569502b1966b126a6efe0caa41995ea1": {
+            "text": "Costruisci un indice di ricerca delle frasi"
+        },
+        "4e6dc4bdaf134f7fad78b433b1939a65": {
+            "text": "="
+        },
+        "1fee8873d9207b652a71dd813056be96": {
+            "text": "Permette la traduzione dei file e dei moduli di ProcessWire"
+        },
+        "8c34ba0c56e244ea1276950be05e92a9": {
+            "text": "="
+        },
+        "d701be1df4973dc762ea09d103d876e4": {
+            "text": "frasi"
+        },
+        "2de802188057514240806136db489f15": {
+            "text": "ultima modifica"
+        },
+        "efa359764bf5df35c0cf83f31bae2b03": {
+            "text": "Scegli File"
+        },
+        "6cd01f187c7933a6cdd3999fa688c85e": {
+            "text": "Traduci File"
+        },
+        "d5778a8b84efb3233d070016adb93326": {
+            "text": "+"
+        },
+        "35cce6ee9c7d52816335cd71a8cc8bdd": {
+            "text": "%d traduzione abbandonata"
+        },
+        "5f26b7cdb0df95ffde976ce9b5aa776c": {
+            "text": "%d traduzioni abbandonate"
+        },
+        "1a8046c237a8b5598bdbe32fab01c78a": {
+            "text": "% traduzione cambiata"
+        },
+        "d551aba9d90e56853a0f2b1c19e57ad1": {
+            "text": "%d traduzioni cambiate"
+        },
+        "958a564da0596b34819d36e7a4c27b0a": {
+            "text": "%d traduzione abbandonata rimossa"
+        },
+        "cdaca5c503d1eb7163af5ec57f2e5bc9": {
+            "text": "%d traduzioni abbandonate rimosse"
+        }
+    }
+}

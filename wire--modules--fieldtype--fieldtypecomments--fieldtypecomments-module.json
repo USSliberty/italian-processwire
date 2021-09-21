@@ -235,6 +235,12 @@
         },
         "1f2f44c370f66e4d06d25042e93e39c1": {
             "text": "Disabilitato"
+        },
+        "13bf9d7a10643fcd246e4c242499f945": {
+            "text": "Permetti commenti nelle notifiche?"
+        },
+        "898ded7b2375a02a2642e39971e59cd3": {
+            "text": "Se selezionato, l'intero testo del commento apparir\u00e0 anche nelle email di notifica, invece che solo come link."
         }
     }
 }

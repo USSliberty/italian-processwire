@@ -13,6 +13,9 @@
         },
         "2af316156c9ea64d6d56bfe221486efd": {
             "text": "Se selezionata, i dati per questo campo verranno caricato in ogni istanza della pagina, anche se non vengono usati. Se non selezionata, i dati verranno caricati quando servono e solo se si accede direttamente al campo."
+        },
+        "cacb4064843717606a3301b974b6f959": {
+            "text": "Valore non permesso per il campo \"%s\" perch\u00e9 \u00e8 gi\u00e0 in uso"
         }
     }
 }

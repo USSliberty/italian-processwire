@@ -107,9 +107,6 @@
         "eb629addbfc0dd4a0353d6defff81923": {
             "text": "Tipo di URL per i link di pagina"
         },
-        "6b02648ef824ca0a58b9a40518ff1152": {
-            "text": "Assoluto (default)"
-        },
         "2c8a0fad581fd58be051633bfdaa53d0": {
             "text": "URL relativi solamente negli stessi rami"
         },
@@ -118,6 +115,12 @@
         },
         "2453cc3c047929e3210a51607202b8bb": {
             "text": "*Sperimentale"
+        },
+        "63a11faa3a692d4e00fa8e03bbe8a0d6": {
+            "text": "Testo link"
+        },
+        "9d622cf09c8c619959d7e4712908b73a": {
+            "text": "Percorso assoluto dalla root (default)"
         }
     }
 }

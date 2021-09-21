@@ -194,9 +194,6 @@
         "0900a3f6adfa931e0130c02c436e7e7f": {
             "text": "Nome della Classe"
         },
-        "3b0798392299a74418470d3f13b5eec2": {
-            "text": "La directory dei moduli \u00e8 visualizzabile all'indirizzo [modules.processwire.com](http:\/\/modules.processwire.com)"
-        },
         "def68ae90aac3e065c37457bc36d22f8": {
             "text": "="
         },
@@ -418,6 +415,81 @@
         },
         "a2eff7125bf22d0665eb96166b471821": {
             "text": "Scrivi o incolla il nome della classe per il modulo che vuoi installare, quindi clicca il pulsante \"%s\" per procedere."
+        },
+        "9508427b7e6579d141f8c3b79dae6d96": {
+            "text": "Aggiungi modulo manualmente"
+        },
+        "f464b54239700029744e7426935c782b": {
+            "text": "File mancanti del modulo in: %s"
+        },
+        "2aee0be2678ee90fd327cc186826438e": {
+            "text": "Mancante"
+        },
+        "95044757c9e0df8925fe4a63a324d3d8": {
+            "text": "Moduli nel database che non hanno corrispondenza sul file system. Clicca su qualsiasi nome del modulo di seguito per visualizzare opzioni di risoluzione."
+        },
+        "5e836e5f23db2e182bbf94e2c151afd7": {
+            "text": "La directory dei moduli \u00e8 disponibile in %s"
+        },
+        "dc54208b35a531502358bc307e9366ed": {
+            "text": "="
+        },
+        "35d7f630296905e9a75b2419e1b94182": {
+            "text": "1. Copia i file del modulo in una nuova cartella %s sul server."
+        },
+        "f7cc8104813457b0243bd76df9c6a3e6": {
+            "text": "2. Clicca il pulsante \"%s\" di seguito per trovare il nuovo modulo."
+        },
+        "850f7ec6c49d2fb734785a8f52ad4a0e": {
+            "text": "3. Trova e clicca il pulsante \"%s\" di fianco al nuovo modulo."
+        },
+        "aad2eb78d1969fc8b53488a5f5a054ba": {
+            "text": "Sostituisci \"%s\" con il nome del modulo, tipicamente \u00e8 il nome della classe PHP."
+        },
+        "744cbb13a2d60fe8be0889a49e0bee00": {
+            "text": "La classe del modulo deve implementare l'interfaccia \"ProcessWire\\Module\""
+        },
+        "fb61fc284cf893013b55de02da9c9948": {
+            "text": "Modulo: %s"
+        },
+        "4cd91aa9e2204807c18ccb578305c357": {
+            "text": "file modulo non trovato"
+        },
+        "608c857d1ec057cf85a2776ae9d2e0f1": {
+            "text": "Il modulo \"%s\" esiste nel database ma non sul file system."
+        },
+        "3f7ac7b9e02123a6f7ad6b0a30d22b6d": {
+            "text": "Aggiungi i file del modulo in %s oppure rimuovi il modulo dal database."
+        },
+        "5726ea1babd2fd38df90eb9181ccc652": {
+            "text": "Rimuovere questo modulo dal database?"
+        },
+        "20cdc25923bd223a0616adb565cd34c4": {
+            "text": "Rimosso modulo dal database"
+        },
+        "7d571db09020671aab5f5a8eb76c4b06": {
+            "text": "Aggiornato modulo %1$s per utilizzare il file: %2$s"
+        },
+        "8569fe11869eab4756b242c9cdc6ad92": {
+            "text": "installa traduzioni"
+        },
+        "bf07f89fd86a5f3f7e8adb1833ce11bb": {
+            "text": "Nessun file di lingua \u00e8 disponibile per il modulo"
+        },
+        "4ba2c3760d90822344a0ef877706ceca": {
+            "text": "Traduzioni per il modulo"
+        },
+        "b7b039d0210f657d8600e7356ac5016c": {
+            "text": "Importa traduzioni per il modulo %s"
+        },
+        "aa62c21c0ac6b3651b220804c8633047": {
+            "text": "Importa in %s"
+        },
+        "a73e218ed0a476a4a5ac1a3f5aef776f": {
+            "text": "Non trovo alcun file CSV"
+        },
+        "1ce6b5b21ba628d92d00fd22b0c87730": {
+            "text": "Lingue"
         }
     }
 }

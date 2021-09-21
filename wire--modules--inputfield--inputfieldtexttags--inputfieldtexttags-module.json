@@ -1,0 +1,132 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldTextTags\/InputfieldTextTags.module",
+    "textdomain": "wire--modules--inputfield--inputfieldtexttags--inputfieldtexttags-module",
+    "translations": {
+        "5ada8a9286e44da2221cd82e3ec857be": {
+            "text": "Rimosso il valore tag invalido: %s"
+        },
+        "fcf2ecb6c5c5991e49690fd12f0950dd": {
+            "text": "Opzioni selezionabili\/sorgente tag"
+        },
+        "a1d8d28cd17bc9713cb6d9bf779b1422": {
+            "text": "Specifica qui i valori"
+        },
+        "2d4026ab7ebafbc34d0c0cee4bc6a8f9": {
+            "text": "Carica da un URL (ajax)"
+        },
+        "6b1b91dab4876004505181d49ae7bc27": {
+            "text": "Utilizzare opzioni\/pagine ajax?"
+        },
+        "e793cb635b6f498edd8f78ecaa4f1cc3": {
+            "text": "Se abilitato, si comporter\u00e0 come un campo auto-complete dove verranno trovate le pagine corrispondenti alla query dell'utente."
+        },
+        "26644aceea0417eed7cc9b89b5d217fe": {
+            "text": "Dovrai fornire un \"URL Ajax\" (mostrato sotto quando si seleziona \"Si\") per eseguire la query. Un esempio di codice \u00e8 incluso."
+        },
+        "113e5eb7479e4757efe217b2b4df3a9c": {
+            "text": "Se non \u00e8 abilitato, tutte le opzioni selezionabili verranno popolate a runtime."
+        },
+        "860b7a69d838e2a510f79123bb657026": {
+            "text": "Le opzioni\/pagine ajax sono utili quando il numero di pagine selezionabili \u00e8 elevato."
+        },
+        "9cba2db480057b2c65e239915198a3bc": {
+            "text": "Considera questa opzione quando ci sono centinaia o migliaia (o pi\u00f9) pagine che possono essere selezionate."
+        },
+        "8d303ccb1721972ffbf890a84a24c7a5": {
+            "text": "Lista di opzioni\/tag predefiniti"
+        },
+        "dcf387ef8e5f3f0bbd745b1855a2a9a5": {
+            "text": "Inserisci i tag predefiniti, 1 per linea. Per definire valore ed etichetta in modo separato, specifica `value=label` su ciascuna linea."
+        },
+        "b23854b10090d03184c424927a1c221f": {
+            "text": "I tag non possono contenere il delimitatore selezionato sotto, ma le etichette invece si."
+        },
+        "3f29cea14274476fd290ab2357acf53b": {
+            "text": "Per definire etichette separate per lingua, inserisci nuovamente ciascun tag `value=label` per ciascuna lingua, dove `value` \u00e8 identico per ciascuna linea, mentre solo `label` cambia."
+        },
+        "863a617186799199c167888e3f858ed7": {
+            "text": "Esempio di handler URL nel file %s per l'URL %s"
+        },
+        "0e3fd3cf510a091336f62cffa8fed928": {
+            "text": "Copia e incolla quest'URL nel campo sopra se vuoi utilizzare l'esempio di seguito."
+        },
+        "ae43497613e9bce166e79c93a3a3288f": {
+            "text": "URL Ajax"
+        },
+        "578b189f9605804a55dec2f726107836": {
+            "text": "Quando inserisci un URL, l'input dell'utente verr\u00e0 utilizzato per cercare gli elementi corrispondenti tramite auto-complete."
+        },
+        "3094591b42aeeae0f6f5743dd58ff360": {
+            "text": "L'URL indicato deve contenere il segnaposto `{q}` al suo interno, il quale verr\u00e0 sostituito con il testo inserito dall'utente."
+        },
+        "6de08d5e99d2f49b707fbe84bf2babc4": {
+            "text": "Puoi specificare un URL assoluto http\/https oppure un URL relativo."
+        },
+        "b9b2836d05319756a7f9b1797166d2c5": {
+            "text": "Nel caso di un URL relativo (senza schema\/host), lo schema, l'host e l'URL radice verranno prefissi a runtime."
+        },
+        "3d68dddcd3aa8f6a61b89149dc3cd5ac": {
+            "text": "Dovrai anche definire un URL handler come nell'esempio seguente."
+        },
+        "c55228ab9fb65392d44a1ad232555e5b": {
+            "text": "Il percorso `%s` dell'URL \u00e8 solamente un esempio, puoi sostituirlo con qualsiasi cosa tu voglia."
+        },
+        "61900119c9b2f987bb0f2784d219d460": {
+            "text": "L'esempio cerca i titoli delle pagine da usare come tag, ma puoi usare qualsiasi sorgente dati che preferischi."
+        },
+        "a4ead355e5bbbd25f264cae5a69d5d72": {
+            "text": "inserisci qui il tuo selettore pagina"
+        },
+        "1505f61747adf41e94a27b064a284b40": {
+            "text": "Fai attenzione che se cambi l'impostazione \"Pagine selezionabili\" oppure \"Campo etichetta\", dovrai anche aggiornare il codice dell'URL handler."
+        },
+        "6aa01c4fdc82ff85bc6299056ef15167": {
+            "text": "Il segnaposto \u201c{q}\u201d \u00e8 richiesto nell'URL Ajax."
+        },
+        "4c38a85c32ea7ee51ac917693c988269": {
+            "text": "Permettere all'utente di inserire i propri tag?"
+        },
+        "f03041db1e5b27242c249d020d997331": {
+            "text": "Chiudere il menu a tendina dopo ciascuna selezione?"
+        },
+        "e077077fcf3ef41f3ad162f4cc681209": {
+            "text": "(per tag formati da una singola parola)"
+        },
+        "826be3095514fef3d79e6f899b887ecc": {
+            "text": "(per tag formati da pi\u00f9 parole)"
+        },
+        "dfb1a97826511d6e6732545b6e536bd5": {
+            "text": "Delimitatore tag"
+        },
+        "d511f8439ecde36647437fbba67a4394": {
+            "text": "Spazio"
+        },
+        "58be47db9455679e6a44df2eff9c9fa6": {
+            "text": "Virgola"
+        },
+        "2ab1f3f893823298751fdf60b4e0365a": {
+            "text": "Pipe"
+        },
+        "4192f616db902e9df5391f247482d3b8": {
+            "text": "Numero massimo di tag\/opzioni"
+        },
+        "66553e3b94c6fdf004b777c7e8187afd": {
+            "text": "Utilizza 0 per nessun limite oppure inserisci il numero massimo di opzioni\/tag che l'utente pu\u00f2 selezionare o inserire."
+        },
+        "fd9b78d0ec0b8004cc27a0872e531698": {
+            "text": "Se inserisci 1 il campo di input apparir\u00e0 come una select invece che come un input di testo."
+        },
+        "910370309c0af1e93df0ae98ff8cfe5a": {
+            "text": "Testo segnaposto"
+        },
+        "70bf9b371944c2d5b1adf809a356f607": {
+            "text": "Segnaposto opzionale che apparir\u00e0 nel campo quando sar\u00e0 vuoto"
+        },
+        "350efb22a387fd0b416e2835e7ddd4e8": {
+            "text": "="
+        },
+        "28e1cc9b637fcfb04e136e18800240ff": {
+            "text": "Abilita l'input utente di tag oppure selezione di tag predefiniti."
+        }
+    }
+}

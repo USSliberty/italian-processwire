@@ -88,6 +88,12 @@
         },
         "596d1c90537af3c3c588dceedde6bf03": {
             "text": "(richiesto perch\u00e9 ereditato dal ruolo guest)"
+        },
+        "1900cd4f8e202940060d2129a70df995": {
+            "text": "Questo permesso \u00e8 ereditato ai figli e attraverso l'albero delle pagine, a meno che non venga sovrascritto da una pagina utilizzando un template con differente controllo degli accessi."
+        },
+        "2c32a8fe6caf47e8f89b0929211639df": {
+            "text": "I template con un astesico (*) sono configurati in modo da ereditare i permessi di modifica ai figli e attraverso l'albero delle pagine, a meno che non siano sovrascritti da una pagina che utilizza controllo degli accessi differente."
         }
     }
 }

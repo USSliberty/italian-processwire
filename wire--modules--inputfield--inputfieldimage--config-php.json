@@ -1,0 +1,126 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldImage\/config.php",
+    "textdomain": "wire--modules--inputfield--inputfieldimage--config-php",
+    "translations": {
+        "fefc3e3c3400216f77f0b3c6b12adfb7": {
+            "text": "Funzionalit\u00e0 di input"
+        },
+        "34ad9feb46d0ae8a8ab105230c7e5e1a": {
+            "text": "Modalit\u00e0 predefinita griglia immagini"
+        },
+        "c53c009277b900e7292c4b49f07ddaec": {
+            "text": "Nel pannello, la lista di immagini apparir\u00e0 in questa modalit\u00e0 predefinita. L'utente potr\u00e0 cambiarla in ogni momento cliccando sulle icone del campo nell'angolo in alto a destra."
+        },
+        "e6c7b90087278c53b5361182358a2d92": {
+            "text": "Se hai usato questo campo di recente, dovrai eliminare i cookie prima di poter visualizzare i cambiamenti a questa impostazione."
+        },
+        "a188c29fb8020eee47113073e366f78e": {
+            "text": "Griglia immagini quadrate"
+        },
+        "06d5ddb736061086ad90f364eca1c56d": {
+            "text": "Griglia immagini proporzionali"
+        },
+        "fa996d5ac4351e7e603f3ab1b9f77afe": {
+            "text": "Lista verticale (verboso)"
+        },
+        "e0f4085735da81540154c2c351147301": {
+            "text": "Selezione del punto focale"
+        },
+        "f6a9e8b3977d98dd0e4b7b13720c858b": {
+            "text": "Abilita la selezione del punto focale per il soggetto di un immagine. Questo pu\u00f2 aiutare nella creazione di ritagli non proporzionali."
+        },
+        "17450a5a8844e5a36f3911d94bea2b72": {
+            "text": "Un anteprima del punto focale \u00e8 mostrata anche quando le immagini sono in modalit\u00e0 \"Griglia immagini quadrate\""
+        },
+        "470ede3fd1e5fcf4fca77d7fbf5df11a": {
+            "text": "Punto focale"
+        },
+        "2d07823e1de7d7eb6f09477f9070524f": {
+            "text": "Punto focale e zoom"
+        },
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "+"
+        },
+        "84a327773a9172357f703ebdbb28680b": {
+            "text": "Dimensioni massime immagine"
+        },
+        "ef375d406da59811c42dc0f5a245dca3": {
+            "text": "Inserisci opzionalmente la larghezza massima e\/o l'altezza delle immagini caricate. Se specificato, le immagini verranno ridimensionate durante il caricamento quando eccedono la larghezza o l'altezza massima. Il ridimensionamento \u00e8 effettuato durante il caricamento, pertanto non inficia su nessuna immagine del sistema oppure su quelle aggiunte via API."
+        },
+        "16e3e850ce20fe9fa8340e6d27693f61": {
+            "text": "Si applica alle immagini JPG, PNG e GIF."
+        },
+        "1a2b9bdaad8fc3ebd6b83463a0def69e": {
+            "text": "Inserisci il valore in pixel o lascia vuoto per non impostare limiti."
+        },
+        "e69ccb31941d2fd7923c6b0c01957db3": {
+            "text": "Larghezza massima per le immagini caricate"
+        },
+        "c58e466902d0ff945d0677114e41682b": {
+            "text": "Altezza massima per le immagini caricate"
+        },
+        "9fdc5bac96032d0465aa6cc6543d1871": {
+            "text": "Come ridimensionare alla dimensione massima"
+        },
+        "434352c2b6134b909827f386b3644f0f": {
+            "text": "Utilizzare il ridimensionamento lato client ti permette di ridurre le dimensioni del file prima del caricamento."
+        },
+        "c265ab5c0405e78595f05a15d5279278": {
+            "text": "Quanto si utilizza il ridimensionamento lato client, specifica sia la larghezza massima che l'altezza massima nei campi superiori, oppure il numero massimo di megapixel nel campo sottostante."
+        },
+        "edcf99dacdc6160d6eb8d2efb90ee189": {
+            "text": "Utilizza il ridimensionamento lato client quando possibile"
+        },
+        "4421a363b922af1808ae2b258c9d11bb": {
+            "text": "Utilizza solo il ridimensionamento lato server"
+        },
+        "41d833b452340b52caa65fdcfe181945": {
+            "text": "Numero massimo di megapixel per le immagini caricate"
+        },
+        "86d448ef6f037ce16fc358a22921c45c": {
+            "text": "Questo pu\u00f2 essere usato in alternativa alle dimensioni massime. Specifica il valore usando un numero in virgola mobile."
+        },
+        "bd035d6e1aa04d38e61f36c27150e39d": {
+            "text": "Si applica solamente al ridimensionamento lato client."
+        },
+        "fe64c68c1aa30e687be4aa011b33f15f": {
+            "text": "Un buon valore per i siti web \u00e8 1.7 che \u00e8 circa  1600x1000 pixel, dove 1600 e 1000 possono essere la larghezza oppure l'altezza."
+        },
+        "c719e0f0e40f5193e0bbe6f9afc408e5": {
+            "text": "Altri esempi:"
+        },
+        "a29b9e543bb7bc0f4b7e2c04d0a1c820": {
+            "text": "Qualit\u00e0 JPEG in percentuale per il ridimensionamento lato client"
+        },
+        "ab00b0c8eb852647eee9553c75a100fe": {
+            "text": "Specifica un numero tra 10 (qualit\u00e0 inferiore\/file di dimensioni pi\u00f9 piccole) e 100 (qualit\u00e0 superiore\/file di dimensioni maggiori). Il valore predefinito \u00e8 90."
+        },
+        "dffe78c5f55b8a4187b91c40a03cf904": {
+            "text": "Rifiutare immagini che eccedono le dimensioni massime?"
+        },
+        "aa09d92fbba4044af814b7504798dec3": {
+            "text": "Se selezionato, le immagini che eccedono la larghezza\/altezza (che non possono essere ridimensionate lato client) verranno rifiutate anzich\u00e9 ridimensionate."
+        },
+        "2d77facadb02370d5dd7c076b5afbee7": {
+            "text": "Dimensione minima immagini"
+        },
+        "a195023920e6ece61b6211755c9af27f": {
+            "text": "Opzionalmente inserisci la larghezza minima e\/o l'altezza minima delle immagini caricate. Se specificato, le immagini che non rispettano questi requisiti verranno rifiutate."
+        },
+        "d704e5da0e9e4ca2aa3e04201575f44c": {
+            "text": "Larghezza minima per le immagini caricate"
+        },
+        "b477617de997199bdd26761085aea486": {
+            "text": "Altezza minima per le immagini caricate"
+        },
+        "a39e1de5e7b995d90322ab7d047428bc": {
+            "text": "Inverti dimensioni minime\/massime per le immagini verticali?"
+        },
+        "7f3d934927a1c106f5191c01b36c7766": {
+            "text": "Se selezionato, le dimensioni minime e massime verranno invertite per le immagini verticali in modo da accomodare le diverse proporzioni."
+        },
+        "98ebe60c452735dc2ef2249c835eddfe": {
+            "text": "Si applica solo al ridimensionamento lato server."
+        }
+    }
+}

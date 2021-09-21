@@ -11,9 +11,6 @@
         "ea4788705e6873b424c65e91c2846b19": {
             "text": "="
         },
-        "c6996a9b16d74c744965162e5cf0a35e": {
-            "text": "Inserisci il tuo codice di autenticazione per completare il login."
-        },
         "659bdd9c46c5d70535873ddb56cafd06": {
             "text": "Numero massimo di tentativi raggiunto"
         },
@@ -40,6 +37,30 @@
         },
         "e9b342b9b4fa34f406761f626823a71b": {
             "text": "Tipo di autenticazione a 2 fattori"
+        },
+        "90d6f81578cb44ed4be183c66d52c7f9": {
+            "text": "Dopo aver effettuato o cambiato una selezione, invia il form e torna qui per configurarlo"
+        },
+        "e8b4a77d06cf81dc696a4a31e6a46ae2": {
+            "text": "Rimuovi i browser ricordati che non necessitano di inserire il codice di autenticazione"
+        },
+        "f8b67530ae39d240111ec69291985123": {
+            "text": "Rimuovi i browser ricordati"
+        },
+        "02737b9a82aa8e3b6e9090dcdbcd2431": {
+            "text": "Ricorda su questo computer?"
+        },
+        "4e74313cb658d8e75c33cc16caa0b078": {
+            "text": "Questo computer\/browser verr\u00e0 ricordato fino a %d giorni."
+        },
+        "5e54e7c01119f2724ce0acbd4c8f6ed3": {
+            "text": "I cambiamenti al browser e\/o luogo potrebbero richiedere un nuovo codice."
+        },
+        "287f75369eba76b6634a6cdf2f1cb915": {
+            "text": "Il codice non \u00e8 richiesto perch\u00e9 il browser \u00e8 stato riconosciuto da un login precedente."
+        },
+        "2f8ed7fafd3c1784a3be4da8eb3d106a": {
+            "text": "="
         }
     }
 }

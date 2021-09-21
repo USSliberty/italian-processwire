@@ -2,9 +2,6 @@
     "file": "wire\/modules\/Process\/ProcessPageLister\/ProcessPageListerBookmarks.php",
     "textdomain": "wire--modules--process--processpagelister--processpagelisterbookmarks-php",
     "translations": {
-        "369edfa695c186fc693c7cdfea26b6d2": {
-            "text": "Nota per il superuser: altri utenti possono vedere e cliccare i segnalibri, ma non possono aggiungerli e modificarli."
-        },
         "1dd63dcbc0f27a97c60433bff0936901": {
             "text": "Modifica segnalibro"
         },
@@ -17,17 +14,8 @@
         "644a574fca8608c6447c23ba5c9fb907": {
             "text": "Quali ruoli potranno visualizzare questi segnalibri? Se nessun ruolo verr\u00e0 selezionato, allora tutti i ruoli con il permesso di utilizzare questa lista potranno vedere il segnalibro."
         },
-        "b527a6bf9b3ed589e44e5a4dc8cc40d4": {
-            "text": "Ordinamento dei segnalibri"
-        },
         "bfa974ff994bf6af816d695d88659fda": {
             "text": "Elimina questo segnalibro?"
-        },
-        "33d64e5e020fcfcd6bf5b5edc3634211": {
-            "text": "Eliminato segnalibro: %s"
-        },
-        "d04ee192f5a72f20e89abe7acb7225f3": {
-            "text": "Salvato segnalibro: %s"
         },
         "84233339a29fc410e77ac95e377b0318": {
             "text": "Segnalibri"
@@ -35,23 +23,11 @@
         "bdb19863504282bccbd04237092c8ecb": {
             "text": "Segnalibro"
         },
-        "25f8473f61fb614f277d48e8bf5be8d2": {
-            "text": "Selettore"
-        },
-        "cd765bc6c6872048db5bb4cb9181392f": {
-            "text": "Colonne"
-        },
         "0a88328254c6d3104aaf5aa1416e5493": {
             "text": "Accesso"
         },
-        "16f46652aa3bae21e3e051daba507193": {
-            "text": "Azione"
-        },
         "97d0cf512abc18c75dc4200fb4102696": {
             "text": "tutti"
-        },
-        "fbfa318e948c32434209e9dec12f5342": {
-            "text": "Modifica"
         },
         "624cb003e73151369680ecae1fe53f47": {
             "text": "Titolo"
@@ -65,8 +41,65 @@
         "a68194569adc7b00a73840fceb912c24": {
             "text": "Accesso"
         },
-        "5979876e287f07dc59597ec2139675c2": {
-            "text": "Elimina"
+        "7cdd12aae1c258859c039c4d544338ef": {
+            "text": "I miei segnalibri"
+        },
+        "7f4b49b68a661359eaa86b12fd09cdce": {
+            "text": "Segnalibri pubblici"
+        },
+        "639bae9ac6b3e1a84cebb7b403297b79": {
+            "text": "tu"
+        },
+        "4195dd0db33f6f97904fd72fa4386de9": {
+            "text": "Seleziona la casella per confermare che vuoi eliminare questo segnalibro"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "+"
+        },
+        "d448b4319171ecbd0c92be8ddbff245b": {
+            "text": "Tipo di segnalibro"
+        },
+        "47f9082fc380ca62d531096aa1d110f1": {
+            "text": "Privato"
+        },
+        "3d067bedfe2f4677470dd6ccf64d05ed": {
+            "text": "Pubblico"
+        },
+        "c8a5544122c29a7c5ad0d117b19851d6": {
+            "text": "Permettere ad altri utenti di accedere all'URL di questo segnalibro?"
+        },
+        "c3cb8a8cca3fc5a906f5c4aa252a856a": {
+            "text": "Se invii l'URL del segnalibro a qualcun altro che \u00e8 gi\u00e0 connesso al pannello di amministrazione, potranno vedere il segnalibro se questa casella \u00e8 selezionata."
+        },
+        "aea2613b569e126e1bf04794045d9214": {
+            "text": "URL condivisibile del segnalibro: [Vedi](%s)"
+        },
+        "a240fa27925a635b08dc28c9e4f9216d": {
+            "text": "Ordine"
+        },
+        "6756b991b141463aebfaa74809adb83c": {
+            "text": "Segnalibro eliminato"
+        },
+        "4192fc415b996e703cd7368de70024b2": {
+            "text": "Segnalibro non eliminabile"
+        },
+        "611554e91bd3fc300cb89db36b831c82": {
+            "text": "+"
+        },
+        "5a8bc98a8e1cbe7e4aa65ef02ca4626e": {
+            "text": "Azioni"
+        },
+        "3964c1856a3770efc8de99fb7d71854f": {
+            "text": "Vedi"
+        },
+        "2403884dadada347eaf8537a2dc0e572": {
+            "text": "Modifica"
+        },
+        "2ae0c04d53921492ca01d03f4913b75b": {
+            "text": "+"
+        },
+        "997a44675b11fac14a95280eda5557f5": {
+            "text": "+"
         }
     }
 }

@@ -361,6 +361,24 @@
         },
         "2623934b184a9c5b44a0c9992499b5f6": {
             "text": "Genitore"
+        },
+        "19959897b0f9d04ebbea294594c10f5d": {
+            "text": "Questa pagina potrebbe avere uno o pi\u00f9 campi incompleti (prova a salvarla o a pubblicarla per avere pi\u00f9 informazioni)"
+        },
+        "c71458ba699635fcdbc6a15dd2b81c4c": {
+            "text": "Rimosso il contrassegno perch\u00e9 nessun errore \u00e8 stato segnalato durante il salvataggio"
+        },
+        "f5fafb7927ee3b6486882051f8f1c9b4": {
+            "text": "Aggiunto stato: %s"
+        },
+        "a8e9b386531e893ec224b5712121f1fe": {
+            "text": "Rimosso stato: %s"
+        },
+        "9d4409be42bd401755ef515b91df93bc": {
+            "text": "(solamente nella lingua predefinita)"
+        },
+        "0bcdea7c9e6f5289b7cf4c51e001a8fa": {
+            "text": "Unico: Richiede che il nome della pagina \"%s\" sia unico globalmente"
         }
     }
 }

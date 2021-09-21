@@ -1,0 +1,81 @@
+{
+    "file": "wire\/modules\/System\/SystemUpdater\/SystemUpdaterChecks.php",
+    "textdomain": "wire--modules--system--systemupdater--systemupdaterchecks-php",
+    "translations": {
+        "b39229143b1147a73a48df31c1231d8c": {
+            "text": "Pi\u00f9 problemi rilevati, controlla:"
+        },
+        "cea2995cd3259dca15a20b501b1e458b": {
+            "text": "Il file %s non \u00e8 aggiornato con questa versione di ProcessWire, aggiornalo appena possibile."
+        },
+        "18dd427864e5d5894d6427b120729661": {
+            "text": "Per silenziare questo avvertimento, sostituisci o aggiunti il seguente in cima al tuo file .htaccess:"
+        },
+        "3ce93c026eb9e6490b97440cb30648ac": {
+            "text": "Benvenuto in ProcessWire!"
+        },
+        "b5e8bf8e4ff52c6a5284ed10f7951738": {
+            "text": "Se questa installazione \u00e8 utilizzata per lo sviluppo o il testing, ti raccomandiamo di abilitare la modalit\u00e0 di debug."
+        },
+        "ecd4a06df60ea2b6392432bbd11f1d76": {
+            "text": "La modalit\u00e0 di debug assicura che tutti gli errori siano visibili, in modo da aiutare durante lo sviluppo."
+        },
+        "917cf9b7a671b533087c8f7b0bf8d157": {
+            "text": "Inoltre abilita ulteriori informazioni di sviluppo nell'interfaccia di amministrazione."
+        },
+        "cb6a03bb5f07396e7eca71a86ad46e43": {
+            "text": "Puoi abilitare la modalit\u00e0 di debug nel tuo file %s aggiungendo il seguente:"
+        },
+        "f1d50e08fba3212773302367c8513449": {
+            "text": "Questa notifica non verr\u00e0 mostrata nuovamente. Ricordati di disabilitare la modalit\u00e0 di debug prima di spostare il sito in produzione."
+        },
+        "233b54b5df8647fadbfb62e9c4def925": {
+            "text": "Avviso di sicurezza: il file '%s' esiste e dovrebbe essere eliminato il prima possibile."
+        },
+        "7ba9982e6cae459db14db8bad5ad68b9": {
+            "text": "Attenzione, i permessi del file %s sono troppo ampi per molti ambienti:"
+        },
+        "748befe7a5d432caba8b6cadc4076e92": {
+            "text": "Leggi \"Protezione dei permessi dei file\" per maggiori dettagli"
+        },
+        "5ff81a1ae7c80f730595ed1100007665": {
+            "text": "Per sopprimere questo avviso, aggiungi i seguenti al file %s:"
+        },
+        "359a712bdea64131ff4e83fbc7233af6": {
+            "text": "Attenzione: hai un campo chiamato \"published\" che \u00e8 in conflitto con la propriet\u00e0 \"published\" della pagina."
+        },
+        "e51b9afa44f26fb147585eda2b708808": {
+            "text": "Rinomina il tuo campo e aggiorna tutti i template che lo referenziano."
+        },
+        "60d0f1128804dfd5fa013c3d02c67012": {
+            "text": "L'impostazione locale attuale \u00e8 \"%s\"."
+        },
+        "9cdeee8e8a463c558dc372434cc5dbb1": {
+            "text": "Nota: l'impostazione locale del server non funziona regolarmente con la codifica UTF-8 e potrebbe causare problematiche minori."
+        },
+        "f8239d6a9013fae244731a805aa50b09": {
+            "text": "Traduci l'impostazione locale \"C\" per ciascuna lingua nel locale compatibile in %s"
+        },
+        "d5877d284caca4c9b4d55adb8e6e758c": {
+            "text": "Per esempio, l'impostazione locale per US English potrebbe essere: %s"
+        },
+        "7ca79a1980d88028a56fcee7c711685e": {
+            "text": "Aggiungi questo al file %1$s (regola \u201c%2$s\u201d come richiesto):"
+        },
+        "6ed94bc4b5b5d4c1bfd4c90792c39c68": {
+            "text": "Il sito \u00e8 in modalit\u00e0 di debug, indicata per siti in sviluppo"
+        },
+        "1ffd655d9788eba2b285e4363eab7b51": {
+            "text": "Questo \u00e8 un sito in produzione pertanto dovresti disabilitare la modalit\u00e0 debug in %1$s con: %2$s"
+        },
+        "8f0362971b64ae326b6a57f21f9d5ce4": {
+            "text": "Versione richiesta %1$s, Trovata versione: %2$s."
+        },
+        "d331f06185da085f65656f31a7a8a795": {
+            "text": "Impossibile localizzare il file richiesto: %s"
+        },
+        "0d61f8370cad1d412f80b84d143e1257": {
+            "text": "="
+        }
+    }
+}

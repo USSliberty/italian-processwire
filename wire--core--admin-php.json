@@ -25,6 +25,9 @@
         },
         "cfdf33cbd93768327b807066fb473750": {
             "text": "Abilita l'autenticazione a due fattori"
+        },
+        "7d1e877f40bcb7e917038fddfbc95043": {
+            "text": "Hai raggiunto il valore massimo di %d per l'impostazione PHP \"max_input_vars\" \u2014 incrementalo se possibile."
         }
     }
 }

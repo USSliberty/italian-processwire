@@ -211,6 +211,12 @@
         },
         "522779383d7b7d46168fcc8ae1c5d4a5": {
             "text": "Di default, questo modulo includer\u00e0 attributi width nel tag img. Se utilizzi immagini responsive, potresti voler disabilitare questo comportamento. Seleziona la casella per disabilitare attributi width e height."
+        },
+        "0a52da7a03a6de3beefe54f8c03ad80d": {
+            "text": "Originale"
+        },
+        "4ea9ef823adbf374c74a5ef6316a18e2": {
+            "text": "%s delle sopra"
         }
     }
 }
